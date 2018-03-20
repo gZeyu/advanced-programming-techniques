@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 import sys
+import os
 import re
 import timeit
 
@@ -12,7 +13,6 @@ def format_time(time_string):
     seconds = int(elements[2])
     milliseconds = int(elements[3])
     time_stamp = ((hours * 60 + minutes) * 60 + seconds) * 1000 + milliseconds
-
     return time_stamp
 
 
@@ -35,7 +35,6 @@ def read_subtitle_file(filename):
 
     milliseconds = 0
     word_count = 0
-
     with open(filename, 'r') as file:
         text = file.readlines()
         for i in range(len(text)):
@@ -45,19 +44,36 @@ def read_subtitle_file(filename):
                     elements[0])
                 word_count += len(segment_word(text[i + 1]))
     frequency = word_count / (milliseconds / 60000)
-
-    # print(word_count)
-    # print(milliseconds / 60000)
     return frequency
 
 
-def func():
-    read_subtitle_file('discoverycuriositys01e06.eng.srt')
+def get_subtitle_filename_list(path):
 
+    filename_list = list()
+    for file in os.listdir(path):
+        filename = os.path.join(path, file)
+        if '.eng.srt' in filename:
+            filename_list.append(filename)
+    return filename_list
+
+
+def task(filename_list):
+
+    result = dict()
+    for filename in filename_list:
+        frequency = read_subtitle_file(filename)
+        result[filename] = frequency
+    return result
+
+
+# def func():
+
+#     read_subtitle_file('discoverycuriositys01e06.eng.srt')
 
 if __name__ == '__main__':
 
-    t = timeit.repeat(
-        'func()', 'from __main__ import func', number=1, repeat=5)
-    print(t)
-    print(min(t))
+    # t = timeit.repeat(
+    #     'func()', 'from __main__ import func', number=1, repeat=5)
+    # print(t)
+    # print(min(t))
+    get_subtitle_filename_list('./srt')

@@ -1,0 +1,2808 @@
+﻿16
+00:06:55,600 --> 00:06:57,100
+{\an8}{\pos(185.6,49.901)}.
+
+17
+00:06:56,010 --> 00:06:57,100
+{\an8}{\pos(228.267,57.0297)}.
+
+18
+00:06:56,520 --> 00:06:57,100
+{\an8}{\pos(150.4,193.188)}.
+
+19
+00:00:00,950 --> 00:00:03,430
+This is a worldwide alert.
+
+20
+00:00:03,590 --> 00:00:05,680
+Standby for important information
+
+21
+00:00:05,680 --> 00:00:06,630
+Quarantine.
+
+22
+00:00:07,570 --> 00:00:09,330
+The president is dead.
+
+23
+00:00:09,620 --> 00:00:12,160
+This is an extinction scale event.
+
+24
+00:00:12,900 --> 00:00:14,290
+Do not panic.
+
+25
+00:00:16,550 --> 00:00:18,560
+Three years after the first infection,
+
+26
+00:00:18,560 --> 00:00:20,830
+national governments have fallen.
+
+27
+00:00:20,830 --> 00:00:23,230
+There is no cure.
+
+31
+00:00:38,500 --> 00:00:39,230
+Go!
+
+32
+00:00:39,480 --> 00:00:40,240
+Go!
+
+33
+00:00:56,510 --> 00:00:58,390
+Cease fire! Save your ammo, Valdez.
+
+34
+00:00:58,420 --> 00:00:59,450
+Save your ammo.
+
+36
+00:01:01,540 --> 00:01:04,090
+Delta-Xray-Delta. This is Camp Northern Light.
+
+37
+00:01:04,090 --> 00:01:04,950
+Come in.
+
+38
+00:01:05,190 --> 00:01:07,370
+Delta-Xray-Delta. This is Camp Northern Light.
+
+39
+00:01:07,370 --> 00:01:08,040
+Come in.
+
+40
+00:01:08,040 --> 00:01:09,450
+Why haven't they evacuated?
+
+41
+00:01:09,650 --> 00:01:11,120
+The extraction team is still in route.
+
+42
+00:01:11,120 --> 00:01:12,770
+Their initial landing site was overrunning.
+
+43
+00:01:12,770 --> 00:01:15,330
+And I can't get anyone from Delta-Xray on the radio.
+
+44
+00:01:15,330 --> 00:01:16,370
+Well keep trying.
+
+45
+00:01:16,370 --> 00:01:17,930
+Here are the new destination coordinates.
+
+46
+00:01:17,930 --> 00:01:19,350
+Two more minutes and they're on their own.
+
+47
+00:01:19,350 --> 00:01:21,370
+We evac as soon as the plane's loaded.
+
+48
+00:01:21,370 --> 00:01:22,310
+Keep everything hot.
+
+49
+00:01:22,310 --> 00:01:22,860
+Who knows
+
+50
+00:01:22,860 --> 00:01:23,940
+We might be back someday.
+
+51
+00:01:23,940 --> 00:01:25,600
+Two minutes. Move it people!
+
+52
+00:01:25,600 --> 00:01:27,410
+Come on, Hernandez! Out of there! Let's go!
+
+53
+00:01:27,630 --> 00:01:28,980
+Delta-Xray-Delta.
+
+54
+00:01:28,980 --> 00:01:30,930
+Come in.
+
+55
+00:01:34,010 --> 00:01:36,770
+This is Delta-Xray-Delta! Who the hell are you?
+
+56
+00:01:36,770 --> 00:01:38,130
+This is Simon Cruller, sir.
+
+57
+00:01:38,130 --> 00:01:39,900
+I'm a Sys Op working for the NSA.
+
+58
+00:01:39,900 --> 00:01:40,960
+Camp Northern Light.
+
+59
+00:01:40,960 --> 00:01:42,760
+I have new orders for you from Cent Com.
+
+60
+00:01:42,950 --> 00:01:44,320
+Little busy right now.
+
+61
+00:01:44,350 --> 00:01:45,010
+Yes, sir.
+
+62
+00:01:45,010 --> 00:01:47,560
+We're about to bug out ourselves so I'll get right to it.
+
+63
+00:01:47,730 --> 00:01:50,230
+I have GPS coordinates for your new destination.
+
+64
+00:01:50,230 --> 00:01:52,920
+It's the CDC Mass Infection Lab
+
+65
+00:01:52,920 --> 00:01:54,090
+on Mount Wilson.
+
+66
+00:01:54,210 --> 00:01:56,580
+You're to escort Doctor Merch and any other survivors
+
+67
+00:01:56,580 --> 00:01:59,130
+to this location. It's Priority Level One!
+
+68
+00:01:59,280 --> 00:02:00,540
+Hey! Hey! Are you sure?!
+
+69
+00:02:00,540 --> 00:02:02,180
+These coordinates are in California!
+
+70
+00:02:02,180 --> 00:02:03,380
+That's a roger, sir.
+
+71
+00:02:03,880 --> 00:02:05,160
+Where's my chopper?
+
+72
+00:02:05,430 --> 00:02:07,170
+I'm showing that it's still inbound sir.
+
+73
+00:02:07,170 --> 00:02:09,660
+But don't you worry, Delta-Xray. I'm not going anywhere.
+
+74
+00:02:09,660 --> 00:02:12,130
+You get us the hell out of here! You hear me?!
+
+75
+00:02:15,880 --> 00:02:17,050
+This gate won't hold them.
+
+76
+00:02:17,660 --> 00:02:19,410
+You keep them off as long as you can.
+
+77
+00:02:19,570 --> 00:02:21,390
+Then you fall back to the lab. Okay?
+
+78
+00:02:21,390 --> 00:02:23,840
+I'll evacuate the others. You can do this.
+
+79
+00:02:52,350 --> 00:02:53,560
+We don't have time for this.
+
+80
+00:02:53,560 --> 00:02:55,370
+We can't stop yet!
+
+81
+00:02:55,370 --> 00:02:57,780
+This is our last chance to test the new strains.
+
+82
+00:02:57,960 --> 00:03:00,540
+No!
+
+83
+00:03:00,540 --> 00:03:02,030
+They don't look like volunteers to me.
+
+84
+00:03:02,030 --> 00:03:03,780
+Millions of people are dying for no reason.
+
+85
+00:03:03,780 --> 00:03:06,000
+These men are gonna die to help us find a vaccine.
+
+86
+00:03:06,140 --> 00:03:07,830
+If it works, one of them may outlive us all.
+
+87
+00:03:07,830 --> 00:03:09,450
+Yeah, well why don't you take it then, huh?
+
+88
+00:03:09,450 --> 00:03:10,220
+Don't worry.
+
+89
+00:03:10,380 --> 00:03:13,240
+If it doesn't work out, I'll make sure you don't come back.
+
+90
+00:03:13,240 --> 00:03:14,470
+Fantastic.
+
+91
+00:03:14,710 --> 00:03:17,450
+In accordance with the Emergency Executive Order section seven,
+
+92
+00:03:17,450 --> 00:03:19,330
+you are hereby notified that you have been selected
+
+93
+00:03:19,330 --> 00:03:21,350
+for exposure to an experimental substance.
+
+94
+00:03:21,350 --> 00:03:22,000
+We got rights.
+
+95
+00:03:22,000 --> 00:03:23,150
+We're still human you know.
+
+96
+00:03:23,150 --> 00:03:24,720
+Should the test fail, all efforts will be made
+
+97
+00:03:24,720 --> 00:03:25,830
+to contact your next of kin.
+
+98
+00:03:25,830 --> 00:03:27,060
+Signed, President Lindsay Barton.
+
+99
+00:03:27,060 --> 00:03:28,010
+I thought that bitch was dead!
+
+100
+00:03:28,010 --> 00:03:29,430
+Not when she signed this order.
+
+101
+00:03:29,430 --> 00:03:30,510
+No! No! No!
+
+102
+00:03:30,510 --> 00:03:31,460
+Now! Do it now!
+
+103
+00:03:31,460 --> 00:03:33,450
+No! No!
+
+104
+00:03:57,200 --> 00:03:58,250
+Five minutes!
+
+105
+00:03:58,410 --> 00:03:59,600
+And we're out of here!
+
+106
+00:04:04,940 --> 00:04:06,830
+The evac better get here soon.
+
+107
+00:04:36,250 --> 00:04:37,530
+I give you mercy.
+
+108
+00:04:40,130 --> 00:04:41,150
+Time to go.
+
+109
+00:04:41,240 --> 00:04:42,340
+He's right.
+
+110
+00:04:42,340 --> 00:04:43,710
+Outta time. No more testing today.
+
+111
+00:04:43,710 --> 00:04:44,500
+No! No! No! No!
+
+112
+00:04:44,500 --> 00:04:46,320
+No! No! No! No! No! No! No! No! No!
+
+113
+00:04:55,500 --> 00:04:56,570
+It's Valdez.
+
+114
+00:05:16,950 --> 00:05:18,670
+Air Cav - Whiskey Bravo Six,
+
+115
+00:05:18,670 --> 00:05:19,520
+this is Northern Light.
+
+116
+00:05:19,520 --> 00:05:21,040
+I have eyes on your approach.
+
+117
+00:05:21,240 --> 00:05:23,300
+You're right on top of them man. Awesome flying.
+
+118
+00:05:23,300 --> 00:05:25,590
+Delta Xray is bringing out survivors now.
+
+119
+00:05:25,590 --> 00:05:26,770
+Good luck, Whisky Bravo.
+
+120
+00:05:26,770 --> 00:05:27,770
+We're out the door ourselves.
+
+121
+00:05:27,900 --> 00:05:29,170
+Catch you in the next life, sir.
+
+122
+00:05:29,170 --> 00:05:30,530
+Northern Light signing off.
+
+123
+00:05:34,390 --> 00:05:35,280
+You're coming with me.
+
+124
+00:05:36,150 --> 00:05:37,770
+Wait! Where are you going?
+
+125
+00:05:38,290 --> 00:05:39,700
+Don't leave me to the zombies man.
+
+126
+00:05:39,700 --> 00:05:42,500
+Don't leave me! Don't let me turn, you bastard!
+
+127
+00:05:42,500 --> 00:05:43,230
+Pike me!
+
+128
+00:05:43,390 --> 00:05:46,690
+Pike me or I will hunt you down and eat your brains!
+
+129
+00:06:01,130 --> 00:06:03,390
+He was our last hope at finding a vaccine.
+
+130
+00:06:03,890 --> 00:06:04,900
+Now you are.
+
+131
+00:06:06,010 --> 00:06:06,700
+Come on.
+
+132
+00:06:07,470 --> 00:06:08,210
+Hey doc!
+
+133
+00:06:09,100 --> 00:06:11,080
+If I'm not back in two minutes,
+
+134
+00:06:11,080 --> 00:06:12,610
+you tell them to leave without me.
+
+135
+00:06:12,610 --> 00:06:13,200
+No!
+
+136
+00:06:13,470 --> 00:06:14,460
+Yes! Go ahead! Go!
+
+137
+00:06:14,520 --> 00:06:15,210
+Go!
+
+140
+00:07:08,980 --> 00:07:10,870
+*The beautiful, beautiful river*
+
+141
+00:07:11,190 --> 00:07:14,960
+*Gather with the saints at the river*
+
+142
+00:07:14,960 --> 00:07:19,110
+*That flows by the throne of God*
+
+143
+00:07:22,900 --> 00:07:24,440
+To Nana Griswold.
+
+144
+00:07:24,650 --> 00:07:26,060
+A true survivor.
+
+145
+00:07:28,000 --> 00:07:30,160
+Not many grandmothers left these days.
+
+146
+00:07:30,160 --> 00:07:31,870
+Especially as old as Nana was.
+
+147
+00:07:32,950 --> 00:07:34,620
+How old was she anyway?
+
+148
+00:07:34,680 --> 00:07:35,900
+Sixty-three.
+
+149
+00:07:36,020 --> 00:07:37,030
+Wow. That's old.
+
+150
+00:07:37,030 --> 00:07:38,310
+Sixty-four.
+
+151
+00:07:38,310 --> 00:07:40,360
+And I'm not dead yet.
+
+152
+00:07:42,370 --> 00:07:44,110
+But I think it's time.
+
+153
+00:07:51,640 --> 00:07:52,840
+You can all go now.
+
+154
+00:07:58,740 --> 00:08:00,050
+Do you have her special?
+
+155
+00:08:02,600 --> 00:08:03,810
+I'll take it from here.
+
+156
+00:08:08,260 --> 00:08:09,070
+Ready, Nana?
+
+157
+00:08:09,300 --> 00:08:11,060
+Hell yes I'm ready.
+
+158
+00:08:11,160 --> 00:08:14,110
+I've had enough of this stinkin' world.
+
+159
+00:08:14,920 --> 00:08:17,270
+Sofia Christina Griswold.
+
+160
+00:08:18,010 --> 00:08:19,870
+With this eight sacrament
+
+161
+00:08:20,430 --> 00:08:23,830
+I commit your soul to eternal peace.
+
+162
+00:08:24,430 --> 00:08:27,210
+I give you...mercy.
+
+163
+00:08:29,690 --> 00:08:33,930
+*The beautiful beautiful river*
+
+164
+00:08:34,200 --> 00:08:37,870
+*Gather with the saints at the river*
+
+165
+00:08:37,870 --> 00:08:41,890
+*That flows by the throne of God*
+
+166
+00:08:43,750 --> 00:08:45,190
+This is Garnett to Warren.
+
+167
+00:08:45,190 --> 00:08:46,750
+Garnett to Warren, over
+
+168
+00:08:47,620 --> 00:08:49,350
+Go for Warren. What's up Charlie?
+
+169
+00:08:49,520 --> 00:08:51,970
+I'm at the water's edge, could use a little backup.
+
+170
+00:08:52,470 --> 00:08:53,470
+Two minutes.
+
+171
+00:09:04,320 --> 00:09:05,230
+What is it?
+
+172
+00:09:05,640 --> 00:09:07,740
+I guess a distress signal?
+
+173
+00:09:08,480 --> 00:09:09,450
+How do you want to handle it?
+
+174
+00:09:09,940 --> 00:09:11,210
+Been watching them for a while.
+
+175
+00:09:11,210 --> 00:09:13,180
+As far as I can tell it's just two males.
+
+176
+00:09:13,230 --> 00:09:14,320
+Let's see what they want.
+
+177
+00:09:14,320 --> 00:09:15,920
+Can always turn them back around.
+
+178
+00:09:19,900 --> 00:09:21,210
+How did Nana's Eighth go?
+
+179
+00:09:22,100 --> 00:09:24,650
+Very good. Good people.
+
+180
+00:09:26,050 --> 00:09:29,740
+Thanks for doing it. I just...
+
+181
+00:09:29,740 --> 00:09:31,740
+can't anymore. Too many...
+
+182
+00:09:32,500 --> 00:09:35,370
+It's okay. She was ready to go.
+
+183
+00:09:35,990 --> 00:09:37,120
+Hmmm. Aren't we all.
+
+184
+00:09:37,880 --> 00:09:39,860
+Here they come.
+
+185
+00:09:41,460 --> 00:09:43,330
+All right. I'll handle the meet and greet.
+
+186
+00:09:43,870 --> 00:09:44,960
+You cover me from here.
+
+187
+00:09:45,160 --> 00:09:46,710
+Any problems, you hit the ground.
+
+188
+00:09:47,010 --> 00:09:48,550
+I'll take care of the rest.
+
+189
+00:09:52,180 --> 00:09:53,520
+That's far enough, gentlemen.
+
+190
+00:09:53,520 --> 00:09:55,710
+Identify yourselves and state your business
+
+191
+00:09:55,710 --> 00:09:57,000
+Team of snipers has you covered
+
+192
+00:09:57,000 --> 00:09:58,320
+so no sudden moves.
+
+193
+00:09:58,760 --> 00:10:01,550
+Lieutenant Mark Hammond. Delta Force.
+
+194
+00:10:02,000 --> 00:10:04,140
+Or least I was when there was still a Delta Force.
+
+195
+00:10:04,410 --> 00:10:06,090
+I'm on a mission from what's left of the government,
+
+196
+00:10:06,090 --> 00:10:07,090
+and I need your help.
+
+197
+00:10:07,790 --> 00:10:10,140
+What mission? For what government?
+
+198
+00:10:10,480 --> 00:10:11,610
+Look, to be honest I don't know
+
+199
+00:10:11,610 --> 00:10:13,980
+if anybody that gave me the order is still alive.
+
+200
+00:10:14,050 --> 00:10:16,240
+I do know it's imperative that I get this person
+
+201
+00:10:16,240 --> 00:10:18,000
+to a medical lab in California.
+
+202
+00:10:18,260 --> 00:10:19,170
+Alive.
+
+203
+00:10:19,350 --> 00:10:23,570
+Well I guess I won't shoot him Yet.
+
+204
+00:10:24,630 --> 00:10:25,480
+Who is he?
+
+205
+00:10:25,690 --> 00:10:26,870
+Some kind of doctor?
+
+206
+00:10:27,540 --> 00:10:28,830
+Not exactly.
+
+207
+00:10:30,670 --> 00:10:31,880
+His name is Murphy.
+
+208
+00:10:32,860 --> 00:10:35,970
+And he may just be the last best chance to save humanity.
+
+209
+00:10:45,980 --> 00:10:47,800
+Hello, baby, it's me.
+
+210
+00:10:47,800 --> 00:10:49,070
+You got time to talk?
+
+211
+00:10:49,070 --> 00:10:50,080
+Come on, sweetie.
+
+212
+00:10:50,080 --> 00:10:52,220
+I always have time for you. You know that.
+
+213
+00:10:52,220 --> 00:10:53,080
+I just wanted to know
+
+214
+00:10:53,080 --> 00:10:55,040
+if you're gonna make it home for Christmas
+
+215
+00:10:55,180 --> 00:10:56,370
+like you promised?
+
+216
+00:10:56,370 --> 00:10:58,170
+Daisy, I just don't know.
+
+217
+00:10:58,170 --> 00:10:59,800
+Things are pretty busy up here.
+
+218
+00:11:00,140 --> 00:11:02,260
+You and all your top secrets.
+
+219
+00:11:02,580 --> 00:11:04,400
+Can't they give you some time off?
+
+220
+00:11:04,680 --> 00:11:06,910
+Everybody's gonna be so disappointed.
+
+221
+00:11:06,910 --> 00:11:07,840
+I know.
+
+222
+00:11:08,760 --> 00:11:10,650
+But I'll get home soon, I promise.
+
+223
+00:11:12,140 --> 00:11:13,150
+How's Cowboy?
+
+224
+00:11:13,890 --> 00:11:15,160
+He's fine.
+
+225
+00:11:15,260 --> 00:11:17,430
+He chewed up another pair of your shoes.
+
+226
+00:11:17,490 --> 00:11:19,820
+Sometimes I think he misses you more than I do.
+
+227
+00:11:19,930 --> 00:11:21,360
+If that's possible.
+
+228
+00:11:22,390 --> 00:11:25,630
+Hey, did you see that stuff on the news about Washington?
+
+229
+00:11:25,630 --> 00:11:27,250
+That's crazy, huh?
+
+230
+00:11:27,410 --> 00:11:27,980
+Northern Light.
+
+231
+00:11:27,980 --> 00:11:29,440
+This is CDC Mount Wilson.
+
+232
+00:11:29,440 --> 00:11:30,010
+Northern Light.
+
+233
+00:11:30,010 --> 00:11:31,990
+This is CDC Mount Wilson. Over.
+
+234
+00:11:32,190 --> 00:11:34,280
+Mount Wilson, this is Northern Light. Over.
+
+235
+00:11:34,280 --> 00:11:35,600
+The lab has been overrun.
+
+236
+00:11:35,600 --> 00:11:38,140
+Operation Bite Mark abandoning location.
+
+237
+00:11:38,140 --> 00:11:40,620
+What is the status of Delta-Xray-Delta? Over.
+
+238
+00:11:40,620 --> 00:11:42,870
+Delta-Xray location currently unknown.
+
+239
+00:11:43,100 --> 00:11:45,270
+We lost contact three weeks ago. Over.
+
+240
+00:11:45,270 --> 00:11:47,330
+I need the status of Delta-Xray-Delta.
+
+241
+00:11:47,330 --> 00:11:48,090
+We need to...
+
+242
+00:11:48,090 --> 00:11:49,470
+new coordinates...
+
+243
+00:11:49,470 --> 00:11:52,620
+Mount Wilson. We did not copy. Repeat.
+
+244
+00:11:52,620 --> 00:11:54,620
+We did not copy. Over.
+
+245
+00:11:55,480 --> 00:11:56,650
+Mount Wilson.
+
+246
+00:12:33,580 --> 00:12:35,400
+All we need are some basic supplies
+
+247
+00:12:35,400 --> 00:12:37,990
+and transportation south as far as the Tappan Zee bridge.
+
+248
+00:12:38,300 --> 00:12:39,960
+We're meeting a new team there, and they can take us
+
+249
+00:12:39,960 --> 00:12:41,090
+the rest of the way to California.
+
+250
+00:12:41,230 --> 00:12:43,420
+California sure is a hell of a long way.
+
+251
+00:12:43,560 --> 00:12:45,630
+The Tappan Zee bridge is a long way.
+
+252
+00:12:45,840 --> 00:12:48,490
+I wouldn't ask, but it's imperative
+
+253
+00:12:48,490 --> 00:12:49,780
+and I am out of options.
+
+254
+00:12:50,000 --> 00:12:51,620
+How'd you find out about this place?
+
+255
+00:12:51,620 --> 00:12:53,980
+An ex-cop and some others taking shelter in a prison
+
+256
+00:12:53,980 --> 00:12:55,200
+twenty clicks up the road said
+
+257
+00:12:55,200 --> 00:12:56,900
+there was some National Guard
+
+258
+00:12:56,900 --> 00:12:59,020
+that set up a camp, might be able to help us out.
+
+259
+00:12:59,020 --> 00:13:00,310
+"Ex" National Guard.
+
+260
+00:13:00,320 --> 00:13:01,990
+Yeah, I was with Georgia National Guard.
+
+261
+00:13:02,150 --> 00:13:03,990
+Warren here was evacuated out of Missouri.
+
+262
+00:13:03,990 --> 00:13:06,290
+But as far as I know, we're the only ones left of our unit.
+
+263
+00:13:06,770 --> 00:13:09,210
+Look. I know there's no more chain of command,
+
+264
+00:13:09,540 --> 00:13:11,250
+no more Guard, no more government.
+
+265
+00:13:11,400 --> 00:13:13,140
+Just a few of us out there following orders
+
+266
+00:13:13,140 --> 00:13:14,210
+cuz that's what we do.
+
+267
+00:13:15,910 --> 00:13:19,530
+I lost eight of the best men I ever served with getting this far.
+
+268
+00:13:19,730 --> 00:13:22,650
+My orders are to take this man to a lab in California,
+
+269
+00:13:22,650 --> 00:13:24,170
+and that's what I intend to do.
+
+270
+00:13:24,660 --> 00:13:25,480
+Now.
+
+271
+00:13:26,150 --> 00:13:27,850
+Are you people going to help me or not?
+
+272
+00:13:28,660 --> 00:13:30,760
+Why is he so goddamn important?
+
+273
+00:13:31,140 --> 00:13:32,660
+He has information vital to
+
+274
+00:13:32,660 --> 00:13:35,610
+the development of a vaccine for the zombie virus.
+
+275
+00:13:35,910 --> 00:13:37,380
+And that's all I can tell you.
+
+276
+00:13:38,280 --> 00:13:39,800
+How much more do you need to know?
+
+277
+00:13:43,050 --> 00:13:46,560
+Warren and I can take the pickup truck, bring you to the Tappan Zee.
+
+278
+00:13:46,560 --> 00:13:48,110
+But you'd be on your own after that.
+
+279
+00:13:48,300 --> 00:13:49,430
+That's all I'm asking.
+
+280
+00:13:49,780 --> 00:13:50,830
+Well if we keep it moving,
+
+281
+00:13:50,830 --> 00:13:52,650
+we can get there and back before nightfall.
+
+282
+00:13:54,810 --> 00:13:56,690
+I'm not sure we risk the truck.
+
+283
+00:13:57,010 --> 00:13:57,970
+Or you two.
+
+284
+00:14:02,620 --> 00:14:04,280
+Maybe I haven't been clear.
+
+285
+00:14:06,270 --> 00:14:08,250
+This is more important than your trucks.
+
+286
+00:14:08,700 --> 00:14:09,890
+Or anyone's life.
+
+287
+00:14:09,920 --> 00:14:11,150
+Including my own.
+
+288
+00:14:12,920 --> 00:14:14,630
+I don't want to have to insist.
+
+289
+00:14:16,680 --> 00:14:19,010
+I was supposed to meet my rendezvous two days ago.
+
+290
+00:14:19,840 --> 00:14:20,970
+This needs to happen.
+
+291
+00:14:20,970 --> 00:14:21,750
+Now.
+
+292
+00:14:30,030 --> 00:14:30,880
+Listen.
+
+293
+00:14:31,100 --> 00:14:33,040
+If they're trying to steal the truck,
+
+294
+00:14:33,140 --> 00:14:34,340
+do what you got to do.
+
+295
+00:14:34,340 --> 00:14:35,240
+Always.
+
+296
+00:14:38,420 --> 00:14:40,320
+Stay in radio contact.
+
+297
+00:14:40,590 --> 00:14:42,410
+We don't hear from you by tomorrow morning,
+
+298
+00:14:42,740 --> 00:14:43,740
+we'll come lookin'.
+
+299
+00:14:43,970 --> 00:14:45,620
+You'll have them back by sundown.
+
+300
+00:15:00,240 --> 00:15:02,240
+Well if availability of ammo is all you care about
+
+301
+00:15:02,240 --> 00:15:03,670
+then the 22 is the way to go.
+
+302
+00:15:03,670 --> 00:15:05,760
+But... You really want to make an impression,
+
+303
+00:15:06,370 --> 00:15:07,980
+check out this smoke wagon.
+
+304
+00:15:09,040 --> 00:15:10,760
+You really make a z's day with this.
+
+305
+00:15:11,130 --> 00:15:12,680
+Now the 22, that'll kill a z,
+
+306
+00:15:12,680 --> 00:15:14,100
+but it's gonna be about two or three shots
+
+307
+00:15:14,100 --> 00:15:15,370
+before the thing's down and dead.
+
+308
+00:15:15,370 --> 00:15:16,320
+This baby?
+
+309
+00:15:16,520 --> 00:15:18,070
+You stop a car with this.
+
+310
+00:15:18,320 --> 00:15:20,460
+I was thinking something more silent.
+
+311
+00:15:21,040 --> 00:15:21,970
+Like a club.
+
+312
+00:15:22,330 --> 00:15:23,180
+And sharp.
+
+313
+00:15:23,440 --> 00:15:24,490
+Yeah. Yeah. Yeah.
+
+314
+00:15:25,050 --> 00:15:28,120
+Yeah, I like how you think. Silent but effective. Huh?
+
+315
+00:15:28,210 --> 00:15:28,980
+Okay.
+
+316
+00:15:31,340 --> 00:15:32,310
+Check this out.
+
+317
+00:15:35,300 --> 00:15:36,130
+Made it myself.
+
+318
+00:15:36,130 --> 00:15:37,770
+I call it "The Z Whacker."
+
+319
+00:15:38,040 --> 00:15:39,340
+You start with an aluminum bat
+
+320
+00:15:39,340 --> 00:15:41,640
+then customize it for the task at hand.
+
+321
+00:15:41,800 --> 00:15:43,910
+Wow. It's light.
+
+322
+00:15:43,910 --> 00:15:45,800
+Yeah, the spikes are hand cast from beer cans.
+
+323
+00:15:45,800 --> 00:15:47,210
+So they're long enough that they kill the brain
+
+324
+00:15:47,210 --> 00:15:48,390
+but you can still pull it out.
+
+325
+00:15:48,390 --> 00:15:52,420
+Cuz nothing is worse than getting your pike stuck into a z's skull.
+
+326
+00:15:52,420 --> 00:15:53,970
+Cuz then you got to drag them down to the ground.
+
+327
+00:15:53,970 --> 00:15:55,170
+You got to put your foot on their chest.
+
+328
+00:15:55,170 --> 00:15:56,200
+Then you got to yank the thing out.
+
+329
+00:15:56,200 --> 00:15:57,440
+And by then you're dead.
+
+330
+00:15:57,440 --> 00:15:58,330
+You know what I mean?
+
+331
+00:15:58,330 --> 00:16:00,020
+Sure do hate that.
+
+332
+00:16:00,960 --> 00:16:02,720
+How about a straight across trade?
+
+333
+00:16:02,930 --> 00:16:04,330
+A dozen of these aspirin
+
+334
+00:16:04,330 --> 00:16:06,560
+for a dozen of these reloaded .223's.
+
+335
+00:16:06,560 --> 00:16:08,240
+You can't kill a zombie with aspirin.
+
+336
+00:16:08,400 --> 00:16:10,270
+Well you can't kill a fever with a bullet
+
+337
+00:16:10,270 --> 00:16:12,050
+and they ain't making any more aspirin.
+
+338
+00:16:12,050 --> 00:16:13,890
+Make it a dozen oxycontin and you got a deal.
+
+339
+00:16:14,390 --> 00:16:16,130
+I'd have to take a dozen oxycontin
+
+340
+00:16:16,130 --> 00:16:17,450
+before I'd make that deal.
+
+341
+00:16:17,680 --> 00:16:18,850
+How 'bout some meth?
+
+342
+00:16:19,880 --> 00:16:21,120
+Huh? You want some crystal?
+
+343
+00:16:21,500 --> 00:16:22,680
+Yeah, I baked it myself.
+
+344
+00:16:22,790 --> 00:16:24,260
+That same pink ice you made before?
+
+345
+00:16:24,260 --> 00:16:25,990
+No, that stuff gave me an axe to the skull headache.
+
+346
+00:16:25,990 --> 00:16:27,830
+No, that's what the aspirin's for.
+
+347
+00:16:27,830 --> 00:16:30,110
+How many ampules of morphine you got left in there?
+
+348
+00:16:31,240 --> 00:16:32,050
+Behind you.
+
+349
+00:16:36,420 --> 00:16:39,900
+Nice. You all right? That was a little close.
+
+350
+00:16:40,060 --> 00:16:42,130
+Yeah, that... that was a fast one.
+
+351
+00:16:43,190 --> 00:16:43,990
+Brutal.
+
+352
+00:16:44,200 --> 00:16:45,100
+Told ya.
+
+353
+00:16:45,970 --> 00:16:47,480
+Hey, isn't that Red Hanson?
+
+354
+00:16:47,650 --> 00:16:49,220
+Z's got Red?
+
+355
+00:16:49,220 --> 00:16:50,930
+Damn, he was one of our best customers
+
+356
+00:16:50,930 --> 00:16:52,250
+tough as bullets.
+
+357
+00:16:52,250 --> 00:16:53,350
+I wonder if his brothers know.
+
+358
+00:16:53,850 --> 00:16:55,410
+Yeah, I think so cuz here they come.
+
+359
+00:17:16,800 --> 00:17:18,070
+Closing time.
+
+360
+00:17:31,050 --> 00:17:32,190
+The way that big one moved
+
+361
+00:17:32,190 --> 00:17:34,660
+he must have turned just a few hours ago.
+
+362
+00:17:35,690 --> 00:17:37,410
+Four brothers, recently turned,
+
+363
+00:17:37,410 --> 00:17:39,520
+found on Miller's Road by Sutter's Farm.
+
+364
+00:17:39,900 --> 00:17:42,710
+Given mercy, May 13, 3 A.Z.
+
+365
+00:17:42,710 --> 00:17:43,530
+Time to go.
+
+366
+00:17:49,190 --> 00:17:50,560
+I got something over here.
+
+367
+00:17:52,790 --> 00:17:54,620
+Looks like a floater washed up.
+
+368
+00:17:56,570 --> 00:17:57,740
+I got another one over here.
+
+369
+00:18:00,020 --> 00:18:01,730
+This one looks dead and down too.
+
+370
+00:18:05,480 --> 00:18:06,260
+Donner.
+
+371
+00:18:07,190 --> 00:18:07,960
+Look.
+
+372
+00:18:09,370 --> 00:18:11,090
+Must be hundreds of them.
+
+373
+00:18:29,920 --> 00:18:31,710
+Camp Blue Sky, this is mobile one.
+
+374
+00:18:31,710 --> 00:18:33,660
+Blue Sky, this is mobile one. Over.
+
+375
+00:18:35,050 --> 00:18:37,010
+Hey guys, I need you to get back to us.
+
+376
+00:18:37,010 --> 00:18:39,090
+It's time for our 8 p.m. signal check.
+
+377
+00:18:39,240 --> 00:18:40,670
+What are you wasting time for?
+
+378
+00:18:40,670 --> 00:18:41,910
+You said yourself they'd be fine.
+
+379
+00:18:41,910 --> 00:18:43,460
+Look, there must be something wrong.
+
+380
+00:18:43,810 --> 00:18:45,850
+If we don't hear from them soon, we're gonna have to go back.
+
+381
+00:18:46,240 --> 00:18:47,800
+I don't think I can let you do that.
+
+382
+00:18:48,560 --> 00:18:50,390
+If something is wrong with my people
+
+383
+00:18:50,390 --> 00:18:52,050
+I don't give a damn about your mission.
+
+384
+00:18:52,070 --> 00:18:52,780
+Or you.
+
+385
+00:18:53,210 --> 00:18:54,480
+We're going back.
+
+386
+00:18:54,480 --> 00:18:55,240
+Look.
+
+387
+00:18:56,900 --> 00:18:59,360
+I appreciate your loyalty to those folks. I do.
+
+388
+00:19:00,080 --> 00:19:02,170
+But you don't know what I know about this man.
+
+389
+00:19:02,230 --> 00:19:04,550
+Why should we believe a word you say?
+
+390
+00:19:06,140 --> 00:19:07,220
+Get out of the car.
+
+391
+00:19:10,550 --> 00:19:11,390
+Show them.
+
+392
+00:19:12,320 --> 00:19:14,140
+Show them why you're so damn important.
+
+393
+00:19:14,140 --> 00:19:15,510
+Get your hands off me.
+
+394
+00:19:15,520 --> 00:19:17,300
+Show them why so many good men died
+
+395
+00:19:17,300 --> 00:19:18,310
+getting you this far.
+
+396
+00:19:18,310 --> 00:19:19,150
+Show them!
+
+397
+00:19:31,510 --> 00:19:32,630
+What happened?
+
+398
+00:19:35,020 --> 00:19:36,330
+Those are Zombie bites.
+
+399
+00:19:37,240 --> 00:19:38,150
+Eight of them.
+
+400
+00:19:38,820 --> 00:19:39,960
+Why is he still alive?
+
+401
+00:19:39,960 --> 00:19:41,290
+And not a zombie?
+
+402
+00:19:43,650 --> 00:19:46,110
+He was given the only dose of an experimental vaccine
+
+403
+00:19:46,110 --> 00:19:47,530
+right before he was bitten.
+
+404
+00:19:47,960 --> 00:19:50,650
+Those undead bastards got two of my ribs right there.
+
+405
+00:19:50,920 --> 00:19:51,570
+Shut up.
+
+406
+00:19:51,570 --> 00:19:52,820
+At least you're still alive.
+
+407
+00:19:52,920 --> 00:19:54,550
+More than I can say for my men.
+
+408
+00:19:55,050 --> 00:19:57,330
+You're looking at the only human known to have survived
+
+409
+00:19:57,330 --> 00:19:58,930
+being bitten by a Zombie.
+
+410
+00:19:59,130 --> 00:20:02,010
+His blood carries the antibodies for the ZN1 virus.
+
+411
+00:20:02,130 --> 00:20:04,440
+If we can get him to the lab in California
+
+412
+00:20:04,490 --> 00:20:07,460
+they can use his blood and make more of the vaccine.
+
+413
+00:20:07,460 --> 00:20:09,420
+Mayday. Mayday. Calling Camp Blue Sky.
+
+414
+00:20:09,420 --> 00:20:11,130
+This is Doc. With Thompson and Carver.
+
+415
+00:20:11,130 --> 00:20:12,480
+What is your situation? Over.
+
+416
+00:20:12,480 --> 00:20:14,410
+Hey, Doc. What's going on? What's going on?
+
+417
+00:20:15,060 --> 00:20:16,390
+Garnett? Thank God you're alive.
+
+418
+00:20:16,390 --> 00:20:17,920
+We thought everyone was dead.
+
+419
+00:20:17,950 --> 00:20:19,690
+I'm not at Camp Blue Sky. What's happening?
+
+420
+00:20:19,860 --> 00:20:21,260
+Batteries... dying.
+
+421
+00:20:21,260 --> 00:20:22,040
+Wait. Say. Again.
+
+422
+00:20:26,180 --> 00:20:27,540
+Blue Sky has been overrun.
+
+423
+00:20:27,540 --> 00:20:29,460
+The whole place is...on fire.
+
+424
+00:20:29,460 --> 00:20:30,530
+Survivors?
+
+425
+00:20:30,820 --> 00:20:33,760
+Well there was a ton of gunfire a while ago, but nothing since.
+
+426
+00:20:35,220 --> 00:20:36,170
+Come on. Let's go.
+
+427
+00:20:50,760 --> 00:20:52,110
+Oh... There's the escape bus.
+
+428
+00:20:54,730 --> 00:20:57,920
+Oh, they got the kids out. Okay.
+
+429
+00:21:02,540 --> 00:21:03,140
+Come on.
+
+430
+00:21:45,160 --> 00:21:45,850
+Get in!
+
+431
+00:21:53,050 --> 00:21:54,100
+Go! Go! Go!
+
+432
+00:22:00,690 --> 00:22:01,480
+How many more?
+
+433
+00:22:01,480 --> 00:22:02,130
+Nobody.
+
+434
+00:22:02,130 --> 00:22:02,880
+Nobody?
+
+435
+00:22:02,880 --> 00:22:03,880
+Nobody! I'm sure!
+
+436
+00:22:03,880 --> 00:22:05,320
+Donna? Marion?
+
+437
+00:22:05,320 --> 00:22:06,310
+No...there was no one.
+
+438
+00:22:06,310 --> 00:22:07,960
+Not even time to show any of them mercy.
+
+439
+00:22:08,290 --> 00:22:09,780
+There's nobody back there but z's.
+
+440
+00:22:09,780 --> 00:22:11,560
+Sorry guys. We tried.
+
+441
+00:22:11,680 --> 00:22:13,640
+Nothing left for them now but God's mercy.
+
+442
+00:22:14,260 --> 00:22:16,010
+It's time to go then. Come on.
+
+443
+00:22:25,870 --> 00:22:27,830
+I don't know what we brought them along for.
+
+444
+00:22:27,830 --> 00:22:29,120
+Uh...because they're human beings
+
+445
+00:22:29,120 --> 00:22:30,700
+and they deserve to live.
+
+446
+00:22:31,230 --> 00:22:33,180
+Hey... how much further to this rendezvous?
+
+447
+00:22:33,180 --> 00:22:34,520
+Just a few more clicks.
+
+448
+00:22:34,600 --> 00:22:36,690
+Got some vehicles and a team of killers waiting.
+
+449
+00:22:36,700 --> 00:22:38,120
+Wish I had ten times that.
+
+450
+00:22:38,920 --> 00:22:40,320
+Should be up ahead on the left.
+
+451
+00:22:40,320 --> 00:22:42,990
+An old high school with a civil defense shelter in the basement.
+
+452
+00:22:43,010 --> 00:22:45,290
+Supposedly there's still some rations left there.
+
+453
+00:22:45,710 --> 00:22:47,880
+When was the last time you made contact with them?
+
+454
+00:22:48,590 --> 00:22:49,680
+About a month ago.
+
+455
+00:22:50,230 --> 00:22:51,190
+A month ago?
+
+456
+00:22:51,190 --> 00:22:53,750
+That's like two years Apocalypse time.
+
+458
+00:23:08,800 --> 00:23:10,090
+Get back in the truck.
+
+459
+00:23:20,390 --> 00:23:21,390
+Is it them?
+
+460
+00:23:22,670 --> 00:23:23,570
+Hammond?
+
+461
+00:23:23,570 --> 00:23:24,510
+Is it them?
+
+462
+00:23:34,640 --> 00:23:35,330
+Yeah.
+
+463
+00:23:39,160 --> 00:23:40,180
+I got to pee.
+
+464
+00:23:45,610 --> 00:23:46,610
+Don't go far.
+
+465
+00:23:46,910 --> 00:23:47,770
+Don't worry.
+
+466
+00:23:49,550 --> 00:23:50,390
+This guy.
+
+467
+00:23:52,610 --> 00:23:54,180
+My reinforcements are dead.
+
+468
+00:23:54,830 --> 00:23:58,410
+We need to make a quick search for survivors and any supplies.
+
+469
+00:23:58,730 --> 00:23:59,400
+You!
+
+470
+00:24:00,840 --> 00:24:03,720
+Zip it up and stay close to me.
+
+471
+00:24:04,570 --> 00:24:05,760
+Hey, where'd all the z's go?
+
+472
+00:24:05,770 --> 00:24:07,750
+Movin' on, like locust.
+
+473
+00:24:07,750 --> 00:24:09,220
+Yeah, but they'll be back.
+
+474
+00:24:09,530 --> 00:24:12,280
+Garnett and Warren, you clear the building.
+
+475
+00:24:12,540 --> 00:24:15,110
+And you three check the vehicles.
+
+476
+00:24:21,130 --> 00:24:22,510
+Looks like they never had a chance.
+
+477
+00:24:25,600 --> 00:24:26,550
+You hear that?
+
+478
+00:24:27,940 --> 00:24:28,950
+Hear what?
+
+479
+00:24:28,980 --> 00:24:29,730
+There.
+
+480
+00:24:31,780 --> 00:24:35,100
+Sounds like a...baby.
+
+481
+00:24:35,710 --> 00:24:36,580
+Oh shoot.
+
+482
+00:24:49,130 --> 00:24:50,090
+There it is.
+
+483
+00:24:52,680 --> 00:24:53,850
+Hey, it's okay sweetie.
+
+484
+00:24:53,850 --> 00:24:55,460
+We're gonna get you out of there.
+
+485
+00:24:55,460 --> 00:24:56,400
+How's that driver?
+
+486
+00:24:56,400 --> 00:24:58,040
+Dead. Turned?
+
+487
+00:24:58,190 --> 00:25:00,430
+Looks like she took a blow to the skull.
+
+488
+00:25:00,580 --> 00:25:02,360
+Brain dead on impact.
+
+489
+00:25:02,680 --> 00:25:03,770
+There you go.
+
+490
+00:25:06,870 --> 00:25:07,770
+Hey, Mack.
+
+491
+00:25:12,100 --> 00:25:13,860
+Yeah, I know.
+
+492
+00:25:16,880 --> 00:25:19,140
+Whoa. It's a real live baby.
+
+493
+00:25:19,170 --> 00:25:21,110
+I haven't seen one of these in years.
+
+494
+00:25:22,180 --> 00:25:23,260
+And he won't stop crying.
+
+495
+00:25:23,260 --> 00:25:24,360
+Here. What do I do?
+
+496
+00:25:24,360 --> 00:25:25,520
+-Maybe don't. -Okay.
+
+497
+00:25:25,530 --> 00:25:27,700
+Hold him like he's a live grenade. Just give him to me.
+
+498
+00:25:28,160 --> 00:25:29,700
+Me and babies, not so much.
+
+499
+00:25:30,980 --> 00:25:32,970
+What was she doing out here with a baby anyway?
+
+500
+00:25:32,970 --> 00:25:34,940
+I dunno. Looks like they were headed to this shelter.
+
+501
+00:25:35,070 --> 00:25:36,450
+They got overrun.
+
+502
+00:25:38,240 --> 00:25:40,850
+What the hell are we gonna do with a baby?
+
+503
+00:25:41,080 --> 00:25:44,020
+Beats me. I stopped planning two minutes ahead years ago.
+
+504
+00:25:49,700 --> 00:25:50,460
+Heads up.
+
+505
+00:25:50,570 --> 00:25:51,960
+What are they after?
+
+506
+00:25:52,090 --> 00:25:53,660
+Only one thing. Come on.
+
+507
+00:26:15,620 --> 00:26:16,540
+You all right?
+
+508
+00:26:24,310 --> 00:26:26,100
+Careful. She might be dead.
+
+509
+00:26:36,130 --> 00:26:37,380
+Well she ain't dead.
+
+510
+00:26:37,380 --> 00:26:39,470
+Hey. It's okay. Hey. It's okay. We're good people.
+
+511
+00:26:39,470 --> 00:26:40,590
+We just saved you.
+
+512
+00:26:40,630 --> 00:26:41,740
+Okay, don't hurt him.
+
+513
+00:26:49,840 --> 00:26:52,560
+Sorry. I didn't know where I was.
+
+514
+00:26:53,410 --> 00:26:55,040
+I must have fallen asleep.
+
+515
+00:26:55,290 --> 00:26:56,320
+Asleep?
+
+516
+00:26:56,890 --> 00:26:58,960
+How long you in this cage for?
+
+517
+00:27:01,410 --> 00:27:02,560
+Two days.
+
+518
+00:27:12,910 --> 00:27:14,170
+Somebody better shut that kid up
+
+519
+00:27:14,170 --> 00:27:15,870
+before he attracts z's like flies.
+
+520
+00:27:15,880 --> 00:27:18,570
+It's a baby. He makes noise, okay?
+
+521
+00:27:18,570 --> 00:27:20,460
+Shut up. And you, do what you can.
+
+522
+00:27:20,460 --> 00:27:21,910
+He's right about the z's.
+
+523
+00:27:22,290 --> 00:27:22,970
+Here.
+
+524
+00:27:31,280 --> 00:27:33,960
+Why would somebody lock you in a cage and leave you to die?
+
+525
+00:27:33,990 --> 00:27:34,790
+What did you do?
+
+526
+00:27:35,660 --> 00:27:37,190
+I didn't do anything.
+
+527
+00:27:37,910 --> 00:27:39,980
+I locked myself in the cage for protection.
+
+528
+00:27:39,980 --> 00:27:41,140
+You have the keys?
+
+529
+00:27:42,530 --> 00:27:43,650
+I lost them.
+
+530
+00:27:45,580 --> 00:27:47,300
+Why are you dressed like that?
+
+531
+00:27:47,810 --> 00:27:49,430
+I don't have to justify myself.
+
+532
+00:27:49,430 --> 00:27:50,580
+Maybe you do!
+
+533
+00:27:52,840 --> 00:27:55,140
+We were supposed to meet the men in those vehicles.
+
+534
+00:27:55,140 --> 00:27:56,510
+What happened here?
+
+535
+00:27:56,510 --> 00:27:58,710
+Those men showed up about a week ago.
+
+536
+00:27:58,710 --> 00:28:01,070
+They cleared out the school and set up some kind of camp.
+
+537
+00:28:01,070 --> 00:28:02,840
+But word got out that there was food.
+
+538
+00:28:02,940 --> 00:28:05,210
+Lots of it from the bomb shelter.
+
+539
+00:28:05,980 --> 00:28:09,060
+Yeah, it didn't take long. There was too many people.
+
+540
+00:28:09,060 --> 00:28:10,860
+The soldiers shot some of the locals,
+
+541
+00:28:10,860 --> 00:28:12,570
+and that brought the z's.
+
+542
+00:28:13,660 --> 00:28:14,770
+You can guess the rest.
+
+543
+00:28:14,770 --> 00:28:16,260
+What are we wasting time talking to her for?
+
+544
+00:28:16,260 --> 00:28:18,360
+Give her the baby, and let's go.
+
+545
+00:28:18,470 --> 00:28:20,580
+You can't give this girl a baby and leave.
+
+546
+00:28:20,580 --> 00:28:22,330
+Well they can't come with us.
+
+547
+00:28:22,330 --> 00:28:23,110
+Listen.
+
+548
+00:28:23,110 --> 00:28:26,370
+No way am I leaving the baby and her behind.
+
+549
+00:28:26,370 --> 00:28:27,830
+It's not gonna happen.
+
+550
+00:28:27,830 --> 00:28:29,840
+It's just a baby.
+
+551
+00:28:29,850 --> 00:28:32,850
+It's not like he's gonna grow up and be a fine young man someday.
+
+552
+00:28:32,850 --> 00:28:33,800
+You know what, shut up!
+
+553
+00:28:35,510 --> 00:28:37,840
+We'll take them to the next safe outpost.
+
+554
+00:28:37,840 --> 00:28:39,520
+God, I hate moral dilemmas.
+
+555
+00:28:39,520 --> 00:28:40,670
+Yeah what's next chief?
+
+556
+00:28:40,670 --> 00:28:42,100
+You wanna start a college fund for him?
+
+557
+00:28:42,100 --> 00:28:44,270
+Puppies and kittens. 200 yards away.
+
+558
+00:28:45,800 --> 00:28:46,890
+Zombies.
+
+559
+00:28:47,000 --> 00:28:49,160
+All right, everybody. Time to go.
+
+560
+00:28:49,420 --> 00:28:52,190
+You four, i want you to grab all the food and weapons you can find.
+
+561
+00:28:52,190 --> 00:28:54,290
+Load them in that truck. The keys are still inside.
+
+562
+00:28:54,290 --> 00:28:56,570
+Hey! We haven't talked about this.
+
+563
+00:28:56,680 --> 00:28:58,490
+We can talk about it later.
+
+564
+00:28:58,540 --> 00:29:00,510
+Right now you do what I tell you.
+
+565
+00:29:01,120 --> 00:29:02,000
+Garnett!
+
+566
+00:29:02,460 --> 00:29:05,160
+You stay with the baby and Murphy until we get back.
+
+567
+00:29:05,160 --> 00:29:05,990
+Warren.
+
+568
+00:29:06,460 --> 00:29:09,180
+You and I are gonna see if we can start up that deuce and a half.
+
+569
+00:29:09,230 --> 00:29:11,490
+Everybody meets back here in five.
+
+570
+00:29:21,610 --> 00:29:22,430
+Go!
+
+571
+00:29:25,650 --> 00:29:26,290
+Go.
+
+572
+00:29:34,400 --> 00:29:35,170
+All right.
+
+573
+00:29:35,900 --> 00:29:37,280
+How you want to handle this?
+
+574
+00:29:37,600 --> 00:29:39,470
+We usually like taking it to 'em.
+
+575
+00:29:40,120 --> 00:29:40,810
+Sir.
+
+576
+00:29:42,320 --> 00:29:44,720
+All right. Let's do this.
+
+577
+00:29:45,820 --> 00:29:46,600
+Silent.
+
+578
+00:31:22,960 --> 00:31:25,260
+Hey, mister! Baby.
+
+579
+00:32:16,570 --> 00:32:18,120
+The kid finally shut up.
+
+580
+00:32:18,760 --> 00:32:19,830
+Get away from there.
+
+581
+00:32:20,660 --> 00:32:21,710
+Get away from there.
+
+582
+00:32:22,700 --> 00:32:24,020
+What the hell did you do that for?
+
+583
+00:32:38,280 --> 00:32:38,990
+Murphy.
+
+584
+00:32:39,310 --> 00:32:40,180
+Get over here.
+
+585
+00:32:40,520 --> 00:32:41,120
+Go.
+
+586
+00:32:44,230 --> 00:32:45,290
+You okay?
+
+587
+00:32:46,350 --> 00:32:47,470
+Yeah, I'm great.
+
+588
+00:32:47,770 --> 00:32:48,540
+Baby?
+
+589
+00:32:48,980 --> 00:32:50,850
+He's weak, but he's hanging in there.
+
+590
+00:32:51,940 --> 00:32:52,610
+Here.
+
+591
+00:32:52,670 --> 00:32:53,360
+Thanks.
+
+592
+00:33:17,710 --> 00:33:18,650
+Oh God.
+
+593
+00:33:20,890 --> 00:33:21,610
+Kill it.
+
+594
+00:33:22,200 --> 00:33:23,050
+I can't.
+
+595
+00:33:26,550 --> 00:33:27,210
+I can't do it.
+
+596
+00:33:27,210 --> 00:33:27,820
+Yes, you can.
+
+597
+00:33:27,820 --> 00:33:28,670
+No. You do it.
+
+598
+00:33:28,670 --> 00:33:31,030
+No, I don't want to do it. You got to kill it.
+
+599
+00:33:47,440 --> 00:33:48,490
+What's the holdup?
+
+600
+00:33:49,130 --> 00:33:50,390
+Where's the baby?
+
+601
+00:33:50,390 --> 00:33:51,440
+Turned.
+
+602
+00:33:51,520 --> 00:33:53,140
+Surprise. Surprise.
+
+603
+00:33:58,080 --> 00:33:59,060
+Let him go.
+
+604
+00:33:59,720 --> 00:34:02,810
+Or I will send you to walk among the dead.
+
+605
+00:34:14,040 --> 00:34:15,530
+Let's get in the trucks.
+
+606
+00:34:17,060 --> 00:34:18,190
+We're moving out.
+
+607
+00:34:18,320 --> 00:34:20,590
+What about the... the baby thing?
+
+608
+00:34:22,260 --> 00:34:23,950
+We can't leave it like that.
+
+609
+00:34:23,950 --> 00:34:24,650
+Yeah, she's right.
+
+610
+00:34:24,650 --> 00:34:25,760
+Even if it is turned.
+
+611
+00:34:26,060 --> 00:34:27,560
+It sounds so sad.
+
+612
+00:34:27,750 --> 00:34:29,900
+It's not sad. It's a zombie.
+
+613
+00:34:29,900 --> 00:34:31,540
+Amen brother. Let's go.
+
+614
+00:34:31,540 --> 00:34:33,180
+We can't leave it like that.
+
+615
+00:34:33,690 --> 00:34:34,600
+I'll do it.
+
+616
+00:34:35,960 --> 00:34:36,850
+I'll do it.
+
+617
+00:34:38,600 --> 00:34:40,590
+I need you to pull it together.
+
+618
+00:34:43,860 --> 00:34:44,950
+Two minutes.
+
+619
+00:34:47,340 --> 00:34:48,380
+Be ready to go.
+
+620
+00:35:21,740 --> 00:35:23,050
+Here baby.
+
+621
+00:35:25,660 --> 00:35:27,800
+Here baby-baby.
+
+622
+00:35:33,370 --> 00:35:34,580
+Come to papa.
+
+623
+00:35:57,170 --> 00:35:58,840
+If we wanted to ditch these two
+
+624
+00:35:58,840 --> 00:36:00,150
+take the truck and run
+
+625
+00:36:00,890 --> 00:36:02,290
+now would be the time.
+
+626
+00:36:03,960 --> 00:36:05,000
+Just sayin'.
+
+627
+00:36:32,040 --> 00:36:34,370
+Oh I see your little bitch-ass.
+
+628
+00:37:50,000 --> 00:37:51,930
+You know, non of these would happen
+
+629
+00:37:51,930 --> 00:37:53,980
+if you'd just left that damn baby.
+
+630
+00:37:54,890 --> 00:37:57,880
+I didn't tell Hammond to go get eaten by a baby.
+
+631
+00:37:57,880 --> 00:37:59,450
+Never mind that now.
+
+632
+00:37:59,730 --> 00:38:00,850
+We need a plan.
+
+633
+00:38:00,850 --> 00:38:03,630
+My plan is I'm taking this truck
+
+634
+00:38:03,630 --> 00:38:06,700
+and I am forgetting about vaccines and labs
+
+635
+00:38:06,700 --> 00:38:07,970
+and all of you.
+
+636
+00:38:08,600 --> 00:38:10,970
+I wanted off this train from day one,
+
+637
+00:38:10,970 --> 00:38:12,050
+and now's my chance.
+
+638
+00:38:12,050 --> 00:38:13,900
+Wait-wait-wait. You can't just go.
+
+639
+00:38:14,400 --> 00:38:16,890
+What about California? What about the vaccine?
+
+640
+00:38:16,890 --> 00:38:20,010
+What if it's real? What if there's a chance?
+
+641
+00:38:20,010 --> 00:38:20,950
+And what if it's you?
+
+642
+00:38:20,950 --> 00:38:21,850
+Addy.
+
+643
+00:38:21,850 --> 00:38:23,780
+How do we know this isn't all just bullshit?
+
+644
+00:38:23,780 --> 00:38:26,720
+How does anybody know anything anymore?
+
+645
+00:38:27,220 --> 00:38:28,610
+Delta-Xray-Delta.
+
+646
+00:38:28,610 --> 00:38:29,410
+What the hell is that?
+
+647
+00:38:30,520 --> 00:38:32,690
+Delta-Xray-Delta. Come in.
+
+648
+00:38:33,840 --> 00:38:36,470
+Delta-Xray-Delta. This is Northern Light.
+
+649
+00:38:37,920 --> 00:38:39,820
+Operation Bitmark. Do you copy?
+
+650
+00:38:40,260 --> 00:38:41,780
+Delta-Xray-Delta.
+
+651
+00:38:42,580 --> 00:38:43,880
+It's Hammond's radio.
+
+652
+00:38:43,900 --> 00:38:46,340
+Delta-Xray-Delta. This is Northern Light.
+
+653
+00:38:46,350 --> 00:38:47,210
+Hello?
+
+654
+00:38:47,970 --> 00:38:49,300
+I copy you Delta-Xray!
+
+655
+00:38:49,300 --> 00:38:51,180
+This is...this is Northern Light.
+
+656
+00:38:51,190 --> 00:38:52,690
+Who am I speaking to?
+
+657
+00:38:53,160 --> 00:38:54,570
+Addison Carver.
+
+658
+00:38:55,220 --> 00:38:58,520
+Okay. I need to speak to Lieutenant Hammond.
+
+659
+00:38:59,010 --> 00:39:00,280
+Hammond's dead.
+
+660
+00:39:00,380 --> 00:39:01,250
+I'm...I'm...I'm sorry.
+
+661
+00:39:01,250 --> 00:39:02,930
+I...I didn't copy that, Delta-Xray.
+
+662
+00:39:02,930 --> 00:39:04,780
+Did you say that Hammond is dead?
+
+663
+00:39:04,780 --> 00:39:05,560
+Yes.
+
+664
+00:39:08,270 --> 00:39:09,910
+Is the package safe?
+
+665
+00:39:10,360 --> 00:39:12,140
+Package? What...what package?
+
+666
+00:39:12,140 --> 00:39:13,040
+Who is this?
+
+667
+00:39:13,040 --> 00:39:15,820
+Listen. I need to speak to whoever's in charge.
+
+668
+00:39:16,990 --> 00:39:17,800
+Who is it?
+
+669
+00:39:17,800 --> 00:39:18,580
+They won't say.
+
+670
+00:39:18,580 --> 00:39:20,210
+They want to know who's in charge.
+
+671
+00:39:21,300 --> 00:39:22,160
+You are.
+
+672
+00:39:26,810 --> 00:39:30,010
+This is Sergeant Garnett of the National Guard. Who is this?
+
+673
+00:39:30,160 --> 00:39:31,500
+Sergeant Garnett.
+
+674
+00:39:32,220 --> 00:39:34,800
+Lieutenant Hammond was transporting a civilian
+
+675
+00:39:34,800 --> 00:39:36,560
+named Murphy to California.
+
+676
+00:39:36,800 --> 00:39:38,580
+Is he alive?
+
+677
+00:39:39,300 --> 00:39:40,940
+Yes. He's still alive.
+
+678
+00:39:41,290 --> 00:39:42,390
+Good. Good.
+
+679
+00:39:42,410 --> 00:39:45,120
+Are...are you aware of Operation Bitemark?
+
+680
+00:39:45,120 --> 00:39:46,800
+Do you mean the lab in California?
+
+681
+00:39:46,800 --> 00:39:48,660
+Yes! Yes! Listen to me!
+
+682
+00:39:50,820 --> 00:39:51,330
+It is imperative that you get Murphy to California.
+
+683
+00:39:51,330 --> 00:39:52,360
+I repeat.
+
+684
+00:39:52,360 --> 00:39:55,520
+It is imperative that you get Murphy alive to California.
+
+685
+00:39:55,520 --> 00:39:56,590
+Do you copy?
+
+686
+00:39:56,710 --> 00:39:57,520
+But we don't know...
+
+687
+00:39:59,680 --> 00:40:00,920
+Who are you?
+
+688
+00:40:02,010 --> 00:40:02,850
+Garnett?
+
+689
+00:40:04,680 --> 00:40:05,970
+Garnett, do you copy?
+
+690
+00:40:07,430 --> 00:40:08,670
+Garnett!
+
+691
+00:40:08,990 --> 00:40:10,020
+It's dead.
+
+692
+00:40:12,590 --> 00:40:13,430
+Damn it!
+
+693
+00:40:15,340 --> 00:40:16,040
+So?
+
+694
+00:40:19,270 --> 00:40:20,000
+So...
+
+695
+00:40:20,900 --> 00:40:24,960
+It looks like we're taking Mr. Congeniality here to California.
+
+696
+00:40:26,120 --> 00:40:27,410
+Says who?
+
+697
+00:40:29,250 --> 00:40:30,330
+Says me.
+
+698
+00:40:44,400 --> 00:40:45,290
+Hey there.
+
+699
+00:40:45,760 --> 00:40:48,520
+You're that sharp shooter that saved my ass, aren't you?
+
+700
+00:40:49,040 --> 00:40:50,060
+Oh man.
+
+701
+00:40:50,120 --> 00:40:51,410
+I want to thank you.
+
+702
+00:40:52,570 --> 00:40:53,960
+Do you need a ride?
+
+703
+00:41:06,120 --> 00:41:08,960
+I know you're out there. I can see you.
+
+704
+00:41:09,670 --> 00:41:13,030
+Running. Hiding. Killing. Surviving.
+
+705
+00:41:13,760 --> 00:41:14,880
+I've seen it all.
+
+706
+00:41:15,390 --> 00:41:17,900
+Season tickets to the Zompocalypse.
+
+707
+00:41:18,850 --> 00:41:20,370
+And I got to tell you people,
+
+708
+00:41:20,370 --> 00:41:22,470
+we've been getting our asses kicked.
+
+709
+00:41:23,200 --> 00:41:25,880
+Well today's the day that all that changes.
+
+710
+00:41:27,970 --> 00:41:30,310
+That's right. I'm not just watching anymore.
+
+711
+00:41:30,310 --> 00:41:33,370
+It's time to kick some zombie ass.
+
+712
+00:41:33,420 --> 00:41:34,820
+This is Citizen Z broadcasting
+
+713
+00:41:34,820 --> 00:41:38,310
+live via broadband, low band, vhf, uhf, skynet.
+
+714
+00:41:38,310 --> 00:41:40,130
+If you can get a signal, then you can find me
+
+715
+00:41:40,130 --> 00:41:42,210
+thanks to our friends at the NSA.
+
+716
+00:41:42,470 --> 00:41:46,820
+Now all I need is somebody, anybody, everybody to get back to me
+
+717
+00:41:46,820 --> 00:41:49,010
+cuz that's how it starts. If you're still alive,
+
+718
+00:41:49,010 --> 00:41:50,010
+you're probably some kind of...
+
+719
+00:41:50,010 --> 00:41:52,710
+some kind of genetically predisposed badass.
+
+720
+00:41:52,710 --> 00:41:53,650
+And all we got to do is
+
+721
+00:41:53,650 --> 00:41:56,770
+get organized and the zombies don't stand a chance.
+
+722
+00:41:58,040 --> 00:41:59,840
+Now here's a little something for all of you out there
+
+723
+00:41:59,840 --> 00:42:02,990
+with 3,000 miles of bad road between you and home.
+
+724
+00:42:04,290 --> 00:42:06,260
+I hope you can hear it.
+
