@@ -1,4 +1,5 @@
-from concurrent.futures import ThreadPoolExecutor
+# from concurrent.futures import ThreadPoolExecutor
+import concurrent.futures
 import time
 import random
 import queue
@@ -13,7 +14,7 @@ def return_future_result(message):
 
 
 if __name__ == '__main__':
-    pool = ThreadPoolExecutor(max_workers=2)
+    pool = concurrent.futures.ThreadPoolExecutor(max_workers=2)
     future1 = pool.submit(return_future_result, ("hello"))  # 往线程池里面加入一个task
     future2 = pool.submit(return_future_result, ("world"))  # 往线程池里面加入一个task
     print(future1.done())  # 判断task1是否结束

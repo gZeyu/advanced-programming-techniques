@@ -2,7 +2,9 @@
 import sys
 import os
 import re
+import concurrent.futures
 import timeit
+import math
 
 
 def format_time(time_string):
@@ -57,6 +59,17 @@ def get_subtitle_filename_list(path):
     return filename_list
 
 
+def assign_tasks(filename_list, grain_size=1):
+
+    # task_list = [[] for x in range(math.ceil(len(filename_list) / grain_size))]
+
+    task_list = [[
+        filename_list[x * grain_size + y] for y in range(grain_size)
+        if x * grain_size + y < len(filename_list)
+    ] for x in range(math.ceil(len(filename_list) / grain_size))]
+    return task_list
+
+
 def task(filename_list):
 
     result = dict()
@@ -65,6 +78,17 @@ def task(filename_list):
         result[filename] = frequency
     return result
 
+
+def multithread_analyze(filename_list, max_workers=1, grain_size = 1):
+
+# pool = concurrent.futures.ThreadPoolExecutor(max_workers=4)
+# future1 = pool.submit(task, ("hello"))  # 往线程池里面加入一个task
+# future2 = pool.submit(task, ("world"))  # 往线程池里面加入一个task
+# print(future1.done())  # 判断task1是否结束
+# time.sleep(3)
+# print(future2.done())  # 判断task2是否结束
+# print(future1.result())  # 查看task1返回的结果
+# print(future2.result())  # 查看task2返回的结果
 
 # def func():
 
@@ -76,4 +100,6 @@ if __name__ == '__main__':
     #     'func()', 'from __main__ import func', number=1, repeat=5)
     # print(t)
     # print(min(t))
-    get_subtitle_filename_list('./srt')
+    filename_list = get_subtitle_filename_list('./srt')
+    # multithread_analyze(filename_list)
+    task_list = assign_tasks(filename_list, grain_size=5)
