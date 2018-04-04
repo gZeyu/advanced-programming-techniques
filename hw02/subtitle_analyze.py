@@ -94,8 +94,7 @@ def multithread_analyze_1(filename_list, max_workers=1, grain_size=1):
         threading.Thread(
             target=execute_task_1, args=(
                 task_queue,
-                result_queue,
-            )) for x in range(max_workers)
+                result_queue, )) for x in range(max_workers)
     ]
     for thread in thread_list:
         thread.daemon = True

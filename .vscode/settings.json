@@ -1,9 +1,8 @@
-{
-    // python
+{ // python
     "python.autoComplete.addBrackets": true,
     "python.formatting.provider": "yapf",
     "python.linting.pylintEnabled": true,
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
-    "editor.formatOnSave": true,
+    "python.pythonPath": "/home/bigding/.conda/envs/tensorflow/bin/python",
+    "python.autoComplete.extraPaths": ["/home/bigding/.conda/envs/tensorflow/lib/python3.6/site-packages"],
 }

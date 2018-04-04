@@ -1,3 +1,4 @@
+"""This program is used to calculate the word frequency of subtitle files"""
 import sys
 from PyQt5.QtWidgets import (QMainWindow, QApplication, QWidget,
                              QDesktopWidget, QFileDialog, QAction)
@@ -7,6 +8,8 @@ from PyQt5.QtSql import (QSqlDatabase, QSqlQuery)
 
 
 class App(QMainWindow):
+    """ """
+
     def __init__(self):
         super().__init__()
         self.title = 'subtitle-analyze-gui'
@@ -15,49 +18,49 @@ class App(QMainWindow):
         self.width = 512
         self.height = 400
 
-        self.targetFolder = QDir.current()
-        self.createConnection()
-        self.initUI()
+        self.target_folder = QDir.current()
+        self.create_connection()
+        self.init_ui()
 
-    def initUI(self):
+    def init_ui(self):
         self.setWindowTitle(self.title)
         self.setGeometry(self.left, self.top, self.width, self.height)
 
-        self.moveToCenter()
+        self.move_to_center()
 
-        openTargetFolderAction = QAction(
+        open_target_folder_action = QAction(
             QIcon('open_target_folder.png'), 'Open Folder...', self)
-        openTargetFolderAction.setShortcut('Ctrl+S')
-        openTargetFolderAction.setStatusTip('Open the target folder')
-        openTargetFolderAction.triggered.connect(self.openTargetFolder)
+        open_target_folder_action.setShortcut('Ctrl+S')
+        open_target_folder_action.setStatusTip('Open the target folder')
+        open_target_folder_action.triggered.connect(self.open_target_folder)
 
-        exitAction = QAction(QIcon('exit.png'), 'Exit', self)
-        exitAction.setShortcut('Ctrl+Q')
-        exitAction.setStatusTip('Exit application')
-        exitAction.triggered.connect(self.close)
+        exit_action = QAction(QIcon('exit.png'), 'Exit', self)
+        exit_action.setShortcut('Ctrl+Q')
+        exit_action.setStatusTip('Exit application')
+        exit_action.triggered.connect(self.close)
 
-        menuBar = self.menuBar()
-        fileMenu = menuBar.addMenu('&File')
-        fileMenu.addAction(openTargetFolderAction)
-        fileMenu.addAction(exitAction)
-        helpMenu = menuBar.addMenu('&Help')
+        menu_bar = self.menuBar()
+        file_menu = menu_bar.addMenu('&File')
+        file_menu.addAction(open_target_folder_action)
+        file_menu.addAction(exit_action)
+        help_menu = menu_bar.addMenu('&Help')
 
         self.show()
 
-    def openTargetFolder(self):
+    def open_target_folder(self):
         directory = QFileDialog.getExistingDirectory(self,
                                                      'Open the target folder',
                                                      QDir.currentPath())
         if directory:
-            self.targetFolder = QDir.current()
+            self.target_folder = QDir.current()
 
-    def moveToCenter(self):
+    def move_to_center(self):
         screen = QDesktopWidget().screenGeometry()
         size = self.geometry()
         self.move((screen.width() - size.width()) / 2,
                   (screen.height() - size.height()) / 2)
 
-    def createConnection(self):
+    def create_connection(self):
         self.database = QSqlDatabase.addDatabase("QSQLITE")
         self.database.setDatabaseName("analyze.db")
         # self.database.setUserName("root")
@@ -66,26 +69,29 @@ class App(QMainWindow):
         if not self.database.open():
             return False
 
-        createSql = "create table subtitle (id int primary key, name varchar(256), count int, time int, frequency int)"
-        insertSql = "insert into subtitle values (?, ?, ?, ?, ?)"
-        orderSql = "select * from subtitle order by ? ?"
-        dropSql = "drop table subtitle"
+        create_sql = "create table subtitle (id int primary key, name varchar(256), count int, time int, frequency int)"
+        insert_sql = "insert into subtitle values (?, ?, ?, ?, ?)"
+        order_sql = "select * from subtitle order by ? ?"
+        drop_sql = "drop table subtitle"
 
-        sqlQuery = QSqlQuery()
-        sqlQuery.prepare(createSql)
-        sqlQuery.exec_()
+        sql_query = QSqlQuery()
+        sql_query.prepare(create_sql)
+        sql_query.exec_()
 
-        sqlQuery.prepare(insertSql)
-        sqlQuery.addBindValue(1)
-        sqlQuery.addBindValue('1')
-        sqlQuery.addBindValue(1)
-        sqlQuery.addBindValue(1)
-        sqlQuery.addBindValue(1)
-        sqlQuery.exec_()
+        sql_query.prepare(insert_sql)
+        sql_query.addBindValue(1)
+        sql_query.addBindValue('1')
+        sql_query.addBindValue(1)
+        sql_query.addBindValue(1)
+        sql_query.addBindValue(1)
+        sql_query.exec_()
+        return True
 
 
 if __name__ == '__main__':
 
     app = QApplication(sys.argv)
     ex = App()
+    a = list()
+    a.append(9)
     sys.exit(app.exec_())
