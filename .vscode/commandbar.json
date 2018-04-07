@@ -1,0 +1,35 @@
+{
+    "skipTerminateQuickPick": true,
+    "skipSwitchToOutput": false,
+    "skipErrorMessage": true,
+    "commands": [
+        {
+            "text": "designer",
+            "tooltip": "designer",
+            "color": "yellow",
+            "command": "/opt/Qt/5.10.1/gcc_64/bin/designer",
+            "alignment": "left",
+            "skipTerminateQuickPick": false,
+            "priority": 3
+        },
+        {
+            "text": "pyuic",
+            "tooltip": "pyuic",
+            "color": "yellow",
+            "commandType": "palette",
+            "command": "workbench.action.tasks.runTask",
+            "alignment": "left",
+            "skipTerminateQuickPick": false,
+            "priority": 2
+        },
+        {
+            "text": "assistant",
+            "tooltip": "assistant",
+            "color": "yellow",
+            "command": "/opt/Qt/5.10.1/gcc_64/bin/assistant",
+            "alignment": "left",
+            "skipTerminateQuickPick": false,
+            "priority": 1
+        }
+    ]
+}
