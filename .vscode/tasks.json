@@ -6,7 +6,7 @@
         {
             "label": "pyuic",
             "type": "shell",
-            "command": "/opt/anaconda3/envs/dev/bin/pyuic5 ${file} -o ${fileBasenameNoExtension}.py",
+            "command": "/opt/anaconda3/envs/dev/bin/pyuic5 ${file} -o ${fileDirname}/ui_${fileBasenameNoExtension}.py",
             "problemMatcher": []
         }
     ]
