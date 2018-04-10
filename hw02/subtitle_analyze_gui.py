@@ -17,7 +17,6 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         super(MainWindow, self).__init__()
 
         self.folder_path = QDir.current().path()
-
         self.init_ui()
 
     def init_ui(self):
@@ -34,15 +33,11 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         """Initialize the table view"""
         if not create_connection():
             sys.exit(1)
-
-        model = QSqlTableModel()
-        add_record('test.srt', 100, 300, 300)
-        add_record('wqd.srt', 200, 200, 100)
-        add_record('qwdqw.srt', 300, 100, 200)
-        initialize_model(model)
-        self.tableView.setModel(model)
+        self.model = QSqlTableModel()
+        initialize_model(self.model)
+        self.tableView.setModel(self.model)
         self.tableView.setSortingEnabled(True)
-        reflesh_model(model)
+        reflesh_model(self.model)
 
     def move_to_center(self):
         """Move windows to the center of the screen."""
@@ -62,10 +57,9 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         """Analyze subtitles"""
         filename_list = get_subtitle_filename_list(self.folder_path)
         result_dict = single_thread_analyze(filename_list)
-        pass
-        # output_analysis_result_document(
-        #     result_dict, filename='analysis_result.txt')
-
+        for key in result_dict.keys():
+            add_record(result_dict[key][0], result_dict[key][1], result_dict[key][2], result_dict[key][3])
+        reflesh_model(self.model)
 
 if __name__ == "__main__":
     a = QApplication(sys.argv)

@@ -113,18 +113,18 @@ def single_thread_analyze(filename_list):
     result = dict()
     for filename in filename_list:
         word_count, milliseconds, frequency = read_subtitle_file(filename)
-        result[filename] = [word_count, milliseconds, frequency]
+        result[filename] = [filename, word_count, milliseconds, frequency]
     return result
 
 
 def output_analysis_result_document(result_dict,
                                     filename='analysis_result.txt'):
     #todo split items of dict
-    # data = [list([result_dict[key], key]) for key in result_dict.keys()]
-    result_list = sorted(result_dict.items(), key=lambda x: x[1])
+    data = [result_dict[key] for key in result_dict.keys()]
+    result_list = sorted(data, key=lambda x: x[3])
     with open(filename, 'w') as file:
         for result in result_list:
-            file.writelines('%s\t%f\n' % (result[0], result[1]))
+            file.writelines('%s\t%d\t%d\t%f\n' % (result[0], result[1], result[2], result[3]))
 
 
 def test_multithread_analyze_1():
@@ -155,6 +155,6 @@ if __name__ == '__main__':
     t = timeit.repeat(
         'test_single_thread_analyze()',
         'from __main__ import test_single_thread_analyze',
-        number=20,
+        number=1,
         repeat=1)
     print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
