@@ -53,19 +53,19 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
     def open_folder(self):
         """Set target folder."""
-        self.folder_path = QFileDialog.getExistingDirectory(self, 'Open the folder',
-                                                     QDir.currentPath())
+        self.folder_path = QFileDialog.getExistingDirectory(
+            self, 'Open the folder', QDir.currentPath())
         if not self.folder_path:
             self.folder_path = QDir.current().path()
-
-        print(self.folder_path)
 
     def analyze_subtitle(self):
         """Analyze subtitles"""
         filename_list = get_subtitle_filename_list(self.folder_path)
         result_dict = single_thread_analyze(filename_list)
-        output_analysis_result_document(
-        result_dict, filename='analysis_result.txt')
+        pass
+        # output_analysis_result_document(
+        #     result_dict, filename='analysis_result.txt')
+
 
 if __name__ == "__main__":
     a = QApplication(sys.argv)

@@ -49,7 +49,7 @@ def read_subtitle_file(filename):
                 # print(text[i + 1])
     frequency = word_count / (milliseconds / 60000)
     # print((milliseconds / 60000))
-    return frequency
+    return word_count, milliseconds, frequency
 
 
 def get_subtitle_filename_list(path):
@@ -94,7 +94,8 @@ def multithread_analyze_1(filename_list, max_workers=1, grain_size=1):
         threading.Thread(
             target=execute_task_1, args=(
                 task_queue,
-                result_queue, )) for x in range(max_workers)
+                result_queue,
+            )) for x in range(max_workers)
     ]
     for thread in thread_list:
         thread.daemon = True
@@ -111,13 +112,15 @@ def multithread_analyze_1(filename_list, max_workers=1, grain_size=1):
 def single_thread_analyze(filename_list):
     result = dict()
     for filename in filename_list:
-        frequency = read_subtitle_file(filename)
-        result[filename] = frequency
+        word_count, milliseconds, frequency = read_subtitle_file(filename)
+        result[filename] = [word_count, milliseconds, frequency]
     return result
 
 
 def output_analysis_result_document(result_dict,
                                     filename='analysis_result.txt'):
+    #todo split items of dict
+    # data = [list([result_dict[key], key]) for key in result_dict.keys()]
     result_list = sorted(result_dict.items(), key=lambda x: x[1])
     with open(filename, 'w') as file:
         for result in result_list:
@@ -142,12 +145,12 @@ def test_single_thread_analyze():
 
 if __name__ == '__main__':
 
-    t = timeit.repeat(
-        'test_multithread_analyze_1()',
-        'from __main__ import test_multithread_analyze_1',
-        number=20,
-        repeat=1)
-    print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
+    # t = timeit.repeat(
+    #     'test_multithread_analyze_1()',
+    #     'from __main__ import test_multithread_analyze_1',
+    #     number=20,
+    #     repeat=1)
+    # print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
 
     t = timeit.repeat(
         'test_single_thread_analyze()',
