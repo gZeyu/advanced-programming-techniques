@@ -9,7 +9,7 @@ import time
 import math
 import random
 import queue
-
+import chardet
 
 def format_time(time_string):
     elements = re.split(r'[:,]', time_string)
@@ -38,10 +38,17 @@ def segment_word(text):
 def read_subtitle_file(filename):
     milliseconds = 0
     word_count = 0
-    with open(filename, 'r') as file:
+    file = open(filename, "rb")
+    buff = file.read() 
+    detect_result = chardet.detect(buff) 
+    file.close()
+
+    print(filename, detect_result)
+    with open(filename, 'r',encoding=detect_result['encoding'], errors = 'ignore') as file:
         text = file.readlines()
         for i in range(len(text)):
             if '-->' in text[i]:
+                print(text[i+1])
                 elements = text[i].split()
                 milliseconds += format_time(elements[2]) - format_time(
                     elements[0])
@@ -52,11 +59,11 @@ def read_subtitle_file(filename):
     return word_count, milliseconds, frequency
 
 
-def get_subtitle_filename_list(path):
+def get_subtitle_filename_list(path, mode = ''):
     filename_list = list()
     for file in os.listdir(path):
         filename = os.path.join(path, file)
-        if '.eng.srt' in filename:
+        if '.srt' in filename:
             filename_list.append(filename)
     return filename_list
 

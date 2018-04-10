@@ -1,8 +1,8 @@
 import sys
-from PyQt5.QtCore import (pyqtSlot)
+from PyQt5.QtCore import (QDir, QThread, pyqtSignal, pyqtSlot)
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QDesktopWidget,
-                             QFileDialog, QGridLayout)
-from PyQt5.QtCore import (QDir)
+                             QFileDialog, QGridLayout, QHeaderView)
+from PyQt5.QtGui import (QMovie)
 from PyQt5.QtSql import (QSqlTableModel)
 from ui_mainwindow import Ui_MainWindow
 from sql_table import (create_connection, add_record, initialize_model,
@@ -25,9 +25,19 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.move_to_center()
         self.init_table_view()
 
+        movie = QMovie('processing.gif')
+        self.label.setMovie(movie)
+        movie.start()
+        self.label.setVisible(False)
+
+        self.tableView.resizeColumnsToContents()
+        self.tableView.resizeRowsToContents()
+        self.tableView.horizontalHeader().setSectionResizeMode(
+            QHeaderView.ResizeToContents)
+
         self.actionOpen_Folder.triggered.connect(self.open_folder)
         self.actionExit.triggered.connect(self.close)
-        self.refreshPushButton.released.connect(self.analyze_subtitle)
+        self.refreshPushButton.released.connect(self.refresh)
 
     def init_table_view(self):
         """Initialize the table view"""
@@ -58,8 +68,43 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         filename_list = get_subtitle_filename_list(self.folder_path)
         result_dict = single_thread_analyze(filename_list)
         for key in result_dict.keys():
-            add_record(result_dict[key][0], result_dict[key][1], result_dict[key][2], result_dict[key][3])
+            add_record(result_dict[key][0], result_dict[key][1],
+                       result_dict[key][2], result_dict[key][3])
+
+    def refresh(self):
+        """Execute analysis task."""
+        self.label.setVisible(True)
+        self.refreshPushButton.setEnabled(False)
+
         reflesh_model(self.model)
+        self.task_thread = TaskThread()
+        self.task_thread.set_task(self.analyze_subtitle)
+        self.task_thread.finish_signal.connect(self.process_thread_message)
+        self.task_thread.start()
+
+    def process_thread_message(self, message):
+        """Processing thread message."""
+        reflesh_model(self.model)
+        self.label.setVisible(False)
+        self.refreshPushButton.setEnabled(True)
+
+
+class TaskThread(QThread):
+    """Multithread class."""
+    finish_signal = pyqtSignal(list)
+
+    def __init__(self, parent=None):
+        super(TaskThread, self).__init__(parent)
+        self.func = None
+
+    def run(self):
+        if self.func:
+            self.func()
+            self.finish_signal.emit([])
+
+    def set_task(self, func):
+        self.func = func
+
 
 if __name__ == "__main__":
     a = QApplication(sys.argv)

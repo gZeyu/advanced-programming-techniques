@@ -2,7 +2,7 @@
 
 # Form implementation generated from reading ui file '/home/bigding/Code/advanced-programming-techniques/hw02/mainwindow.ui'
 #
-# Created by: PyQt5 UI code generator 5.6
+# Created by: PyQt5 UI code generator 5.9.2
 #
 # WARNING! All changes made in this file will be lost!
 
@@ -11,22 +11,28 @@ from PyQt5 import QtCore, QtGui, QtWidgets
 class Ui_MainWindow(object):
     def setupUi(self, MainWindow):
         MainWindow.setObjectName("MainWindow")
-        MainWindow.resize(569, 474)
+        MainWindow.resize(608, 475)
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.gridLayout = QtWidgets.QGridLayout(self.centralwidget)
         self.gridLayout.setObjectName("gridLayout")
-        spacerItem = QtWidgets.QSpacerItem(462, 20, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
+        spacerItem = QtWidgets.QSpacerItem(456, 17, QtWidgets.QSizePolicy.Expanding, QtWidgets.QSizePolicy.Minimum)
         self.gridLayout.addItem(spacerItem, 0, 0, 1, 1)
+        self.horizontalLayout = QtWidgets.QHBoxLayout()
+        self.horizontalLayout.setObjectName("horizontalLayout")
+        self.label = QtWidgets.QLabel(self.centralwidget)
+        self.label.setObjectName("label")
+        self.horizontalLayout.addWidget(self.label)
         self.refreshPushButton = QtWidgets.QPushButton(self.centralwidget)
         self.refreshPushButton.setObjectName("refreshPushButton")
-        self.gridLayout.addWidget(self.refreshPushButton, 0, 1, 1, 1)
+        self.horizontalLayout.addWidget(self.refreshPushButton)
+        self.gridLayout.addLayout(self.horizontalLayout, 0, 1, 1, 1)
         self.tableView = QtWidgets.QTableView(self.centralwidget)
         self.tableView.setObjectName("tableView")
         self.gridLayout.addWidget(self.tableView, 1, 0, 1, 2)
         MainWindow.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(MainWindow)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 569, 22))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 608, 22))
         self.menubar.setObjectName("menubar")
         self.menuOpen_Folder = QtWidgets.QMenu(self.menubar)
         self.menuOpen_Folder.setObjectName("menuOpen_Folder")
@@ -58,6 +64,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "MainWindow"))
+        self.label.setText(_translate("MainWindow", "      "))
         self.refreshPushButton.setText(_translate("MainWindow", "Refresh"))
         self.menuOpen_Folder.setTitle(_translate("MainWindow", "&File"))
         self.menu_Help.setTitle(_translate("MainWindow", "&Help"))
