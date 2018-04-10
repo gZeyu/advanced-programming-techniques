@@ -1,0 +1,15 @@
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/bbc戴维阿滕伯勒非洲s01e04.eng.srt	133.828068
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E08.HDTV.x264-KILLERS.eng.srt	153.884006
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E11.720p.HDTV.X264-DIMENSION.eng.srt	165.824013
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/discoverycuriositys01e06.eng.srt	171.314802
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E10.HDTV.x264-KILLERS.eng.srt	178.525167
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E07.HDTV.x264-BATV.eng.srt	179.163676
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E12.720p.HDTV.X264-DIMENSION.eng.srt	179.792547
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E02.720p.HDTV.x264-KILLERS.eng.srt	180.130008
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E13.720p.HDTV.X264-DIMENSION.eng.srt	182.021640
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E05.720p.HDTV.X264-DIMENSION.eng.srt	182.639462
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E04.HDTV.x264-KILLERS.eng.srt	184.755520
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E09.720p.HDTV.X264-DIMENSION.eng.srt	186.069665
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E03.HDTV.x264-KILLERS.eng.srt	188.938171
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E06.HDTV.x264-KILLERS.eng.srt	194.664783
+/home/bigding/Code/advanced-programming-techniques/hw02/srt/Z.Nation.S01E01.HDTV.x264-KILLERS1.eng.srt	199.251130

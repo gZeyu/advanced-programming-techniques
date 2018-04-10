@@ -1,97 +1,74 @@
-"""This program is used to calculate the word frequency of subtitle files"""
 import sys
-from PyQt5.QtWidgets import (QMainWindow, QApplication, QWidget,
-                             QDesktopWidget, QFileDialog, QAction)
-from PyQt5.QtGui import (QIcon)
-from PyQt5.QtCore import (QDir, QThread, pyqtSlot, pyqtSignal)
-from PyQt5.QtSql import (QSqlDatabase, QSqlQuery)
+from PyQt5.QtCore import (pyqtSlot)
+from PyQt5.QtWidgets import (QApplication, QMainWindow, QDesktopWidget,
+                             QFileDialog, QGridLayout)
+from PyQt5.QtCore import (QDir)
+from PyQt5.QtSql import (QSqlTableModel)
+from ui_mainwindow import Ui_MainWindow
+from sql_table import (create_connection, add_record, initialize_model,
+                       reflesh_model)
+from subtitle_analyze_cli import (get_subtitle_filename_list,
+                                  single_thread_analyze,
+                                  output_analysis_result_document)
 
 
-class App(QMainWindow):
-    """ """
-
+class MainWindow(QMainWindow, Ui_MainWindow):
     def __init__(self):
-        super().__init__()
-        self.title = 'subtitle-analyze-gui'
-        self.left = 10
-        self.top = 10
-        self.width = 512
-        self.height = 400
+        super(MainWindow, self).__init__()
 
-        self.target_folder = QDir.current()
-        self.create_connection()
+        self.folder_path = QDir.current().path()
+
         self.init_ui()
 
     def init_ui(self):
-        self.setWindowTitle(self.title)
-        self.setGeometry(self.left, self.top, self.width, self.height)
-
+        """Initialize ui."""
+        self.setupUi(self)
         self.move_to_center()
+        self.init_table_view()
 
-        open_target_folder_action = QAction(
-            QIcon('open_target_folder.png'), 'Open Folder...', self)
-        open_target_folder_action.setShortcut('Ctrl+S')
-        open_target_folder_action.setStatusTip('Open the target folder')
-        open_target_folder_action.triggered.connect(self.open_target_folder)
+        self.actionOpen_Folder.triggered.connect(self.open_folder)
+        self.actionExit.triggered.connect(self.close)
+        self.refreshPushButton.released.connect(self.analyze_subtitle)
 
-        exit_action = QAction(QIcon('exit.png'), 'Exit', self)
-        exit_action.setShortcut('Ctrl+Q')
-        exit_action.setStatusTip('Exit application')
-        exit_action.triggered.connect(self.close)
+    def init_table_view(self):
+        """Initialize the table view"""
+        if not create_connection():
+            sys.exit(1)
 
-        menu_bar = self.menuBar()
-        file_menu = menu_bar.addMenu('&File')
-        file_menu.addAction(open_target_folder_action)
-        file_menu.addAction(exit_action)
-        help_menu = menu_bar.addMenu('&Help')
-
-        self.show()
-
-    def open_target_folder(self):
-        directory = QFileDialog.getExistingDirectory(self,
-                                                     'Open the target folder',
-                                                     QDir.currentPath())
-        if directory:
-            self.target_folder = QDir.current()
+        model = QSqlTableModel()
+        add_record('test.srt', 100, 300, 300)
+        add_record('wqd.srt', 200, 200, 100)
+        add_record('qwdqw.srt', 300, 100, 200)
+        initialize_model(model)
+        self.tableView.setModel(model)
+        self.tableView.setSortingEnabled(True)
+        reflesh_model(model)
 
     def move_to_center(self):
+        """Move windows to the center of the screen."""
         screen = QDesktopWidget().screenGeometry()
         size = self.geometry()
         self.move((screen.width() - size.width()) / 2,
                   (screen.height() - size.height()) / 2)
 
-    def create_connection(self):
-        self.database = QSqlDatabase.addDatabase("QSQLITE")
-        self.database.setDatabaseName("analyze.db")
-        # self.database.setUserName("root")
-        # self.database.setPassword("123456")
+    def open_folder(self):
+        """Set target folder."""
+        self.folder_path = QFileDialog.getExistingDirectory(self, 'Open the folder',
+                                                     QDir.currentPath())
+        if not self.folder_path:
+            self.folder_path = QDir.current().path()
 
-        if not self.database.open():
-            return False
+        print(self.folder_path)
 
-        create_sql = "create table subtitle (id int primary key, name varchar(256), count int, time int, frequency int)"
-        insert_sql = "insert into subtitle values (?, ?, ?, ?, ?)"
-        order_sql = "select * from subtitle order by ? ?"
-        drop_sql = "drop table subtitle"
+    def analyze_subtitle(self):
+        """Analyze subtitles"""
+        filename_list = get_subtitle_filename_list(self.folder_path)
+        result_dict = single_thread_analyze(filename_list)
+        output_analysis_result_document(
+        result_dict, filename='analysis_result.txt')
 
-        sql_query = QSqlQuery()
-        sql_query.prepare(create_sql)
-        sql_query.exec_()
-
-        sql_query.prepare(insert_sql)
-        sql_query.addBindValue(1)
-        sql_query.addBindValue('1')
-        sql_query.addBindValue(1)
-        sql_query.addBindValue(1)
-        sql_query.addBindValue(1)
-        sql_query.exec_()
-        return True
-
-
-if __name__ == '__main__':
-
-    app = QApplication(sys.argv)
-    ex = App()
-    a = list()
-    a.append(9)
-    sys.exit(app.exec_())
+if __name__ == "__main__":
+    a = QApplication(sys.argv)
+    w = MainWindow()
+    w.show()
+    sys.exit(a.exec_())
