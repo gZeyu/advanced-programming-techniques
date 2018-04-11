@@ -1,0 +1,3028 @@
+﻿5
+00:04:58,600 --> 00:05:01,600
+{\an1}{\pos(39.976,44.164)}本字幕由人人影视字幕组翻译
+禁止用于任何商业盈利行为
+
+6
+00:05:01,480 --> 00:05:06,410
+{\an4}翻译   迷失_绽放    我叫魏碧慧     Marshal同学   小酸奶
+
+7
+00:05:06,410 --> 00:05:11,290
+{\an4}翻译   CS小明漫画家   天启章鱼X    kiko   如是我闻
+
+8
+00:05:11,290 --> 00:05:15,460
+{\an4}时间轴   Ans   SumenQ      后期   蜡笔小新的眉毛
+
+9
+00:05:15,460 --> 00:05:18,630
+{\an4}校对   米小勒      总监   米小勒
+
+10
+00:00:07,160 --> 00:00:11,030
+{\an8}北极光
+最后的美国国安局作战指挥中心
+
+11
+00:00:07,280 --> 00:00:11,020
+市民Z在前线情报阵地北极光发回报导
+This is Citizen Z here at forward listening post Northern Light.
+
+12
+00:00:11,020 --> 00:00:13,060
+北极光呼叫威尔森山
+Northern Light to Mount Wilson.
+
+13
+00:00:13,650 --> 00:00:15,310
+威尔森山疾病控制中心  有人吗
+Anyone from the Mount Wilson CDC.
+
+14
+00:00:15,310 --> 00:00:18,590
+我这里有关于三角洲X光小队和
+I have important information regarding Delta-Xray-Delta
+
+15
+00:00:18,590 --> 00:00:20,560
+咬痕研究所的重要信息
+and Operation Bite Mark.
+
+16
+00:00:20,760 --> 00:00:22,460
+快点  加利福尼亚  坚持一下
+Come on, California. Hang in there
+
+17
+00:00:22,460 --> 00:00:23,430
+你们的包裹已经在路上了
+Your package is on the way.
+
+18
+00:00:23,430 --> 00:00:25,810
+你要做的就是签收一下
+All you got to do is be there to sign for it.
+
+19
+00:00:38,640 --> 00:00:42,140
+这里是威尔森山  我是黑斯廷斯医生
+This is Mount Wilson. This is Doctor Hastings at Mount Wilson.
+
+20
+00:00:42,140 --> 00:00:45,430
+太好了  威尔森山  这里是北极光
+Yes! Mount Wilson, you have Northern Light.
+
+21
+00:00:45,430 --> 00:00:48,570
+我们被一大群四级僵尸病毒感染者攻击
+We've been attacked by a swarm of level four infected.
+
+22
+00:00:48,570 --> 00:00:50,330
+我们的防御已被突破
+Our defenses have been breached.
+
+23
+00:00:50,330 --> 00:00:53,350
+四周有通高压电的围墙  大家逃不出去
+Our escape has been blocked by a high voltage fence.
+
+24
+00:00:53,350 --> 00:00:56,210
+你从这里能到达电源网格的地方吗
+Can you access the power grid from your location?
+
+25
+00:00:56,260 --> 00:00:58,270
+不可能  我们这里通往断电器的路上
+Negative. There are too many Zs between us
+
+26
+00:00:58,270 --> 00:00:58,860
+有太多的僵尸了
+and the breakers.
+
+27
+00:00:58,860 --> 00:01:01,650
+好的  我在这里应该可以做些事情
+All right. I might be able to do something from my end.
+
+28
+00:01:01,650 --> 00:01:03,870
+如果我可以进入到你们实验室的网络系统
+If I can access anything on your lab network
+
+29
+00:01:03,870 --> 00:01:05,240
+它和外墙共用一台发电机
+powered by the same generator
+
+30
+00:01:05,240 --> 00:01:06,770
+我可以让它过载断电
+I might be able to overload it,
+
+31
+00:01:06,770 --> 00:01:08,160
+这样就可以切断围墙上的高压电了
+knock out power to the fence.
+
+32
+00:01:08,160 --> 00:01:09,750
+我不知道密码
+I don't know the password.
+
+33
+00:01:09,840 --> 00:01:10,450
+不用着急
+Not to worry.
+
+34
+00:01:10,450 --> 00:01:12,920
+我们是国安局的  无所不能
+We're the NSA. All of it.
+
+35
+00:01:12,920 --> 00:01:14,030
+麻烦快点
+Please hurry.
+
+36
+00:01:14,610 --> 00:01:16,670
+好了  好了  我进去了
+All right. All right. I'm... I'm already in.
+
+37
+00:01:17,340 --> 00:01:18,900
+威尔森山
+Uhhh, Mount Wilson.
+
+38
+00:01:18,900 --> 00:01:20,550
+我们随时可以进行过载断电操作了
+We are ready to execute overload.
+
+39
+00:01:20,550 --> 00:01:23,350
+但是我看到你们的主机和基因序列
+But I'm showing your mainframe and gene sequencer
+
+40
+00:01:23,350 --> 00:01:24,990
+都在同一个网络里
+on the same network.
+
+41
+00:01:24,990 --> 00:01:28,450
+如果我进行过载操作  很有可能主机里
+That means any vaccine files that you have on that mainframe
+
+42
+00:01:28,450 --> 00:01:29,920
+所有的疫苗文件都会毁掉
+are likely to be destroyed.
+
+43
+00:01:29,920 --> 00:01:31,160
+收到请指示
+Please advise me.
+
+44
+00:01:32,310 --> 00:01:35,730
+威尔森山  我已准备好过载  请指示
+Mount Wilson, I'm ready to execute overload. Please advise.
+
+45
+00:01:36,040 --> 00:01:38,680
+如果我这么做  你们的努力将付之一炬
+If I do this, I'm going to fry your work.
+
+46
+00:01:38,680 --> 00:01:39,970
+你们有备份吗
+Do you have a backup?
+
+47
+00:01:39,970 --> 00:01:41,460
+-威尔森山  -这里僵尸太多了
+- Mount Wilson?  - There's too many!
+
+48
+00:01:41,460 --> 00:01:43,090
+你现在就得把我们
+You've got to get us
+
+49
+00:01:43,640 --> 00:01:45,110
+从这里弄出去
+out of here now!
+
+50
+00:01:46,540 --> 00:01:47,510
+可恶
+Damn it!
+
+51
+00:01:48,920 --> 00:01:50,910
+断电了  快跑快跑
+That's it! Go! Go! Go!
+
+52
+00:01:51,500 --> 00:01:53,700
+加油  威尔森山  再坚持一下
+Come on, Mount Wilson. Hang in there.
+
+53
+00:01:55,010 --> 00:01:57,870
+{\an8}主机
+
+54
+00:02:01,330 --> 00:02:03,280
+{\an8}塔潘齐桥
+
+55
+00:02:04,300 --> 00:02:05,660
+不管你在做什么  都不要停下来
+Whatever you do, don't stop.
+
+56
+00:02:05,660 --> 00:02:07,250
+你以为姐会吗
+Haha, ya think.
+
+57
+00:02:15,120 --> 00:02:16,460
+绕着走
+Go around!
+
+58
+00:02:16,680 --> 00:02:17,720
+太晚了
+Too late!
+
+59
+00:02:25,980 --> 00:02:27,120
+开得不错
+Nice driving.
+
+60
+00:02:38,130 --> 00:02:40,090
+哦  不是吧
+Oh no. No-no. No!
+
+61
+00:02:40,090 --> 00:02:40,810
+怎么了
+What?
+
+62
+00:02:40,810 --> 00:02:42,710
+没油了
+Oh, we're out of gas.
+
+63
+00:02:52,180 --> 00:02:53,010
+那挺有意思的
+Well that was fun.
+
+64
+00:02:53,010 --> 00:02:54,920
+没汽油了
+Ha-ha. Out of gas.
+
+65
+00:02:55,220 --> 00:02:56,840
+弹尽粮绝  还要继续奔跑
+Running on fumes.
+
+66
+00:03:00,410 --> 00:03:02,570
+好吧  你们的车胎好像爆了
+All right. So it looks like you got a flat.
+
+67
+00:03:08,140 --> 00:03:09,140
+小心点
+Heads up.
+
+68
+00:03:09,140 --> 00:03:10,090
+有人来了
+We got company.
+
+69
+00:03:26,460 --> 00:03:27,650
+没错
+That's right.
+
+70
+00:03:27,650 --> 00:03:32,280
+继续走  大家就都能活着见到明天的太阳
+Keep rolling and we all live to see another day.
+
+71
+00:03:40,480 --> 00:03:42,200
+好了  咱们动作快点
+All right. Let's do this quick.
+
+72
+00:03:44,170 --> 00:03:44,980
+好了
+All right.
+
+73
+00:03:44,980 --> 00:03:48,240
+看上去轮胎没事  但它就是转不动了
+Doesn't look flat, but it won't... turn.
+
+74
+00:03:48,670 --> 00:03:50,720
+我们碾过什么东西了
+We ran over some fun stuff.
+
+75
+00:03:50,720 --> 00:03:53,100
+帮我把轮胎卸下来  看看到底怎么回事
+Okay. Well help me get it off and let's see what's going on.
+
+76
+00:04:00,460 --> 00:04:02,750
+这就解释的通了
+Well that explains the pull to the left.
+
+77
+00:04:02,750 --> 00:04:03,370
+你还在等什么
+What are you waiting for?
+
+78
+00:04:03,370 --> 00:04:05,180
+快杀了它  动手
+Kill it! Kill it!
+
+79
+00:04:08,250 --> 00:04:11,070
+好了  送你上路
+All right, you. Time to go home.
+
+80
+00:04:22,170 --> 00:04:24,380
+经历了这些血雨腥风
+Even after all this,
+
+81
+00:04:25,230 --> 00:04:27,400
+它风采依旧
+it's still beautiful.
+
+82
+00:04:27,840 --> 00:04:29,100
+再好好看看这里
+Take a good look.
+
+83
+00:04:30,190 --> 00:04:31,830
+我们短时间内不会回来了
+Might not be back for a while.
+
+84
+00:04:32,920 --> 00:04:34,390
+纽约  再会
+So long New York.
+
+85
+00:04:35,370 --> 00:04:36,890
+下辈子见
+See ya in the next life.
+
+86
+00:04:44,050 --> 00:04:47,760
+{\an8}{\pos(187.2,36.3564)}僵 尸
+
+87
+00:04:44,300 --> 00:04:47,760
+{\an8}{\pos(187.2,36.3564)}僵 尸
+
+88
+00:04:44,720 --> 00:04:47,760
+{\an8}{\pos(187.2,36.3564)}僵 尸
+
+89
+00:04:43,920 --> 00:04:44,260
+{\an8}国 度
+
+90
+00:04:44,260 --> 00:04:47,760
+{\an8}国 度
+
+91
+00:04:47,720 --> 00:04:47,760
+{\an8}{\pos(190.933,257.921)}第一季 第二集
+
+92
+00:04:46,260 --> 00:04:47,760
+{\an8}{\pos(185.6,49.901)}.
+
+93
+00:04:46,680 --> 00:04:47,760
+{\an8}{\pos(228.267,57.0297)}.
+
+94
+00:04:47,180 --> 00:04:47,760
+{\an8}{\pos(150.4,193.188)}.
+
+95
+00:04:55,160 --> 00:04:57,560
+威尔森山  这里是北极光阵地
+Mount Wilson, this is Northern Light.
+
+96
+00:04:57,750 --> 00:05:00,400
+威尔森山  这里是北极光阵地
+Mount Wilson, this is Northern Light.
+
+97
+00:05:00,700 --> 00:05:01,630
+请回话
+Come in.
+
+98
+00:05:03,080 --> 00:05:05,000
+威尔森山  这里是市民Z
+Mount Wilson, this is Citizen Z.
+
+99
+00:05:05,000 --> 00:05:07,080
+想要确保你们还在工作
+Making sure you're all still in business.
+
+100
+00:05:08,810 --> 00:05:11,200
+三角洲X光小队 
+Delta-Xray-Delta.
+
+101
+00:05:11,700 --> 00:05:14,210
+三角洲X光小队 
+Delta-Xray-Delta.
+
+102
+00:05:14,310 --> 00:05:15,790
+听到吗
+Do you copy?
+
+103
+00:05:16,940 --> 00:05:18,800
+有人听到吗
+Does anybody copy?
+
+104
+00:05:20,760 --> 00:05:22,380
+有人听到吗
+Does anybody copy?
+
+105
+00:05:23,560 --> 00:05:28,710
+咬痕研究所  咬痕研究所
+Operation Bite Mark. Operation Bite Mark.
+
+106
+00:05:28,710 --> 00:05:30,930
+你现在收听的是由所有已知频率
+This is Citizen Z from Camp Northern Light
+
+107
+00:05:30,940 --> 00:05:33,620
+直播的北极光阵地市民Z广播
+broadcasting live on all known frequencies.
+
+108
+00:05:33,620 --> 00:05:35,290
+虽然有些频率无人知晓
+Even a few nobody knows about.
+
+109
+00:05:35,290 --> 00:05:37,820
+如果你有任何通讯的方式  任何方式
+If you have any way at all to communicate, any way at all.
+
+110
+00:05:37,820 --> 00:05:40,210
+如果你有短波  长波  暗波
+If you've got short wave, long wave, dark wave,
+
+111
+00:05:40,220 --> 00:05:45,760
+宽频  X频  杯子传声  烟幕信号
+broadband, xband, two cups and a string, smoke signals.
+
+112
+00:05:46,350 --> 00:05:47,760
+任何能回复我的方式
+Anything. Just get back to me.
+
+113
+00:05:47,760 --> 00:05:49,550
+我这里有卫星  我会看到的
+I've got a satellite. I'll see it.
+
+114
+00:05:53,730 --> 00:05:55,140
+有人在咬痕研究所吗
+Anyone from Operation Bite Mark.
+
+115
+00:05:55,140 --> 00:05:57,380
+这里是北极光阵地的市民Z
+This is Citizen Z from Camp Northern Light.
+
+116
+00:05:57,380 --> 00:06:00,010
+我要向你汇报加州的最新情况
+I have an update for you on the California situation.
+
+117
+00:06:00,070 --> 00:06:02,710
+我们可以商讨行动方案
+We need to discuss some operational realities.
+
+118
+00:06:02,710 --> 00:06:04,510
+威尔森山  听到了吗
+Mount Wilson, do you copy?
+
+119
+00:06:05,440 --> 00:06:08,040
+三角洲X光小队  听到吗
+Delta-Xray-Delta, do you copy?
+
+120
+00:06:11,840 --> 00:06:13,600
+我不敢相信我跟所有人失去联系了
+I can't believe I lost everybody.
+
+121
+00:06:19,070 --> 00:06:20,460
+那是狗拖的雪橇吗
+Is that a dog sled?
+
+122
+00:06:23,380 --> 00:06:24,450
+那是人类吗
+Is that people?!
+
+123
+00:06:26,100 --> 00:06:27,080
+我...我想那是人类
+I... I think it's people!
+
+124
+00:06:27,080 --> 00:06:28,520
+感谢上帝  有人来了
+Oh thank god! Somebody's here!
+
+125
+00:06:28,520 --> 00:06:29,500
+终于有人来了
+Finally.
+
+126
+00:06:30,280 --> 00:06:31,480
+零食  他们会需要零食
+Snacks! They're gonna want snacks!
+
+127
+00:06:31,480 --> 00:06:32,320
+他们...他们肯定饿了
+They're... they'll be hungry.
+
+128
+00:06:32,320 --> 00:06:33,660
+去把卫生间打扫干净
+Got to clean up the bathroom.
+
+129
+00:06:33,660 --> 00:06:34,560
+人类
+People!
+
+130
+00:06:37,730 --> 00:06:41,480
+等下  是人类还是...
+Wait. People or...
+
+131
+00:06:49,930 --> 00:06:53,790
+{\an8}新泽西州  帕拉默斯帕克广场
+
+132
+00:06:50,520 --> 00:06:52,320
+这些车...
+All these cars...
+
+133
+00:06:52,320 --> 00:06:54,510
+没有半滴汽油了
+And not a drop of gas.
+
+134
+00:06:54,510 --> 00:06:56,980
+屋漏偏逢连夜雨啊
+Just when you thought you saw the worst of it, huh?
+
+135
+00:06:57,060 --> 00:06:58,730
+他们没机会生还了
+They didn't stand a chance.
+
+136
+00:06:58,730 --> 00:07:00,270
+黑色星期五促销中吗
+Black Friday sale?
+
+137
+00:07:00,820 --> 00:07:02,080
+找到汽油了吗
+You find any gas?
+
+138
+00:07:02,370 --> 00:07:04,540
+没有  这里的汽油已经没了
+No. This area's been picked clean.
+
+139
+00:07:07,990 --> 00:07:08,620
+干嘛
+What?
+
+140
+00:07:08,620 --> 00:07:09,930
+来观光吗
+You on vacation?
+
+141
+00:07:10,810 --> 00:07:12,560
+总得有人做记录吧
+Somebody has to keep record.
+
+142
+00:07:12,560 --> 00:07:15,830
+我们可能是地球上的末代人类
+You know we're probably the last generations of humans on earth.
+
+143
+00:07:15,830 --> 00:07:20,210
+这是世界末日  她却当成美好回忆
+To us it's the apocalypse. To her it's the memories.
+
+144
+00:07:20,340 --> 00:07:22,900
+我踹他一脚会损害抗体吗
+Would it hurt the antibodies if I kicked him in the nuts?
+
+145
+00:07:36,470 --> 00:07:37,740
+孩子  你叫什么
+So what's your name, kid?
+
+146
+00:07:39,040 --> 00:07:40,040
+一万
+Ten Thousand.
+
+147
+00:07:40,810 --> 00:07:43,000
+这不是名字  是个数字
+That is not a name. It's a number.
+
+148
+00:07:43,780 --> 00:07:46,010
+这是我的名字  我自创的
+It's my name. Made it up myself.
+
+149
+00:07:46,200 --> 00:07:47,820
+想必也是
+Well I suppose you'd have to.
+
+150
+00:07:48,980 --> 00:07:50,660
+有什么深意吗
+Does it mean anything?
+
+151
+00:07:51,780 --> 00:07:53,810
+是我要消灭的僵尸的数量
+How many zombies I'm going to kill.
+
+152
+00:07:53,890 --> 00:07:55,730
+这可不是小数目呢
+Well that's a whole lot of zombies.
+
+153
+00:07:55,900 --> 00:07:58,060
+我已经灭掉1055个了
+Already on 1,055.
+
+154
+00:07:59,200 --> 00:08:00,250
+靠
+Damn!
+
+155
+00:08:01,240 --> 00:08:03,620
+杀够一万个又怎样呢
+So what happens when you get to 10,000
+
+156
+00:08:03,660 --> 00:08:04,850
+改名字呗
+Change my name.
+
+157
+00:08:05,630 --> 00:08:07,740
+改成什么  两万吗
+To what? Twenty thousand?
+
+158
+00:08:08,510 --> 00:08:09,440
+杰夫
+Jeff.
+
+159
+00:08:13,570 --> 00:08:15,110
+我喜欢杰夫这个名字
+I like the name Jeff.
+
+160
+00:08:16,250 --> 00:08:17,540
+闭嘴吧
+Ah, shut up.
+
+161
+00:08:22,100 --> 00:08:23,140
+大家都去哪了
+Where did everybody go?
+
+162
+00:08:23,140 --> 00:08:26,140
+我看不见任何生还者  除了那两个车手
+I haven't seen a survivor except for those two bikers.
+
+163
+00:08:26,140 --> 00:08:28,700
+黑色夏季  人都饿死了
+Black Summer. Everybody starved to death.
+
+164
+00:08:28,710 --> 00:08:30,640
+黑色夏季时我在费城
+I was in Philly for Black Summer.
+
+165
+00:08:31,000 --> 00:08:33,950
+那时很惨  我瘦了30磅
+It was bad. I lost thirty pounds.
+
+166
+00:08:34,380 --> 00:08:35,530
+我以为自己要死了
+Thought I was dead.
+
+167
+00:08:35,830 --> 00:08:37,050
+那你怎么活过来的
+How did you survive?
+
+168
+00:08:38,270 --> 00:08:39,670
+为了生存我什么都做尽
+Did what I had to do.
+
+169
+00:08:42,460 --> 00:08:43,960
+别开枪  不是僵尸
+Hold on. It's not a Z.
+
+170
+00:08:43,960 --> 00:08:46,910
+别激动  我没被咬
+Peace. No bites here.
+
+171
+00:08:47,060 --> 00:08:48,250
+绝对是正常人
+100 percent alive.
+
+172
+00:08:48,250 --> 00:08:49,900
+你那哥们呢
+What happened to your friend?
+
+173
+00:08:50,440 --> 00:08:53,920
+搞了半天他还有个缺德朋友
+Turns out he had other friends of low morals.
+
+174
+00:08:53,920 --> 00:08:55,060
+把我车抢了
+Took my ride.
+
+175
+00:08:55,370 --> 00:08:57,570
+偷人座驾  该枪毙
+Horse thieves should be shot.
+
+176
+00:08:57,570 --> 00:08:59,420
+怨你交友不慎
+You should choose better friends.
+
+177
+00:08:59,430 --> 00:09:00,730
+多谢指点
+Good advice.
+
+178
+00:09:00,980 --> 00:09:02,630
+我们不想生事
+What can we do for you?
+
+179
+00:09:02,630 --> 00:09:06,080
+你一个路人来找我们想做什么
+One peaceful group of humans to a lone traveler?
+
+180
+00:09:06,080 --> 00:09:07,200
+最好能载我一程
+Could use a lift.
+
+181
+00:09:07,760 --> 00:09:09,560
+一个人可没法在外面过夜
+Sure don't want to spend the night out here alone.
+
+182
+00:09:09,560 --> 00:09:11,950
+抱歉  我们不是做租车生意的
+Sorry. We ain't running a taxi service.
+
+183
+00:09:11,960 --> 00:09:13,240
+你这是要去哪
+Which way are you headed?
+
+184
+00:09:13,240 --> 00:09:14,920
+只要不往回走就行
+Any direction but back.
+
+185
+00:09:15,850 --> 00:09:17,460
+谣传说在纽约南边
+Word is there's a horde on the move
+
+186
+00:09:17,460 --> 00:09:19,940
+有一大群僵尸正在移动
+south on the New York side.
+
+187
+00:09:20,290 --> 00:09:22,370
+我瞧见你们到处找汽油
+I see you're scrounging for gas.
+
+188
+00:09:23,030 --> 00:09:26,180
+好比那句老话  搭车掏钱  没钱滚蛋
+You know like we used to say, ass, gas or grass.
+
+189
+00:09:27,020 --> 00:09:29,080
+意思是搭车得给人好处
+Nobody rides for free.
+
+190
+00:09:30,240 --> 00:09:31,860
+我知道你们在哪能找到汽油
+I know where you could fill up.
+
+191
+00:09:31,860 --> 00:09:33,920
+你最好现在就告诉我们
+Now would be the time to share that information.
+
+192
+00:09:33,920 --> 00:09:37,990
+那地方叫泽西恶魔精炼厂  大概五里地远吧
+Place called Jersey Devil Refinery, maybe five miles off,
+
+193
+00:09:37,990 --> 00:09:39,180
+一下高速就是
+just off the turnpike.
+
+194
+00:09:39,180 --> 00:09:40,790
+你怎么知道那有汽油
+How do you know there's gas there?
+
+195
+00:09:40,790 --> 00:09:42,950
+僵尸爆发第一天那里就被血洗了
+Got overrun day number one.
+
+196
+00:09:43,300 --> 00:09:44,520
+所有油罐都是满的
+All the tanks are still full,
+
+197
+00:09:44,520 --> 00:09:46,220
+放在那等着变质
+just rusting away.
+
+198
+00:09:51,500 --> 00:09:53,260
+那好  带我们去精炼厂
+All right, take us to this refinery.
+
+199
+00:09:53,260 --> 00:09:54,890
+如果真如你所说有汽油
+And if there's gas there like you say,
+
+200
+00:09:54,890 --> 00:09:56,970
+我们会把你带到下一个安全点
+you can ride with us to the next outpost.
+
+201
+00:09:57,890 --> 00:09:59,310
+你们肯定不会白去
+You won't be sorry.
+
+202
+00:10:00,870 --> 00:10:02,230
+这你可说对了
+You got that right.
+
+203
+00:10:02,950 --> 00:10:04,220
+咱们出发
+Let's get out of here.
+
+204
+00:10:04,340 --> 00:10:06,400
+新人跟我和沃伦一辆车
+New guy's gonna ride with me and Warren.
+
+205
+00:10:06,400 --> 00:10:08,860
+其他人上卡车
+Everybody else load up in the truck.
+
+206
+00:10:11,880 --> 00:10:13,520
+是不是以后每次停车  我们都要让
+So are we just gonna pick up every sketchy loser
+
+207
+00:10:13,530 --> 00:10:15,190
+这些个废物搭便车
+at every place we stop?
+
+208
+00:10:15,190 --> 00:10:18,020
+我们这不是就让你搭上车了么
+Well we brought you along, didn't we?
+
+209
+00:10:18,020 --> 00:10:21,150
+再说了  也没人问我有没有意见
+Besides, nobody consulted me.
+
+210
+00:10:21,150 --> 00:10:24,010
+我们不会真要跟这家伙去加州吧
+We're not really going to California with this guy, are we?
+
+211
+00:10:25,600 --> 00:10:29,300
+世界末日就跟戒毒似的  小子
+You know the Apocalypse is a lot like rehab, kid.
+
+212
+00:10:29,310 --> 00:10:31,880
+过一天是一天
+Just take it one day at a time,
+
+213
+00:10:31,880 --> 00:10:34,170
+该做什么做什么
+and then do the next indicated thing.
+
+214
+00:10:34,170 --> 00:10:36,540
+眼下  该做的就是找汽油
+In this case, that means get more gas.
+
+215
+00:10:36,540 --> 00:10:40,300
+找完了汽油  谁知道呢
+After that, who knows?
+
+216
+00:10:40,870 --> 00:10:42,310
+我们完蛋了
+We're doomed.
+
+217
+00:12:20,910 --> 00:12:21,890
+不出所料
+Well there you have it.
+
+218
+00:12:21,890 --> 00:12:23,440
+彻底没油了
+We're officially on E.
+
+219
+00:12:23,610 --> 00:12:24,980
+还有多远
+How much further?
+
+220
+00:12:25,570 --> 00:12:27,250
+近在眼前了
+Spittin' distance.
+
+221
+00:12:35,880 --> 00:12:39,900
+{\an8}泽西恶魔精炼厂
+
+222
+00:13:04,080 --> 00:13:05,990
+这哪里是精炼厂
+That's not a refinery.
+
+223
+00:13:05,990 --> 00:13:07,840
+简直就是个僵尸工厂
+That's a zombie factory.
+
+224
+00:13:20,110 --> 00:13:21,890
+该死的僵尸
+Frackin' zombies.
+
+225
+00:13:32,350 --> 00:13:34,400
+他们貌似非常迫切地想拿到那边的什么
+They seem to want something in there real bad.
+
+226
+00:13:34,530 --> 00:13:35,680
+是那个声音
+It's that sound.
+
+227
+00:13:35,680 --> 00:13:36,960
+就像蜜蜂闻见花香
+Like bees to honey.
+
+228
+00:13:36,960 --> 00:13:38,520
+或者僵尸闻见尸臭
+Or Zs to shit.
+
+229
+00:13:38,520 --> 00:13:39,990
+你知道是这幅景象吗
+Hey, you know about this?
+
+230
+00:13:39,990 --> 00:13:42,500
+反正你们在别处也找不着汽油了
+Hey, all the easy gas is gone.
+
+231
+00:13:42,500 --> 00:13:44,980
+那你们有什么高见啊
+So what's the brilliant plan?
+
+232
+00:13:44,980 --> 00:13:47,770
+死翘翘  被僵尸啃  早早回老家吗
+Die, get eaten, go home early?
+
+233
+00:13:47,770 --> 00:13:49,100
+这是什么味儿
+What's that smell?
+
+234
+00:13:49,100 --> 00:13:50,790
+僵尸的臭气和汽油味
+The undead and gasoline.
+
+235
+00:13:50,850 --> 00:13:51,840
+都非常易燃
+Both highly flammable.
+
+236
+00:13:51,840 --> 00:13:54,060
+所以绝对不能开火
+So no firearms of any kind.
+
+237
+00:13:54,060 --> 00:13:56,220
+那你打算怎么处理
+So how do you want to handle this?
+
+238
+00:13:56,880 --> 00:13:59,380
+首先我们得想法子让那声音停下来
+Well first we got to shut off whatever's making that noise.
+
+239
+00:13:59,380 --> 00:14:00,800
+可能是油泵之类的
+Okay, it's probably some kind of pump.
+
+240
+00:14:00,800 --> 00:14:01,800
+但是在哪
+But where?
+
+241
+00:14:01,800 --> 00:14:02,760
+跟着僵尸走就是了
+Follow the zombies.
+
+242
+00:14:02,760 --> 00:14:04,970
+他们貌似都朝着油罐架的最上边移动
+They all seem to be headed for the top of that catalog.
+
+243
+00:14:07,630 --> 00:14:08,990
+我们爬上去查查看
+We'll get up there and check it out.
+
+244
+00:14:08,990 --> 00:14:11,650
+我们需要用某种声音把僵尸从气泵那里引开
+Then we got to have a sound that draws the Zs away from the pump
+
+245
+00:14:11,650 --> 00:14:12,990
+这样我们才能取到汽油
+so we can get to the gas.
+
+246
+00:14:12,990 --> 00:14:16,050
+抱歉  我把吉他留在蓝天营了
+Sorry, I left my guitar back at Camp Blue Sky.
+
+247
+00:14:16,050 --> 00:14:17,400
+车喇叭声可以吗
+Car horns?
+
+248
+00:14:17,400 --> 00:14:19,410
+不行  这会把它们都吸引到这个地方来
+No, they'll all just head this way.
+
+249
+00:14:19,410 --> 00:14:22,560
+还有所有能听见这声音的僵尸
+And so will every other dead head within earshot.
+
+250
+00:14:22,560 --> 00:14:23,620
+我有办法
+I have something.
+
+251
+00:14:23,620 --> 00:14:25,350
+僵尸都喜欢高音调的声音
+Zs like high-pitched sounds.
+
+252
+00:14:25,350 --> 00:14:27,910
+越动听的声音它们越喜欢
+The more musical the better.
+
+253
+00:14:47,370 --> 00:14:49,400
+真是每天都能学到新知识
+Wow, learn something everyday.
+
+254
+00:14:49,400 --> 00:14:50,260
+好极了
+That's great.
+
+255
+00:14:50,260 --> 00:14:51,210
+你就是我们的诱饵
+You're our decoy.
+
+256
+00:14:51,220 --> 00:14:52,100
+我跟她一起去
+I'll go with her.
+
+257
+00:14:52,100 --> 00:14:53,100
+我不需要他帮忙
+I don't need his help.
+
+258
+00:14:53,100 --> 00:14:54,880
+不  你需要掩护  跟他一起去
+No, you need cover. Take him.
+
+259
+00:14:54,880 --> 00:14:57,280
+走到架桥的小道上面  再开始放音乐
+And start the music when you get to the top of that catwalk.
+
+260
+00:14:57,280 --> 00:14:58,880
+你们两个  到另外架桥的那一侧
+You two, get to the top of the other side
+
+261
+00:14:58,880 --> 00:15:00,800
+看看能不能关掉那声音  明白了吗
+and see if you can kill that noise. Got it.
+
+262
+00:15:00,800 --> 00:15:01,850
+那孩子去哪了
+Where'd that kid go?
+
+263
+00:15:02,280 --> 00:15:03,960
+一分钟前他还在这里呢
+He was here a minute ago.
+
+264
+00:15:04,360 --> 00:15:06,930
+还有  他的名字是一万
+Oh and his name is Ten Thousand.
+
+265
+00:15:06,940 --> 00:15:09,230
+他最好能在我们动身之前回来
+Well he better be back by the time we're ready to go.
+
+266
+00:15:09,230 --> 00:15:11,210
+如果我们能发动那辆油罐车
+Hey, if we get that tanker started
+
+267
+00:15:11,210 --> 00:15:12,760
+我们就可以从那里加油了
+and we could fill it up from the main tank,
+
+268
+00:15:12,760 --> 00:15:15,080
+这么多油够我们跑到加利福尼亚了
+that much gas would get us to California.
+
+269
+00:15:15,080 --> 00:15:16,520
+我喜欢你这个想法
+I like the way you think.
+
+270
+00:15:16,740 --> 00:15:18,520
+那等下你们都快被烧死的时候
+So what should I be doing
+
+271
+00:15:18,520 --> 00:15:21,590
+我应该做点什么呢
+while you all are getting incinerated to death?
+
+272
+00:15:22,130 --> 00:15:24,630
+好吧  你为何不带卧底先生
+All right, why don't you take Mr. Congeniality here
+
+273
+00:15:24,630 --> 00:15:27,280
+和这辆萨伯曼SUV到安全地带去呢
+and the Suburban and get back to a safe distance,
+
+274
+00:15:27,280 --> 00:15:28,480
+以防万一
+just in case.
+
+275
+00:15:28,480 --> 00:15:31,890
+那如果  你知道的  僵尸回来了怎么办
+What if... you know... zombies?
+
+276
+00:15:32,340 --> 00:15:33,660
+如果我们都不幸出事了
+If this all ends in tears,
+
+277
+00:15:33,900 --> 00:15:36,240
+你一定要带他到加利福尼亚去
+you got to get him to California.
+
+278
+00:15:36,250 --> 00:15:37,180
+我会的
+Sure.
+
+279
+00:15:38,050 --> 00:15:39,000
+没问题
+No problem.
+
+280
+00:15:45,210 --> 00:15:47,760
+稍等一下  朋友  稍等  我会帮你
+Wait one second, buddy. Wait one second. I got you.
+
+281
+00:15:48,650 --> 00:15:49,860
+我们到了
+There you go.
+
+282
+00:15:50,070 --> 00:15:51,910
+很好  让我帮你暖和一下吧
+All right, let's warm you up.
+
+283
+00:15:52,420 --> 00:15:55,560
+外面冷极了  对吧
+Oh yeah, it's cold outside, isn't it?
+
+284
+00:15:56,320 --> 00:16:02,180
+好的  好孩子  好孩子
+Yeah. Good boy. Good boy.
+
+285
+00:16:27,960 --> 00:16:29,080
+你真是疯了
+You're crazy.
+
+286
+00:16:40,600 --> 00:16:42,970
+森夏恩  等等
+Sunshine! Hold up!
+
+287
+00:16:44,900 --> 00:16:46,720
+慢点
+Hey! Slow down!
+
+288
+00:16:48,290 --> 00:16:50,190
+你会把我们俩都害死的
+You're gonna get us both killed.
+
+289
+00:16:50,190 --> 00:16:51,700
+其实只有一个人会死
+Actually just one of us.
+
+290
+00:16:51,700 --> 00:16:53,080
+我知道你想做什么
+I know what you're trying to do.
+
+291
+00:16:53,080 --> 00:16:54,340
+这没用的
+It is not gonna work.
+
+292
+00:16:54,340 --> 00:16:55,980
+你一点也不了解我
+You don't know anything about me.
+
+293
+00:16:55,990 --> 00:16:57,310
+我了解托拜亚斯
+I know Tobias
+
+294
+00:16:57,310 --> 00:17:00,910
+其他家庭成员也不会让你走的  森夏恩
+and the rest of the family is never gonna let you leave Sunshine.
+
+295
+00:17:00,920 --> 00:17:02,660
+我不会再回去了
+Well I'm never going back.
+
+296
+00:17:02,660 --> 00:17:05,230
+还有  我不是森夏恩
+And my name isn't Sunshine.
+
+297
+00:17:05,230 --> 00:17:07,260
+那个女孩早就死了
+That girl died a long time ago.
+
+298
+00:17:07,260 --> 00:17:08,600
+你不明白
+You don't understand.
+
+299
+00:17:08,600 --> 00:17:10,710
+没有你  我不能回去
+I can't go back without you.
+
+300
+00:17:19,250 --> 00:17:20,990
+这可不是对家人该有的态度
+That's no way to treat family.
+
+301
+00:17:23,270 --> 00:17:24,250
+艾迪
+Addy.
+
+302
+00:17:28,500 --> 00:17:29,600
+听着  我就是不相信摩菲
+Look, I just don't trust Murphy.
+
+303
+00:17:29,600 --> 00:17:31,140
+带着那混蛋一起走绝对是个错误
+It's all wrong with that dick.
+
+304
+00:17:31,140 --> 00:17:32,830
+他不只是疯癫而已
+He's more than just a little crazy.
+
+305
+00:17:33,600 --> 00:17:35,100
+这整个任务都疯癫
+This whole mission is insane.
+
+306
+00:17:35,100 --> 00:17:36,930
+沃伦和加内特可不会这么想
+Warren and Garnett don't think so.
+
+307
+00:17:37,160 --> 00:17:38,440
+哈蒙德为了保护他而死
+Hammond died trying to protect him,
+
+308
+00:17:38,440 --> 00:17:39,560
+还有很多人为他而牺牲
+and so did a lot of other people.
+
+309
+00:17:39,560 --> 00:17:40,880
+你也想这样吗
+You want to do the same?
+
+310
+00:17:41,550 --> 00:17:42,500
+不
+No.
+
+311
+00:17:45,140 --> 00:17:46,290
+万一这是真的呢
+What if it's true?
+
+312
+00:17:46,290 --> 00:17:47,510
+万一摩菲真如他们所说的那样
+What if Murphy's who they say he is
+
+313
+00:17:47,510 --> 00:17:48,660
+万一我们真有机会制造出疫苗呢
+and there's a chance for a vaccine?
+
+314
+00:17:48,660 --> 00:17:50,300
+世界已面临末日  没机会补救了  艾迪
+You don't get a do-over on the end of the world, Addy.
+
+315
+00:17:50,300 --> 00:17:51,560
+-已经太晚了  -哪怕只有一丝机会
+- It's too late. - If we have the slightest chance
+
+316
+00:17:51,560 --> 00:17:53,540
+能够唤醒我所熟知的世界
+of waking up in the world I remember...
+
+317
+00:17:56,230 --> 00:17:57,930
+让死者安息
+Where dead things stay dead...
+
+318
+00:17:57,930 --> 00:17:59,460
+我也要抓住这个机会
+That's a chance I'm gonna take.
+
+319
+00:17:59,810 --> 00:18:01,160
+因为那是个希望  麦克
+Cuz that's hope, Mack.
+
+320
+00:18:02,710 --> 00:18:05,060
+你知道我已经有多久没有这样的感觉了吗
+You know how long it's been since I've felt something like that?
+
+321
+00:18:05,300 --> 00:18:06,420
+那不是希望  那是谎话
+It's not hope. It's a lie.
+
+322
+00:18:06,420 --> 00:18:08,030
+这谎话会害死我们的
+And it's gonna get us both killed.
+
+323
+00:18:08,410 --> 00:18:10,020
+那我也情愿因相信这个谎话而死
+Well then I'd rather die believing in a lie
+
+324
+00:18:10,020 --> 00:18:11,940
+总好过没有信仰地苟且活着
+than live believing in nothing.
+
+325
+00:18:15,020 --> 00:18:17,180
+天哪  你说大道理的时候真性感
+Damn, you're sexy when you get all philosophical.
+
+326
+00:18:19,350 --> 00:18:20,390
+继续转啊
+Keep cranking.
+
+327
+00:18:20,390 --> 00:18:22,560
+转出来的能量都能给一座小城市供电了
+Cranking enough to light up a small city.
+
+328
+00:18:23,450 --> 00:18:24,820
+好了
+Here.
+
+329
+00:18:25,910 --> 00:18:26,860
+试试
+Try it.
+
+330
+00:18:28,960 --> 00:18:31,020
+好啦  快点  这车快没油了
+Okay, hurry up. It's almost running out of gas.
+
+331
+00:18:31,020 --> 00:18:31,880
+不用等很久
+Not for long.
+
+332
+00:18:31,890 --> 00:18:34,270
+噪音一停我们就准备走
+Get ready to go as soon as they kill that noise.
+
+333
+00:18:36,960 --> 00:18:37,980
+快点
+Come on.
+
+334
+00:18:45,550 --> 00:18:46,390
+好酷啊
+That was cool.
+
+335
+00:18:46,400 --> 00:18:48,100
+没错  这个坏家伙就是问题所在啊
+Yeah. This bad boy's the problem all right.
+
+336
+00:18:48,100 --> 00:18:49,970
+火跟噪音都是僵尸的最爱
+Nothing zombies like more than fire and noise.
+
+337
+00:18:49,970 --> 00:18:50,700
+是啊  还有人脑
+Yeah, except brains.
+
+338
+00:18:50,700 --> 00:18:51,990
+我们怎么才能关掉这个
+How do we turn it off?
+
+339
+00:18:54,300 --> 00:18:56,220
+制动按钮坏了
+Well the stop button doesn't work.
+
+340
+00:18:59,820 --> 00:19:00,610
+可能是因为压强太大了
+Must operate on pressure.
+
+341
+00:19:00,610 --> 00:19:02,480
+这好像是个减压阀什么的
+Like some kind of relief valve or something.
+
+342
+00:19:03,050 --> 00:19:04,350
+或许我们可以卡住它
+Maybe we can jam it up.
+
+343
+00:19:04,970 --> 00:19:07,100
+那这么高的压强怎么办  从哪儿排出来
+Well what about the pressure or whatever it's venting?
+
+344
+00:19:07,100 --> 00:19:08,110
+我们没工夫四处找原因
+Yeah, we don't hang around to find out.
+
+345
+00:19:08,110 --> 00:19:09,050
+加上油就赶紧跑
+Get the gas and get out of dodge.
+
+346
+00:19:09,050 --> 00:19:11,840
+我们得找根棍子什么的卡住它
+We just need something to jam it up with like a pole or something.
+
+347
+00:19:13,270 --> 00:19:15,640
+不行  这是我的最爱
+No! I love this thing.
+
+348
+00:19:16,240 --> 00:19:17,210
+想别的办法
+Figure it out!
+
+349
+00:19:21,460 --> 00:19:22,420
+喂  那些僵尸
+Hey, what happened to all the
+
+350
+00:19:22,420 --> 00:19:24,460
+爬上来之后发生什么了
+zombies that have been coming up here? Huh?
+
+351
+00:19:29,810 --> 00:19:30,710
+好吧
+Okay.
+
+352
+00:19:49,790 --> 00:19:50,370
+他们成功了
+They did it.
+
+353
+00:19:50,380 --> 00:19:51,650
+行了  准备好
+All right. Get ready.
+
+354
+00:19:53,050 --> 00:19:53,960
+好的
+Okay.
+
+355
+00:19:54,440 --> 00:19:54,980
+我们得走了
+We should go.
+
+356
+00:19:54,980 --> 00:19:55,870
+嗯
+Yeah.
+
+357
+00:19:57,680 --> 00:19:58,680
+小心
+Watch out!
+
+358
+00:20:01,260 --> 00:20:02,170
+太好搞定了
+That was handy.
+
+359
+00:20:10,570 --> 00:20:12,400
+现在总算知道那些僵尸发生什么了
+Now we know what happened to the zombies.
+
+360
+00:20:13,880 --> 00:20:15,350
+好吧  真的该走了
+Okay, it's really time to go.
+
+361
+00:20:48,420 --> 00:20:49,880
+不知道那边怎么样了
+Wonder how it's going?
+
+362
+00:20:49,980 --> 00:20:51,680
+还没听到什么爆响声
+Haven't heard anything blow up.
+
+363
+00:20:51,870 --> 00:20:52,780
+目前为止
+Yet.
+
+364
+00:20:53,830 --> 00:20:54,720
+八
+Eights.
+
+365
+00:20:55,780 --> 00:20:57,740
+抓牌吧
+Go fish.
+
+366
+00:21:10,580 --> 00:21:11,350
+动手
+Do it.
+
+367
+00:21:17,310 --> 00:21:21,070
+好了  行了  现在必须得走了
+Okay. Okay. Now it's really time to go.
+
+368
+00:21:26,250 --> 00:21:27,000
+这儿  宝贝
+Here, boy!
+
+369
+00:21:29,720 --> 00:21:30,970
+你去哪儿了  小家伙
+Where did you go, fellow.
+
+370
+00:21:36,770 --> 00:21:37,570
+嘿  宝贝
+Hey, boy.
+
+371
+00:21:38,570 --> 00:21:39,500
+你在哪儿
+Where are you?
+
+372
+00:21:44,270 --> 00:21:45,480
+过来  狗狗
+Come here, doggy.
+
+373
+00:21:46,370 --> 00:21:47,120
+来吧
+Come on.
+
+374
+00:22:01,060 --> 00:22:01,930
+找到你了
+There you are.
+
+375
+00:22:04,250 --> 00:22:06,380
+你还好吧  宝贝  你想喝点水吗
+How are you, boy? Do you want some water?
+
+376
+00:22:06,810 --> 00:22:08,710
+渴不渴  渴吧
+Are you thirsty? Yeah.
+
+377
+00:22:09,330 --> 00:22:11,720
+来这儿  喝点水
+Come here. Let's get some water.
+
+378
+00:22:12,040 --> 00:22:12,790
+好吧
+Yeah.
+
+379
+00:22:15,040 --> 00:22:16,130
+你渴吗
+Are you thirsty?
+
+380
+00:22:16,260 --> 00:22:17,670
+你是个口渴的小狗狗吧
+Are you a thirsty boy?
+
+381
+00:22:22,240 --> 00:22:23,490
+喝吧
+There we go.
+
+382
+00:22:24,040 --> 00:22:27,330
+这就对了  都喝光  伙计
+Yeah, that's right. Drink up, buddy.
+
+383
+00:22:27,330 --> 00:22:28,230
+喝光光
+Drink up.
+
+384
+00:22:31,210 --> 00:22:31,990
+狗狗
+Dog!
+
+385
+00:22:34,680 --> 00:22:35,950
+狗狗  回来
+Dog, come back!
+
+386
+00:22:37,420 --> 00:22:38,260
+狗狗
+Dog!
+
+387
+00:22:43,350 --> 00:22:44,880
+干得漂亮  上面有什么
+Nice job. What was up there?
+
+388
+00:22:44,880 --> 00:22:46,330
+有个类似于压力控制阀的东西
+Some kind of a pressure valve thing.
+
+389
+00:22:46,330 --> 00:22:48,930
+不过罐里面都是僵尸粘液  都快装满了
+But that tank is full of zombie goo, like to the top.
+
+390
+00:22:48,930 --> 00:22:50,430
+美极了  不过撑不了多久  伙计们
+Beautiful. It ain't gonna hold, guys.
+
+391
+00:22:50,580 --> 00:22:51,960
+放音乐
+Start the music!
+
+392
+00:22:52,990 --> 00:22:53,910
+让我们一齐舞动吧
+Let's dance.
+
+393
+00:23:14,290 --> 00:23:15,930
+我会受到诅咒的
+I'll be damned.
+
+394
+00:23:30,540 --> 00:23:31,520
+我来拿软管
+I got the hose.
+
+395
+00:23:37,320 --> 00:23:38,490
+这儿  给我
+Here. Give me that.
+
+396
+00:23:40,710 --> 00:23:41,500
+准备好了吗
+You ready?
+
+397
+00:23:44,450 --> 00:23:45,280
+启动
+Firing up.
+
+398
+00:23:54,460 --> 00:23:57,730
+我头一回见到有人连打牌都作弊
+First time I've ever seen anybody cheat at go fish.
+
+399
+00:23:57,830 --> 00:23:58,990
+这可是一种天赋
+It's a gift.
+
+400
+00:23:59,110 --> 00:24:00,800
+怎么要搞这么久
+What the hell is taking so long?
+
+401
+00:24:01,410 --> 00:24:03,610
+现在的服务大不如前啊
+Full service just ain't what it used to be.
+
+402
+00:24:04,500 --> 00:24:05,630
+放松点
+Relax.
+
+403
+00:24:05,820 --> 00:24:07,570
+加内特和沃伦心里有数
+Garnett and Warren know what they're doing.
+
+404
+00:24:07,580 --> 00:24:10,830
+这附近僵尸太多了  怪吓人的
+Too many Zs around here. It's freaking me out.
+
+405
+00:24:11,390 --> 00:24:12,530
+我有恐惧症
+I got a phobia
+
+406
+00:24:12,530 --> 00:24:14,330
+你知道的  就是自从我被咬了以后
+you know ever since I got bit.
+
+407
+00:24:15,540 --> 00:24:19,960
+我一直想问你这个  那些咬伤...
+I've been meaning to ask you about that. So these bites...
+
+408
+00:24:19,960 --> 00:24:23,750
+等等  你到底是什么医生
+Wait. What kind of doctor are you anyway?
+
+409
+00:24:23,750 --> 00:24:28,640
+不算是医生  更像个业余药理学家吧
+Not really a doctor, more of an amateur pharmacologist.
+
+410
+00:24:29,590 --> 00:24:30,570
+你呢
+What about you?
+
+411
+00:24:31,100 --> 00:24:33,780
+你怎么会成为人类的救世主的
+How'd you get to be the savior of the human race?
+
+412
+00:24:34,820 --> 00:24:36,070
+你真想知道
+You really wanna know?
+
+413
+00:24:37,220 --> 00:24:40,220
+事实是  对于一个蒙冤的人来说
+Truth is for a guy who's been wrongly convicted,
+
+414
+00:24:41,000 --> 00:24:42,960
+我其实很热心
+I'm actually very civic-minded.
+
+415
+00:24:43,090 --> 00:24:44,470
+我是自愿的
+I volunteered.
+
+416
+00:24:46,150 --> 00:24:48,490
+你们抓错人了  我什么都没干
+You got the wrong guy. I didn't do nothin'.
+
+417
+00:24:48,490 --> 00:24:51,310
+伙计们  正规程序不是这样的
+Look, I'm being denied my due process, man!
+
+418
+00:24:51,410 --> 00:24:52,510
+放我走
+Come on. Let me go.
+
+419
+00:24:52,920 --> 00:24:54,080
+我是无辜的
+I'm innocent, man.
+
+420
+00:24:54,610 --> 00:24:55,400
+放开我
+Let me go.
+
+421
+00:24:58,390 --> 00:25:00,960
+虽然很不好受  但是总有人得挺身而出
+It wasn't easy, but somebody had to do it.
+
+422
+00:25:07,130 --> 00:25:09,700
+天  除非他们把我打个半死
+Man, they would have to beat me senseless,
+
+423
+00:25:09,710 --> 00:25:12,100
+再绑起来  我才会让他们
+strap me down, before I'd ever let anybody inject me
+
+424
+00:25:12,110 --> 00:25:14,450
+把僵尸病毒注射到我身子里
+with a live zombie virus.
+
+425
+00:25:14,450 --> 00:25:16,500
+这不是我个人的问题
+Yeah, well it wasn't about me.
+
+426
+00:25:16,520 --> 00:25:18,090
+你得做你该做的事
+You know you do what you got to do.
+
+427
+00:25:19,510 --> 00:25:20,630
+为了孩子们
+For the kids...
+
+428
+00:25:24,940 --> 00:25:26,820
+所以你注射了疫苗以后
+So you... you got the vaccine
+
+429
+00:25:26,820 --> 00:25:28,350
+再被咬了吗
+and then you got bitten?
+
+430
+00:25:28,350 --> 00:25:29,480
+被咬了八次
+Eight times.
+
+431
+00:25:29,480 --> 00:25:30,860
+天哪
+Good God.
+
+432
+00:25:30,890 --> 00:25:31,890
+非要数的话
+If you say so.
+
+433
+00:25:32,370 --> 00:25:33,760
+肯定很可怕
+That must have been horrible.
+
+434
+00:25:33,820 --> 00:25:34,890
+是啊
+Must have been.
+
+435
+00:25:36,540 --> 00:25:40,310
+幸运的是我晕过去了  什么都记不得了
+Luckily I blacked out, so I don't remember any of it.
+
+436
+00:25:40,690 --> 00:25:43,490
+然后哈蒙德不知怎的就把我救了
+Somehow Hammond rescued me.
+
+437
+00:25:43,940 --> 00:25:45,660
+我想迟来总比不来好
+Better late than never, I guess.
+
+438
+00:25:46,080 --> 00:25:48,100
+后来就一直徒于奔命
+And been on the run ever since.
+
+439
+00:25:48,100 --> 00:25:49,720
+现在哈蒙德也死了
+Now Hammond's dead, too.
+
+440
+00:25:50,760 --> 00:25:54,440
+是啊  死得真是时候
+Yep. Good times.
+
+441
+00:25:55,270 --> 00:25:57,070
+好像来了点鼻子很灵光的伙计
+We got some nosey neighbors.
+
+442
+00:25:57,920 --> 00:25:58,710
+呼叫其他人
+Call the others!
+
+443
+00:25:58,710 --> 00:25:59,590
+你在把它们引过来
+You're attracting them!
+
+444
+00:25:59,590 --> 00:26:00,340
+我们快走
+Get us out of here!
+
+445
+00:26:00,340 --> 00:26:01,320
+闭嘴
+Shut up!
+
+446
+00:26:05,240 --> 00:26:06,360
+好样的
+This is great.
+
+447
+00:26:06,590 --> 00:26:07,870
+你朋友把这灌满
+Your friends tank up,
+
+448
+00:26:07,870 --> 00:26:10,310
+我们再把它拿走
+and we take it from them.
+
+449
+00:26:10,310 --> 00:26:11,670
+没有什么"我们"
+There is no we .
+
+450
+00:26:11,670 --> 00:26:13,470
+我不会回去的
+I'm not going back.
+
+451
+00:26:13,470 --> 00:26:14,690
+只要我还有一口气
+Not alive.
+
+452
+00:26:14,690 --> 00:26:16,660
+你为什么非要作对呢
+Why do you keep fighting this?
+
+453
+00:26:17,590 --> 00:26:20,450
+你知道他不可能让你走的
+You know he's never gonna let you go.
+
+454
+00:26:20,570 --> 00:26:23,540
+我什么都做得出来
+I will do whatever I have to do.
+
+455
+00:26:23,540 --> 00:26:25,400
+你要做什么
+You'll do what?!
+
+456
+00:26:26,960 --> 00:26:28,840
+告诉你的新朋友我的身份吗
+Tell your new friends who I am?
+
+457
+00:26:29,870 --> 00:26:35,410
+要是我告诉他们你是谁的话会怎么样
+What happens when I tell them what you are?!
+
+458
+00:26:37,740 --> 00:26:38,960
+不  天哪
+No! God!
+
+459
+00:26:38,960 --> 00:26:40,660
+天哪  兄弟
+Good grief, dude.
+
+460
+00:26:40,690 --> 00:26:41,590
+摩菲  好吧
+Murphy, all right.
+
+461
+00:26:41,590 --> 00:26:43,190
+摩菲  摩菲
+Murphy. Murphy.
+
+462
+00:26:43,190 --> 00:26:44,210
+看着我
+Look at me.
+
+463
+00:26:44,210 --> 00:26:45,550
+看着我的眼睛
+In my eyes.
+
+464
+00:26:45,550 --> 00:26:47,200
+你在这里很安全
+You're safe in here man.
+
+465
+00:26:47,200 --> 00:26:48,800
+他们抓不到你
+They can't get you.
+
+466
+00:26:48,810 --> 00:26:50,710
+做几个深呼吸  伙计
+Now just try to breathe through it, man.
+
+467
+00:26:50,710 --> 00:26:51,280
+深呼吸
+Breathe.
+
+468
+00:26:51,280 --> 00:26:52,260
+就在那里  就在那里
+Right there. Right there.
+
+469
+00:26:52,270 --> 00:26:55,790
+够了  这只有两个僵尸而已
+All right, that's enough. Look, there's only two of them.
+
+470
+00:26:56,340 --> 00:26:57,700
+伙计  我现在就出去
+Look man, I'm gonna go out there.
+
+471
+00:26:57,700 --> 00:26:59,140
+我会把它们赶走
+I'm gonna draw them away
+
+472
+00:26:59,140 --> 00:27:00,720
+一个个都干掉
+and I'm gonna mercy them.
+
+473
+00:27:00,720 --> 00:27:02,590
+现在你给我冷静下来
+Now you just... just chill out.
+
+474
+00:27:08,970 --> 00:27:10,780
+为什么事事都要大费周章
+Why is nothing ever easy?
+
+475
+00:27:20,310 --> 00:27:22,650
+行了  跟我来孩子们
+Okay, follow me boys!
+
+476
+00:27:24,190 --> 00:27:24,770
+快来
+Come on!
+
+477
+00:27:24,780 --> 00:27:25,840
+鲜肉哦
+Fresh meat.
+
+478
+00:27:29,400 --> 00:27:30,860
+真厚道啊
+Oh, nice guy.
+
+479
+00:27:42,220 --> 00:27:43,440
+你感觉到了吗
+Did you feel that?
+
+480
+00:27:45,080 --> 00:27:45,920
+你听
+Listen.
+
+481
+00:27:57,060 --> 00:27:58,060
+回卡车里去
+Get in the truck!
+
+482
+00:27:58,060 --> 00:27:58,780
+动作快
+Come on!
+
+483
+00:28:48,420 --> 00:28:49,350
+小狗
+Hey, boy!
+
+484
+00:29:29,270 --> 00:29:30,060
+妈的
+Damn it.
+
+485
+00:30:02,640 --> 00:30:03,860
+蠢货
+Hey, stupid!
+
+486
+00:30:04,830 --> 00:30:06,060
+你不会想要他的
+You don't want him.
+
+487
+00:30:06,060 --> 00:30:07,930
+他已经快被咬烂了
+He's all chewed up already.
+
+488
+00:30:08,040 --> 00:30:11,260
+来吧  伙计  来吧
+Come on, friend. Come on.
+
+489
+00:30:11,290 --> 00:30:14,170
+快张嘴来吃你的老朋友多克
+Raise your chin for your ol' pal Doc.
+
+490
+00:30:17,700 --> 00:30:19,890
+撑住  摩菲  它们够不着你的
+Hang in there, Murphy! They can't get you!
+
+491
+00:30:40,470 --> 00:30:41,920
+一千零五十八
+One thousand fifty eight.
+
+492
+00:30:41,920 --> 00:30:42,920
+让它们走开
+Get them off!
+
+493
+00:30:42,990 --> 00:30:44,130
+让它们走开
+Get them off!
+
+494
+00:30:47,620 --> 00:30:49,180
+一千零五十九
+One thousand fifty nine.
+
+495
+00:30:55,690 --> 00:30:59,920
+一千零六十  射得好  小哥
+One thousand sixty! Nice shot, kid!
+
+496
+00:31:01,230 --> 00:31:01,930
+摩菲
+Murphy!
+
+497
+00:31:06,010 --> 00:31:07,000
+罗伯塔
+Hey, Roberta.
+
+498
+00:31:07,060 --> 00:31:08,810
+我没法把这个该死的油管弄下来
+I can't get this damn hose off.
+
+499
+00:31:17,740 --> 00:31:18,730
+我们得快点撤
+We got to get going.
+
+500
+00:31:27,520 --> 00:31:29,760
+快下去  快下去
+Get off! Get off!
+
+501
+00:31:36,800 --> 00:31:37,870
+快下去
+Get off!
+
+502
+00:31:55,700 --> 00:31:56,830
+那是摩菲吗
+Is that Murphy?
+
+503
+00:31:56,830 --> 00:31:58,150
+很不幸  是他
+Unfortunately, yes.
+
+504
+00:32:13,690 --> 00:32:15,740
+快从这里撤退  撤退  快走
+Get out of here. Get out of here! Go!
+
+505
+00:32:15,740 --> 00:32:16,420
+快
+Come on!
+
+506
+00:32:16,420 --> 00:32:18,220
+等一下  你准备做什么
+Wait a minute. What are you gonna do?
+
+507
+00:32:18,660 --> 00:32:21,860
+我要救摩菲  快走  你快撤
+I got to save Murphy. Come on. Get out of here.
+
+508
+00:32:40,340 --> 00:32:42,030
+滚开  特拉维斯
+Get out of my way, Travis.
+
+509
+00:32:42,520 --> 00:32:44,210
+不要逼我杀你
+I don't want to have to kill you.
+
+510
+00:32:46,420 --> 00:32:48,260
+这当然没问题
+That's not gonna be a problem.
+
+511
+00:32:52,800 --> 00:32:57,250
+是时候回老家了  森夏恩
+It's time to go home, Sunshine.
+
+512
+00:33:08,280 --> 00:33:09,540
+你忘了
+You forget.
+
+513
+00:33:11,560 --> 00:33:13,110
+我早就习惯了
+I'm used to it.
+
+514
+00:33:13,930 --> 00:33:14,820
+懦夫
+Coward!
+
+515
+00:33:41,740 --> 00:33:42,630
+妈的
+Shit!
+
+516
+00:33:45,300 --> 00:33:45,970
+不要
+No!
+
+517
+00:33:46,700 --> 00:33:47,410
+不要
+No!
+
+518
+00:33:58,040 --> 00:33:58,810
+不要
+No!
+
+519
+00:33:59,980 --> 00:34:01,710
+放开它你这只死狗
+Get off of him you bastard!
+
+520
+00:34:10,990 --> 00:34:11,920
+停下
+Stop!
+
+521
+00:34:15,280 --> 00:34:18,310
+你不能杀了我这一年来
+You're not gonna kill the only living thing
+
+522
+00:34:18,310 --> 00:34:20,730
+唯一见过的一个活物
+I've seen in a year!
+
+523
+00:34:34,060 --> 00:34:34,890
+快下车
+Got to get out of here.
+
+524
+00:34:34,890 --> 00:34:35,870
+不行  僵尸太多了  我不能下车
+No! There's too many! I can't!
+
+525
+00:34:35,880 --> 00:34:37,140
+-快点  -你不懂
+- Come on! - You don't understand!
+
+526
+00:34:37,210 --> 00:34:38,070
+我不下车  我不行
+I can't. I can't.
+
+527
+00:34:38,310 --> 00:34:38,810
+不行
+I can't.
+
+528
+00:34:38,810 --> 00:34:39,990
+你行的  没时间了
+Yes! It is not the time!
+
+529
+00:34:39,990 --> 00:34:40,780
+不  不要  我不行
+No! No! I can't!
+
+530
+00:34:40,780 --> 00:34:41,680
+这里要爆炸了
+This is gonna explode!
+
+531
+00:34:41,680 --> 00:34:43,260
+你不明白  我不行
+You don't understand! I can't!
+
+532
+00:34:46,740 --> 00:34:48,230
+电影里要来的轻松得多
+This works easier in the movies.
+
+533
+00:34:59,570 --> 00:35:00,800
+一千零六十二
+One thousand sixty two.
+
+534
+00:35:01,280 --> 00:35:01,920
+快走
+Come on.
+
+535
+00:35:34,380 --> 00:35:35,320
+我还活着
+I'm alive?
+
+536
+00:35:48,060 --> 00:35:50,130
+你  你竟然还活着  难以置信
+You're... you're still alive. No way.
+
+537
+00:35:51,520 --> 00:35:52,850
+你还活着
+You're still alive.
+
+538
+00:35:55,960 --> 00:35:57,850
+我还活着
+I'm still alive.
+
+539
+00:36:03,190 --> 00:36:06,360
+吃我一木条  疯狗
+Yeah! Yeah, take that Cujo!
+
+540
+00:36:06,380 --> 00:36:08,060
+我说到做到
+That's what I'm talkin' about!
+
+541
+00:36:09,920 --> 00:36:12,680
+我们成功了小狗  我跟你  我们办到了
+We did it, pup. Me and you, we did it.
+
+542
+00:36:13,330 --> 00:36:14,650
+我们还活着
+We're alive.
+
+543
+00:36:19,350 --> 00:36:20,700
+我们还活着
+We're alive.
+
+544
+00:36:37,220 --> 00:36:41,450
+只剩下你和我了  小狗  只有你和我
+It's just you and me, pup. Just you and me.
+
+545
+00:36:48,520 --> 00:36:52,520
+好  我有汉堡排和牛肉三明治
+Okay. I've got beef patty and sloppy joe.
+
+546
+00:36:55,050 --> 00:36:56,810
+我觉得你更喜欢牛肉
+You look like a beef eater to me.
+
+547
+00:36:57,860 --> 00:36:59,320
+好  给你
+Okay. Here we go.
+
+548
+00:37:00,250 --> 00:37:02,610
+这绝对是我最棒的首次约会之一
+This is actually one of the best first dates I've ever had.
+
+549
+00:37:03,020 --> 00:37:06,130
+给  很好  看起来很好吃是吧
+Here we go. Oh yeah, doesn't that look good?
+
+550
+00:37:08,060 --> 00:37:09,750
+慢点吃  伙计
+Whoa. Slow down, dude.
+
+551
+00:37:09,930 --> 00:37:11,680
+我只有十年的储备食物
+I only have ten year supply.
+
+552
+00:37:13,800 --> 00:37:14,540
+伙计
+Dude?
+
+553
+00:37:15,190 --> 00:37:17,040
+这不算什么好名字  对吧
+That's not a very good name, is it?
+
+554
+00:37:17,440 --> 00:37:22,350
+我们来起个更好  行吗  叫"花花公子"怎么样
+Nah, we can do better than that, can't we? What about "the dude"?
+
+555
+00:37:22,790 --> 00:37:24,160
+我很喜欢那部电影
+I really like that movie.
+
+556
+00:37:24,580 --> 00:37:27,300
+不要吗  我们可以想出更好的
+No? Yeah, we can come up with something better than that.
+
+557
+00:37:27,380 --> 00:37:29,190
+好  乖孩子
+Yes. Good boy.
+
+558
+00:37:31,400 --> 00:37:32,470
+那是什么
+What is that?
+
+559
+00:37:37,040 --> 00:37:39,040
+看起来好像有人在玩火柴
+Looks like somebody's been playing with matches.
+
+560
+00:37:39,390 --> 00:37:41,670
+那是哪  是炼油厂吗
+What is that? Is that a refinery?
+
+561
+00:37:44,930 --> 00:37:46,540
+我们拿到汽油了吗
+So did we get the gas?
+
+562
+00:37:47,690 --> 00:37:50,980
+太好了  刚才谁引起的爆炸
+Great. Who screwed that up?
+
+563
+00:37:56,990 --> 00:37:57,820
+抱歉
+Sorry.
+
+564
+00:37:58,910 --> 00:38:01,090
+你的朋友哪去了
+So where's your friend?
+
+565
+00:38:03,190 --> 00:38:06,720
+他没能生还  而且他也不是我的朋友
+He didn't make it. And he wasn't my friend.
+
+566
+00:38:21,980 --> 00:38:22,860
+喂
+Hello?
+
+567
+00:38:23,590 --> 00:38:26,130
+喂  是我  来自北极光的市民Z广播
+Hello. It's me, Citizen Z from Northern Light.
+
+568
+00:38:26,130 --> 00:38:27,320
+你是哪位
+To whom am I speaking?
+
+569
+00:38:27,380 --> 00:38:29,330
+查理·加内特中士
+Sergeant Charlie Garnett.
+
+570
+00:38:29,670 --> 00:38:30,300
+太好了
+Excellent.
+
+571
+00:38:30,310 --> 00:38:31,600
+很高兴又和你讲话  长官
+Good talking to you again sir.
+
+572
+00:38:31,600 --> 00:38:32,670
+你们怎么样了
+How's it going?
+
+573
+00:38:32,840 --> 00:38:33,740
+还可以
+It's going.
+
+574
+00:38:34,090 --> 00:38:35,970
+很好  包裹怎么样
+Excellent. And the package?
+
+575
+00:38:35,970 --> 00:38:37,270
+还活着
+Still alive.
+
+576
+00:38:37,270 --> 00:38:39,030
+请告诉我们  要把他送到哪去
+Please tell us where to drop him off.
+
+577
+00:38:39,600 --> 00:38:40,890
+加利福尼亚
+California.
+
+578
+00:38:41,270 --> 00:38:42,840
+加利福尼亚  等等  不
+California? Wait. No.
+
+579
+00:38:43,570 --> 00:38:44,800
+等等  那不可能
+Hold on. That's not gonna happen.
+
+580
+00:38:44,800 --> 00:38:46,470
+我们需要个近一点的地方
+We need to go some place closer.
+
+581
+00:38:47,680 --> 00:38:48,430
+近一点
+Closer?
+
+582
+00:38:49,880 --> 00:38:52,670
+抱歉中士  没有近一点的地方
+Sorry Sergeant, but there is no... closer.
+
+583
+00:38:52,880 --> 00:38:54,540
+我能跟你的上司说话吗
+Can I speak to someone in charge?
+
+584
+00:38:54,540 --> 00:38:57,950
+是的我懂  我相信他们也很想跟你讲话
+Yeah, copy that. I'm sure they'd like to talk to you too.
+
+585
+00:38:57,950 --> 00:39:00,840
+可是也许有困难
+But that may be a little problematic.
+
+586
+00:39:00,840 --> 00:39:02,140
+有困难是什么意思
+What do you mean problematic?
+
+587
+00:39:02,150 --> 00:39:03,590
+又有小伙伴儿过来了
+More puppies and kittens.
+
+588
+00:39:04,270 --> 00:39:06,040
+我为什么不能跟实验室的人说话
+Why can't I speak to somebody at the lab?
+
+589
+00:39:06,110 --> 00:39:06,850
+长官
+Well, sir.
+
+590
+00:39:06,860 --> 00:39:07,960
+到底怎么了
+What's going on?!
+
+591
+00:39:08,510 --> 00:39:10,280
+我们失去联系了
+We've lost contact.
+
+592
+00:39:11,360 --> 00:39:12,630
+他们还活着吗
+Are they even still alive?
+
+593
+00:39:12,630 --> 00:39:14,690
+我正在努力确认  长官
+I'm working on confirming that, sir.
+
+594
+00:39:16,900 --> 00:39:19,920
+我看到屏幕上全是僵尸  朝你们来了
+I've got a screen full of incoming Zs headed your way.
+
+595
+00:39:19,920 --> 00:39:21,440
+你最好快走  中士
+You'd better get moving, Sergeant.
+
+596
+00:39:21,440 --> 00:39:25,120
+我会找到你们  目前就一直西进至大海吧
+I'll find you. But for now, go west till you hit the ocean.
+
+597
+00:39:28,070 --> 00:39:29,110
+喂
+Hello?
+
+598
+00:39:29,980 --> 00:39:30,980
+加内特中士
+Sergeant Garnett?
+
+599
+00:39:31,540 --> 00:39:32,470
+中士
+Sergeant?
+
+600
+00:39:35,370 --> 00:39:36,470
+我知道
+I know.
+
+601
+00:39:36,600 --> 00:39:39,490
+我知道  可我们只能指望他们了
+I know. But they're the only chance we got.
+
+602
+00:39:42,130 --> 00:39:43,760
+我需要来点音乐
+I need some music.
+
+603
+00:39:52,520 --> 00:39:53,480
+真是好孩子
+That's a good boy.
+
+604
+00:40:00,220 --> 00:40:00,880
+看
+Look.
+
+605
+00:40:02,330 --> 00:40:03,070
+太棒了
+Awesome.
+
+606
+00:40:05,670 --> 00:40:07,280
+我以为再也见不到它了呢
+Never thought I would see this thing again.
+
+607
+00:40:10,780 --> 00:40:12,230
+等等  那孩子来了
+Wait! Here comes the kid!
+
+608
+00:40:13,150 --> 00:40:14,110
+我找到了这个
+Found these.
+
+609
+00:40:14,210 --> 00:40:15,000
+宝贝
+Kid.
+
+610
+00:40:15,300 --> 00:40:16,660
+你简直是救世主
+You're a god.
+
+611
+00:40:16,730 --> 00:40:17,870
+是啊  快点了
+Yeah well hurry up.
+
+612
+00:40:40,100 --> 00:40:41,750
+不好意思  女士
+Excuse me, ma'am.
+
+613
+00:40:43,880 --> 00:40:45,530
+你头发里插了根手指
+You have a finger in your hair.
+

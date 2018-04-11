@@ -11,6 +11,7 @@ import random
 import queue
 import chardet
 
+
 def format_time(time_string):
     elements = re.split(r'[:,]', time_string)
     hours = int(elements[0])
@@ -34,38 +35,69 @@ def segment_word(text):
     word_list = re.findall(pattern, text)
     return word_list
 
+def judge_pure_english(keyword):  
+    return all(ord(c) < 128 for c in keyword)  
+
 
 def read_subtitle_file(filename):
+    # print(filename)
     milliseconds = 0
     word_count = 0
     file = open(filename, "rb")
-    buff = file.read() 
-    detect_result = chardet.detect(buff) 
+    detector = chardet.UniversalDetector()
+    for line in file.readlines()[0:10]:    
+        detector.feed(line)    
+        if detector.done:            
+            break
+    detector.close()
     file.close()
-
-    print(filename, detect_result)
-    with open(filename, 'r',encoding=detect_result['encoding'], errors = 'ignore') as file:
+    # print(detector.result)
+    with open(
+            filename, 'r', encoding=detector.result['encoding'],
+            errors='ignore') as file:
         text = file.readlines()
         for i in range(len(text)):
             if '-->' in text[i]:
-                print(text[i+1])
+                text[i] = text[i].replace('-->', ' --> ')
                 elements = text[i].split()
                 milliseconds += format_time(elements[2]) - format_time(
                     elements[0])
-                word_count += len(segment_word(text[i + 1]))
-                # print(text[i + 1])
+                for j in range(1,2):
+                    if text[i + j].strip() == '':
+                        break
+                    else:
+                        if judge_pure_english(text[i + j]):
+                            word_count += len(segment_word(text[i + j]))
     frequency = word_count / (milliseconds / 60000)
-    # print((milliseconds / 60000))
     return word_count, milliseconds, frequency
 
 
-def get_subtitle_filename_list(path, mode = ''):
+def get_subtitle_filename_list(path, mode=''):
     filename_list = list()
-    for file in os.listdir(path):
-        filename = os.path.join(path, file)
-        if '.srt' in filename:
-            filename_list.append(filename)
+    if mode == 'r':
+        for root, dirs, files in os.walk(path, topdown=True):
+            for file in files:
+                filename = os.path.join(root, file)
+                if '.srt' in filename:
+                    filename_list.append(filename)
+    else:
+        for file in os.listdir(path):
+            filename = os.path.join(path, file)
+            if '.srt' in filename and not os.path.isdir(filename):
+                filename_list.append(filename)
+
     return filename_list
+
+
+def output_analysis_result_document(result_dict,
+                                    filename='analysis_result.txt'):
+    #todo split items of dict
+    data = [result_dict[key] for key in result_dict.keys()]
+    result_list = sorted(data, key=lambda x: x[3])
+    with open(filename, 'w') as file:
+        for result in result_list:
+            file.writelines('%s\t%d\t%d\t%f\n' % (result[0], result[1],
+                                                  result[2], result[3]))
 
 
 def assign_tasks(filename_list, grain_size=1):
@@ -119,19 +151,12 @@ def multithread_analyze_1(filename_list, max_workers=1, grain_size=1):
 def single_thread_analyze(filename_list):
     result = dict()
     for filename in filename_list:
-        word_count, milliseconds, frequency = read_subtitle_file(filename)
-        result[filename] = [filename, word_count, milliseconds, frequency]
+        try:
+            word_count, milliseconds, frequency = read_subtitle_file(filename)
+            result[filename] = [filename, word_count, milliseconds, frequency]
+        except Exception as e:
+            print(repr(e))
     return result
-
-
-def output_analysis_result_document(result_dict,
-                                    filename='analysis_result.txt'):
-    #todo split items of dict
-    data = [result_dict[key] for key in result_dict.keys()]
-    result_list = sorted(data, key=lambda x: x[3])
-    with open(filename, 'w') as file:
-        for result in result_list:
-            file.writelines('%s\t%d\t%d\t%f\n' % (result[0], result[1], result[2], result[3]))
 
 
 def test_multithread_analyze_1():
@@ -140,11 +165,10 @@ def test_multithread_analyze_1():
         filename_list, max_workers=2, grain_size=4)
     output_analysis_result_document(
         result_dict, filename='analysis_result.txt')
-    # read_subtitle_file('./srt/bbc戴维阿滕伯勒非洲s01e04.eng.srt')
 
 
 def test_single_thread_analyze():
-    filename_list = get_subtitle_filename_list('./srt')
+    filename_list = get_subtitle_filename_list('/home/bigding/Code/advanced-programming-techniques/hw02/data/ignore_tmp/homework01', mode='r')
     result_dict = single_thread_analyze(filename_list)
     output_analysis_result_document(
         result_dict, filename='analysis_result.txt')
@@ -159,9 +183,20 @@ if __name__ == '__main__':
     #     repeat=1)
     # print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
 
-    t = timeit.repeat(
-        'test_single_thread_analyze()',
-        'from __main__ import test_single_thread_analyze',
-        number=1,
-        repeat=1)
-    print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
+    # t = timeit.repeat(
+    #     'test_single_thread_analyze()',
+    #     'from __main__ import test_single_thread_analyze',
+    #     number=1,
+    #     repeat=1)
+    # print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
+    test_single_thread_analyze()
+    # read_subtitle_file('/home/bigding/Code/advanced-programming-techniques/hw02/data/ignore_tmp/homework01/lost4/Lost S04E10 720p BluRay x264-CtrlHD(ED2000.COM).srt')
+    # bigdata = open('/home/bigding/Code/advanced-programming-techniques/hw02/data/ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E01.Pilot.1080p.WEB-DL.DD5.1.H.264-ECI.srt','rb')
+    # detector = chardet.UniversalDetector()
+    # for line in bigdata.readlines():    
+    #     detector.feed(line)    
+    #     if detector.done:            
+    #         break
+    # detector.close()
+    # bigdata.close()
+    # print(detector.result)

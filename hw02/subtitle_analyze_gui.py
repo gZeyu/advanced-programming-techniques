@@ -1,8 +1,9 @@
+ #-*- coding:utf-8 -*-
 import sys
 from PyQt5.QtCore import (QDir, QThread, pyqtSignal, pyqtSlot)
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QDesktopWidget,
                              QFileDialog, QGridLayout, QHeaderView)
-from PyQt5.QtGui import (QMovie)
+from PyQt5.QtGui import (QMovie, QIcon)
 from PyQt5.QtSql import (QSqlTableModel)
 from ui_mainwindow import Ui_MainWindow
 from sql_table import (create_connection, add_record, initialize_model,
@@ -25,6 +26,8 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         self.move_to_center()
         self.init_table_view()
 
+        icon = QIcon('subtitle_analyze_gui.ico')
+        self.setWindowIcon(icon)
         movie = QMovie('processing.gif')
         self.label.setMovie(movie)
         movie.start()
@@ -65,7 +68,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
 
     def analyze_subtitle(self):
         """Analyze subtitles"""
-        filename_list = get_subtitle_filename_list(self.folder_path)
+        filename_list = get_subtitle_filename_list(self.folder_path, mode='r')
         result_dict = single_thread_analyze(filename_list)
         for key in result_dict.keys():
             add_record(result_dict[key][0], result_dict[key][1],
