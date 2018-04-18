@@ -1,4 +1,4 @@
- #-*- coding:utf-8 -*-
+#-*- coding:utf-8 -*-
 import sys
 from PyQt5.QtCore import (QDir, QThread, pyqtSignal, pyqtSlot)
 from PyQt5.QtWidgets import (QApplication, QMainWindow, QDesktopWidget,
@@ -11,6 +11,7 @@ from sql_table import (create_connection, add_record, initialize_model,
 from subtitle_analyze_cli import (get_subtitle_filename_list,
                                   single_thread_analyze,
                                   output_analysis_result_document)
+import os
 
 
 class MainWindow(QMainWindow, Ui_MainWindow):
@@ -39,6 +40,7 @@ class MainWindow(QMainWindow, Ui_MainWindow):
             QHeaderView.ResizeToContents)
 
         self.actionOpen_Folder.triggered.connect(self.open_folder)
+        self.actionSave_As.triggered.connect(self.save_result)
         self.actionExit.triggered.connect(self.close)
         self.refreshPushButton.released.connect(self.refresh)
 
@@ -66,13 +68,27 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         if not self.folder_path:
             self.folder_path = QDir.current().path()
 
+    def save_result(self):
+        """Save analyze result."""
+        filename = QFileDialog.getSaveFileName(
+            self, 'Save analyze result',
+            os.path.join(QDir.current().path(), 'result.csv'), 'File (*.csv)')
+        with open(filename[0], 'w') as file:
+            row = self.model.rowCount()
+            col = self.model.columnCount()
+            for i in range(row):
+                text = ''
+                for j in range(col):
+                    text += str(self.model.data(self.model.index(i, j))) + '\t'
+                file.writelines(text + '\n')
+
     def analyze_subtitle(self):
         """Analyze subtitles"""
         filename_list = get_subtitle_filename_list(self.folder_path, mode='r')
         result_dict = single_thread_analyze(filename_list)
         for key in result_dict.keys():
             add_record(result_dict[key][0], result_dict[key][1],
-                       result_dict[key][2], result_dict[key][3])
+                       result_dict[key][2] / 1000, result_dict[key][3])
 
     def refresh(self):
         """Execute analysis task."""

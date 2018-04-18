@@ -46,10 +46,10 @@ def read_subtitle_file(filename):
     word_count = 0
     file = open(filename, "rb")
     detector = chardet.UniversalDetector()
-    n = len(file.readlines())
-    threshold = 10
+    filelines = len(file.readlines())
+    threshold = 50
     file.seek(0)
-    n = n if n < threshold else threshold
+    n = filelines if filelines < threshold else threshold
     for line in file.readlines()[0:n]:
         detector.feed(line)
         if detector.done:
@@ -60,19 +60,24 @@ def read_subtitle_file(filename):
             filename, 'r', encoding=detector.result['encoding'],
             errors='ignore') as file:
         text = file.readlines()
-        for i in range(len(text)):
+        filelines = len(text)
+        for i in range(filelines):
             if '-->' in text[i]:
                 text[i] = text[i].replace('-->', ' --> ')
                 elements = text[i].split()
+                try:
+                    milliseconds += format_time(elements[2]) - format_time(
+                        elements[0])
+                except:
+                    break
                 for j in range(1, 2):
+                    if i + j >= filelines:
+                        break
                     if text[i + j].strip() == '':
                         break
                     else:
                         if judge_pure_english(text[i + j]):
                             try:
-                                print(text[i + j])
-                                milliseconds += format_time(
-                                    elements[2]) - format_time(elements[0])
                                 word_count += len(segment_word(text[i + j]))
                             except:
                                 break
@@ -105,7 +110,7 @@ def output_analysis_result_document(result_dict,
     with open(filename, 'w') as file:
         for result in result_list:
             file.writelines('%s\t%d\t%d\t%f\n' % (result[0], result[1],
-                                                  result[2], result[3]))
+                                                  result[2] / 1000, result[3]))
 
 
 def assign_tasks(filename_list, grain_size=1):
@@ -211,15 +216,18 @@ if __name__ == '__main__':
     # print('Average time : %f, Minimum time : %f' % (sum(t) / len(t), min(t)))
     start = time.time()
 
-    path = sys.argv[1]
+    if len(sys.argv) > 1:
+        path = sys.argv[1]
+    else:
+        path = 'ignore_tmp/test'
     if len(sys.argv) > 2:
         filename = sys.argv[2]
     else:
         filename = 'analysis_result.txt'
 
     filename_list = get_subtitle_filename_list(path, mode='r')
+    print("Found: %d subtitles" % (len(filename_list)))
     result_dict = single_thread_analyze(filename_list)
     output_analysis_result_document(result_dict, filename=filename)
-
     end = time.time()
     print("Elapsed: %.03f seconds" % (end - start))

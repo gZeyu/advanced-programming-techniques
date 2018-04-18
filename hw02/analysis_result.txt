@@ -1,1 +1,592 @@
-ignore_tmp/test/Lost S04E05 720p BluRay x264-CtrlHD(ED2000.COM).srt	9	15170	35.596572
+ignore_tmp/homework01/Star_Wars_Episode_I_The_Phantom_Menace_1999_720p_HDTV_x264-EbP.Cht.srt	0	3187	0.000000
+ignore_tmp/homework01/The.Godfather.Part.II.1974.1080p.BluRay.DTS.x264-ESiR.chs.srt	0	5282	0.000000
+ignore_tmp/homework01/Yeogo.goedam.1998.DVDRip.DivX.chs.srt	0	1644	0.000000
+ignore_tmp/homework01/The.Godfather.1972.1080p.BluRay.DTS.x264-ESiR.chs.srt	0	3977	0.000000
+ignore_tmp/homework01/Salem.S01E13.720p.HDTV.x264-KILLERS/Salem.S01E13.720p.HDTV.x264-KILLERS.繁体.srt	0	1322	0.000000
+ignore_tmp/homework01/Salem.S01E13.720p.HDTV.x264-KILLERS/Salem.S01E13.720p.HDTV.x264-KILLERS.简体.srt	0	1322	0.000000
+ignore_tmp/homework01/Salem.S01E13.720p.HDTV.x264-KILLERS/Salem.S01E13.720p.HDTV.x264-KILLERS.简体&英文.srt	0	1322	0.000000
+ignore_tmp/homework01/Salem.S01E13.720p.HDTV.x264-KILLERS/Salem.S01E13.720p.HDTV.x264-KILLERS.繁体&英文.srt	0	1322	0.000000
+ignore_tmp/homework01/Salem.S01E10.720p.HDTV.X264-DIMENSION/Salem.S01E10.720p.HDTV.X264-DIMENSION.简体.srt	0	1306	0.000000
+ignore_tmp/homework01/Salem.S01E10.720p.HDTV.X264-DIMENSION/Salem.S01E10.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1306	0.000000
+ignore_tmp/homework01/Salem.S01E10.720p.HDTV.X264-DIMENSION/Salem.S01E10.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1306	0.000000
+ignore_tmp/homework01/Salem.S01E10.720p.HDTV.X264-DIMENSION/Salem.S01E10.720p.HDTV.X264-DIMENSION.繁体.srt	0	1306	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	902	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	902	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	902	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	902	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	946	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	946	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	946	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	946	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	886	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	886	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	957	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	957	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	960	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	960	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	960	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	960	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	932	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	932	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	932	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	932	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	985	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	985	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	985	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	985	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	903	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	903	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	903	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	903	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	877	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	877	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	877	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	877	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	885	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	885	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	885	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	885	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	998	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	998	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	998	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	998	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	894	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	894	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	897	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	897	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	943	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	943	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	943	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	943	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	895	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	895	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	895	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	895	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	937	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2.繁体.srt	0	891	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2.简体.srt	0	891	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	0	875	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	0	875	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb.繁体.srt	0	875	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb.简体.srt	0	875	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back.....繁体.srt	0	880	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back.....简体&英文.srt	0	880	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back.....繁体&英文.srt	0	880	0.000000
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back.....简体.srt	0	880	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e05.1080p.bluray.x264-rovers.srt	0	1083	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e08.1080p.bluray.x264-rovers.srt	0	1043	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e07.1080p.bluray.x264-rovers.srt	0	1233	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e02.1080p.bluray.x264-rovers.srt	0	1115	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e06.1080p.bluray.x264-rovers.srt	0	1254	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e01.1080p.bluray.x264-rovers.srt	0	1201	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e04.1080p.bluray.x264-rovers.srt	0	1104	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e03.1080p.bluray.x264-rovers.srt	0	1317	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e09.1080p.bluray.x264-rovers.srt	0	954	0.000000
+ignore_tmp/homework01/bates.motel.s02e01-10.1080p.bluray.x264-rovers/bates.motel.s02e10.1080p.bluray.x264-rovers.srt	0	909	0.000000
+ignore_tmp/homework01/GodMars-11/11.srt	0	527	0.000000
+ignore_tmp/homework01/Salem.S01E11.720p.HDTV.X264-DIMENSION/Salem.S01E11.720p.HDTV.X264-DIMENSION.繁体.srt	0	1435	0.000000
+ignore_tmp/homework01/Salem.S01E11.720p.HDTV.X264-DIMENSION/Salem.S01E11.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1435	0.000000
+ignore_tmp/homework01/Salem.S01E11.720p.HDTV.X264-DIMENSION/Salem.S01E11.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1435	0.000000
+ignore_tmp/homework01/Salem.S01E11.720p.HDTV.X264-DIMENSION/Salem.S01E11.720p.HDTV.X264-DIMENSION.简体.srt	0	1435	0.000000
+ignore_tmp/homework01/木乃伊三部曲.The.Mummy.Trilogy.BluRay.1080p.DTS.x264-CHD.Cht/The.Mummy.Returns.2001.BluRay.1080p.DTS.2Audio.x264-CHD.Cht.srt	0	2116	0.000000
+ignore_tmp/homework01/木乃伊三部曲.The.Mummy.Trilogy.BluRay.1080p.DTS.x264-CHD.Cht/The.Mummy.Tomb.Of.The.Dragon.Emperor.2008.BluRay.1080p.DTS.2Audio.x264-CHD.Cht.srt	0	2404	0.000000
+ignore_tmp/homework01/木乃伊三部曲.The.Mummy.Trilogy.BluRay.1080p.DTS.x264-CHD.Cht/The.Mummy.1999.BluRay.1080p.DTS.2Audio.x264-CHD.Cht.srt	0	2599	0.000000
+ignore_tmp/homework01/Salem.S01E01.720p.HDTV.X264-DIMENSION/Salem.S01E01.720p.HDTV.X264-DIMENSION.简体.srt	0	1434	0.000000
+ignore_tmp/homework01/Salem.S01E01.720p.HDTV.X264-DIMENSION/Salem.S01E01.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1434	0.000000
+ignore_tmp/homework01/Salem.S01E01.720p.HDTV.X264-DIMENSION/Salem.S01E01.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1434	0.000000
+ignore_tmp/homework01/Salem.S01E01.720p.HDTV.X264-DIMENSION/Salem.S01E01.720p.HDTV.X264-DIMENSION.繁体.srt	0	1434	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E02.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1470	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E05.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1692	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E08.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1443	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E11.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1589	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E03.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1440	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E10.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1410	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E04.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1693	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E06.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1416	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E12.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1558	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E04.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1693	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E05.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1692	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E01.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1364	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E02.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1470	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E09.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1349	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E11.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1589	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E01.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1364	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E03.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1440	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E08.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	0	1443	0.000000
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E06.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	0	1416	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_117_Icelandic.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_220_Vet.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_119_Japanse.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_120_Korean.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_116_Hungarian.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_217_Thai.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_219_Ukrainian.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_209_Russian.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_203_Chinese Taiwain.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_121_Latvian[No].srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_104_Cantonese.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_101_Arabic.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_202_Chinese Mandarin.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_114_Greek.srt	0	182	0.000000
+ignore_tmp/homework01/let it go ALL LANG/Sb_103_Bul.srt	0	182	0.000000
+ignore_tmp/homework01/Salem.S01E03.720p.HDTV.X264-DIMENSION/Salem.S01E03.720p.HDTV.X264-DIMENSION.简体.srt	0	1287	0.000000
+ignore_tmp/homework01/Salem.S01E03.720p.HDTV.X264-DIMENSION/Salem.S01E03.720p.HDTV.X264-DIMENSION.繁体.srt	0	1287	0.000000
+ignore_tmp/homework01/Salem.S01E03.720p.HDTV.X264-DIMENSION/Salem.S01E03.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1287	0.000000
+ignore_tmp/homework01/Salem.S01E03.720p.HDTV.X264-DIMENSION/Salem.S01E03.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1287	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第5集.中英字幕.大家字幕组/狼厅第5集.中英字幕.大家字幕组.简体&英文.srt	0	1904	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第5集.中英字幕.大家字幕组/狼厅第5集.中英字幕.大家字幕组.繁体.srt	0	1904	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第5集.中英字幕.大家字幕组/狼厅第5集.中英字幕.大家字幕组.简体.srt	0	1904	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第5集.中英字幕.大家字幕组/狼厅第5集.中英字幕.大家字幕组.繁体&英文.srt	0	1904	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E03.HDTV.x264-ASAP/Da.Vincis.Demons.S01E03.HDTV.x264-ASAP.cht.srt	0	2096	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E03.HDTV.x264-ASAP/Da.Vincis.Demons.S01E03.HDTV.x264-ASAP.chs.srt	0	2096	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E03.HDTV.x264-ASAP/Da.Vincis.Demons.S01E03.HDTV.x264-ASAP.chs&eng.srt	0	2096	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE.chs&eng.srt	0	1881	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE.chs.srt	0	1881	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第3集.中英字幕.大家字幕组/狼厅第3集.中英字幕.大家字幕组.简体.srt	0	1685	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第3集.中英字幕.大家字幕组/狼厅第3集.中英字幕.大家字幕组.简体&英文.srt	0	1685	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第3集.中英字幕.大家字幕组/狼厅第3集.中英字幕.大家字幕组.繁体&英文.srt	0	1685	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第3集.中英字幕.大家字幕组/狼厅第3集.中英字幕.大家字幕组.繁体.srt	0	1685	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第6集.中英字幕.大家字幕组/狼厅第6集.中英字幕.大家字幕组.繁体.srt	0	1911	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第6集.中英字幕.大家字幕组/狼厅第6集.中英字幕.大家字幕组.简体.srt	0	1911	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE.chs.srt	0	2039	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE.chs&eng.srt	0	2039	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e01.hdtv.x264-2hd/Da.Vincis.Demons.S01E01.HDTV.x264-2HD.chs&eng.srt	0	2115	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e01.hdtv.x264-2hd/Da.Vincis.Demons.S01E01.HDTV.x264-2HD.chs.srt	0	2115	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE.chs.srt	0	2018	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE.chs&eng.srt	0	2018	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第4集.中英字幕.大家字幕组/狼厅第4集.中英字幕.大家字幕组.繁体&英文.srt	0	1716	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第4集.中英字幕.大家字幕组/狼厅第4集.中英字幕.大家字幕组.简体&英文.srt	0	1716	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第4集.中英字幕.大家字幕组/狼厅第4集.中英字幕.大家字幕组.繁体.srt	0	1716	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第4集.中英字幕.大家字幕组/狼厅第4集.中英字幕.大家字幕组.简体.srt	0	1716	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第2集.中英字幕.大家字幕组/狼厅第2集.中英字幕.大家字幕组.繁体&英文.srt	0	1581	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第2集.中英字幕.大家字幕组/狼厅第2集.中英字幕.大家字幕组.简体.srt	0	1581	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第2集.中英字幕.大家字幕组/狼厅第2集.中英字幕.大家字幕组.繁体.srt	0	1581	0.000000
+ignore_tmp/homework01/142543961312297/狼厅第2集.中英字幕.大家字幕组/狼厅第2集.中英字幕.大家字幕组.简体&英文.srt	0	1581	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E04.HDTV.x264-ASAP/Da.Vincis.Demons.S01E04.HDTV.x264-ASAP.chs&eng.srt	0	2336	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E04.HDTV.x264-ASAP/Da.Vincis.Demons.S01E04.HDTV.x264-ASAP.chs.srt	0	2336	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E02.HDTV.x264-ASAP/Da.Vincis.Demons.S01E02.HDTV.x264-ASAP.chs.srt	0	2186	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E02.HDTV.x264-ASAP/Da.Vincis.Demons.S01E02.HDTV.x264-ASAP.cht.srt	0	2186	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E02.HDTV.x264-ASAP/Da.Vincis.Demons.S01E02.HDTV.x264-ASAP.chs&eng.srt	0	2186	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e05.hdtv.x264-2hd/da.vincis.demons.s01e05.hdtv.x264-2hd.chs&eng.srt	0	2269	0.000000
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e05.hdtv.x264-2hd/da.vincis.demons.s01e05.hdtv.x264-2hd.chs.srt	0	2269	0.000000
+ignore_tmp/homework01/Salem.S01E02.720p.HDTV.X264-DIMENSION/Salem.S01E02.720p.HDTV.X264-DIMENSION.繁体.srt	0	1397	0.000000
+ignore_tmp/homework01/Salem.S01E02.720p.HDTV.X264-DIMENSION/Salem.S01E02.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1397	0.000000
+ignore_tmp/homework01/Salem.S01E02.720p.HDTV.X264-DIMENSION/Salem.S01E02.720p.HDTV.X264-DIMENSION.简体.srt	0	1397	0.000000
+ignore_tmp/homework01/Salem.S01E02.720p.HDTV.X264-DIMENSION/Salem.S01E02.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1397	0.000000
+ignore_tmp/homework01/Ice.Age.Trilogy.BluRay.1080p.DTS.x264.4Audio-CHD.chs/Ice.Age.2002.BluRay.1080p.DTS.4Audio.x264.chs.srt	0	1728	0.000000
+ignore_tmp/homework01/Salem.S01E09.720p.HDTV.X264-DIMENSION/Salem.S01E09.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1399	0.000000
+ignore_tmp/homework01/Salem.S01E09.720p.HDTV.X264-DIMENSION/Salem.S01E09.720p.HDTV.X264-DIMENSION.繁体.srt	0	1399	0.000000
+ignore_tmp/homework01/Salem.S01E09.720p.HDTV.X264-DIMENSION/Salem.S01E09.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1399	0.000000
+ignore_tmp/homework01/Salem.S01E09.720p.HDTV.X264-DIMENSION/Salem.S01E09.720p.HDTV.X264-DIMENSION.简体.srt	0	1399	0.000000
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-day.and.night-1080p.srt	0	107	0.000000
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-george.and.a.j-1080p.srt	0	137	0.000000
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-air.mater-1080p.srt	0	266	0.000000
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-dougs.special.mission-1080p.srt	0	187	0.000000
+ignore_tmp/homework01/Salem.S01E12.720p.HDTV.X264-DIMENSION/Salem.S01E12.720p.HDTV.X264-DIMENSION.繁体.srt	0	1652	0.000000
+ignore_tmp/homework01/Salem.S01E12.720p.HDTV.X264-DIMENSION/Salem.S01E12.720p.HDTV.X264-DIMENSION.简体.srt	0	1652	0.000000
+ignore_tmp/homework01/Salem.S01E12.720p.HDTV.X264-DIMENSION/Salem.S01E12.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1652	0.000000
+ignore_tmp/homework01/Salem.S01E12.720p.HDTV.X264-DIMENSION/Salem.S01E12.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1652	0.000000
+ignore_tmp/homework01/Salem.S01E05.720p.HDTV.X264-DIMENSION/Salem.S01E05.720p.HDTV.X264-DIMENSION.简体.srt	0	1212	0.000000
+ignore_tmp/homework01/Salem.S01E05.720p.HDTV.X264-DIMENSION/Salem.S01E05.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1212	0.000000
+ignore_tmp/homework01/Salem.S01E05.720p.HDTV.X264-DIMENSION/Salem.S01E05.720p.HDTV.X264-DIMENSION.繁体.srt	0	1212	0.000000
+ignore_tmp/homework01/Salem.S01E05.720p.HDTV.X264-DIMENSION/Salem.S01E05.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1212	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E05.Legacies.1080p.WEB-DL.DD5.1.H.264-TB.srt	0	1454	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E04.An Innocent Man.1080p.WEB-DL.DD5.1.H.264-TB.srt	0	1405	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E14.The.Odyssey.1080p.WEB-DL.DD5.1.H.264-BS.srt	0	1183	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E03.Lone Gunman.1080p.WEB-DL.DD5.1.H.264-TB.srt	0	1229	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E06.Legacies.1080p.WEB-DL.DD5.1.H.264-TB.srt	0	1561	0.000000
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E02.Honor Thy Father.1080p.WEB-DL.DD5.1.H.264-TB.srt	0	1427	0.000000
+ignore_tmp/homework01/Salem.S01E08.720p.HDTV.X264-DIMENSION/Salem.S01E08.720p.HDTV.X264-DIMENSION.繁体.srt	0	1336	0.000000
+ignore_tmp/homework01/Salem.S01E08.720p.HDTV.X264-DIMENSION/Salem.S01E08.720p.HDTV.X264-DIMENSION.简体.srt	0	1336	0.000000
+ignore_tmp/homework01/Salem.S01E08.720p.HDTV.X264-DIMENSION/Salem.S01E08.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1336	0.000000
+ignore_tmp/homework01/Salem.S01E08.720p.HDTV.X264-DIMENSION/Salem.S01E08.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1336	0.000000
+ignore_tmp/homework01/Salem.S01E04.720p.HDTV.X264-DIMENSION/Salem.S01E04.720p.HDTV.X264-DIMENSION.繁体.srt	0	1440	0.000000
+ignore_tmp/homework01/Salem.S01E04.720p.HDTV.X264-DIMENSION/Salem.S01E04.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1440	0.000000
+ignore_tmp/homework01/Salem.S01E04.720p.HDTV.X264-DIMENSION/Salem.S01E04.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1440	0.000000
+ignore_tmp/homework01/Salem.S01E04.720p.HDTV.X264-DIMENSION/Salem.S01E04.720p.HDTV.X264-DIMENSION.简体.srt	0	1440	0.000000
+ignore_tmp/homework01/Captain.America.The.Winter.Soldier.2014.BDRip.1080p.Rus.Eng/Captain.America.The.Winter.Soldier.2014.BDRip.1080p.Rus.Eng.srt	0	3129	0.000000
+ignore_tmp/homework01/Salem.S01E06.720p.HDTV.X264-DIMENSION/Salem.S01E06.720p.HDTV.X264-DIMENSION.简体.srt	0	1190	0.000000
+ignore_tmp/homework01/Salem.S01E06.720p.HDTV.X264-DIMENSION/Salem.S01E06.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1190	0.000000
+ignore_tmp/homework01/Salem.S01E06.720p.HDTV.X264-DIMENSION/Salem.S01E06.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1190	0.000000
+ignore_tmp/homework01/Salem.S01E06.720p.HDTV.X264-DIMENSION/Salem.S01E06.720p.HDTV.X264-DIMENSION.繁体.srt	0	1190	0.000000
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.1989.720p.BluRay.x264-ESiR.chs.srt	0	2826	0.000000
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/The.Dark.Knight.2008.720p.BluRay.DTS.x264-ESiR.cht.srt	0	4392	0.000000
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.Begins.2005.720p.BluRay.DTS.x264-ESiR.chs.srt	0	3556	0.000000
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.Returns.1992.720p.BluRay.x264-ESiR.chs.srt	0	2358	0.000000
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅱ.2005.BluRay.1080p.DTS.x264-CHD.cht.srt	0	1915	0.000000
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅱ.2005.BluRay.1080p.DTS.x264-CHD.chs.srt	0	1915	0.000000
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/TransporterⅠ.2002.BluRay.1080p.DTS.2Audio.x264-CHD.cht.srt	0	1531	0.000000
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/TransporterⅠ.2002.BluRay.1080p.DTS.2Audio.x264-CHD.chs.srt	0	1531	0.000000
+ignore_tmp/homework01/Salem.S01E07.720p.HDTV.X264-DIMENSION/Salem.S01E07.720p.HDTV.X264-DIMENSION.简体.srt	0	1252	0.000000
+ignore_tmp/homework01/Salem.S01E07.720p.HDTV.X264-DIMENSION/Salem.S01E07.720p.HDTV.X264-DIMENSION.繁体&英文.srt	0	1252	0.000000
+ignore_tmp/homework01/Salem.S01E07.720p.HDTV.X264-DIMENSION/Salem.S01E07.720p.HDTV.X264-DIMENSION.简体&英文.srt	0	1252	0.000000
+ignore_tmp/homework01/Salem.S01E07.720p.HDTV.X264-DIMENSION/Salem.S01E07.720p.HDTV.X264-DIMENSION.繁体.srt	0	1252	0.000000
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E03.Home.1080p.BluRay.DTS.x264-NTb.chs.srt	0	1573	0.000000
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E06.Parenthood.1080p.BluRay.DTS.x264-NTb.chs&eng.srt	0	1176	0.000000
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E04.Power.1080p.BluRay.DTS.x264-NTb.chs.srt	0	1471	0.000000
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E05.Courtship.1080p.BluRay.DTS.x264-NTb.chs&eng.srt	0	1274	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E07 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	0	1903	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E04 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	0	1589	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 13：What Is Dead May Never Die.srt	0	1800	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 12：The Night Lands.srt	0	1946	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 16：The Old Gods And The New.srt	0	1902	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 2：The Kingsroad.srt	0	1445	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 3：Lord Snow.srt	0	2080	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 24：And Now His Watch Is Ended.srt	0	1884	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 1：Winter Is Coming.srt	0	1435	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 10：Fire And Blood.srt	0	1691	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 9：Baelor.srt	0	1953	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 14：Garden Of Bones.srt	0	1702	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 7：You Win Or You Die.srt	0	1854	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 21：Valar Dohaeris.srt	0	1729	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 11：The North Remebers.srt	0	1939	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 19：Blackwater.srt	0	1681	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 18：The Prince Of Winterfell.srt	0	2070	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 25：Kissed By Fire.srt	0	2241	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 17：A Man Without Honor.srt	0	2125	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 6：A Golden Crown.srt	0	1572	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 4：Cripples, Bastards, And Broken Things.srt	0	2187	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 5：The Wolf And The Lion.srt	0	2074	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 30：Mhysa.srt	0	2111	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 15：The Ghost Of Harrenhal.srt	0	2144	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 29：The Rains Of Castamere.srt	0	1364	0.000000
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 22：Dark Wings, Dark Words.srt	0	2060	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E07.720p.HDTV.x264-EVOLVE.简体&英文.srt	0	2039	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E03.720p.HDTV.x264-IMMERSE.简体&英文.srt	0	2174	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E01.REPACK.720p.HDTV.x264-IMMERSE.简体&英文.srt	0	1803	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E05.720p.HDTV.x264-IMMERSE.简体&英文.srt	0	1543	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E11.720p.HDTV.x264-EVOLVE.简体&英文.srt	0	1672	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E06.720p.HDTV.x264-EVOLVE.简体&英文.srt	0	1958	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E08.720p.HDTV.x264-EVOLVE.简体&英文.srt	0	1739	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E04.720p.HDTV.x264-IMMERSE.简体&英文.srt	0	1999	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E02.720p.HDTV.x264-IMMERSE.简体&英文.srt	0	1822	0.000000
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E12.720p.HDTV.x264-EVOLVE.简体&英文.srt	0	1824	0.000000
+ignore_tmp/homework01/lost4/Lost S04E07 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1252	0.000000
+ignore_tmp/homework01/lost4/Lost S04E13 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1093	0.000000
+ignore_tmp/homework01/lost4/Lost S04E03 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1295	0.000000
+ignore_tmp/homework01/lost4/Lost S04E04 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1401	0.000000
+ignore_tmp/homework01/lost4/Lost S04E06 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1419	0.000000
+ignore_tmp/homework01/lost4/Lost S04E02 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	1354	0.000000
+ignore_tmp/homework01/lost4/Lost S04E09 720p BluRay x264-CtrlHD(ED2000.COM).srt	0	991	0.000000
+ignore_tmp/homework01/Transformers.Dark.Of.The.Moon.2011.720p.BluRay.x264-WiKi.chs.srt	1	6011	0.009981
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.1978.SpecialEdition.720p.BluRay.x264.DTS-WiKi.chs.srt	1	4385	0.013681
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.II.The.Richard.Donner.Cut.2006.720p.BluRay.x264.DTS-WiKi.chs.srt	1	2975	0.020165
+ignore_tmp/homework01/The.Godfather.Part.III.1990.1080p.BluRay.DTS.x264-ESiR.chs.srt	2	4687	0.025598
+ignore_tmp/homework01/Band.Of.Brothers.Ep01.2001.BluRay.1080p.x264.DTS-WiKi.CHS.srt	1	2141	0.028016
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 27：The Bear And The Maiden Fair.srt	1	1977	0.030343
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 8：The Pointy End.srt	1	1931	0.031071
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 26：The Climb.srt	1	1792	0.033468
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E12.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	1	1558	0.038501
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E01.First.Steps.1080p.BluRay.DTS.x264-NTb.chs.srt	1	1475	0.040670
+ignore_tmp/homework01/Band.Of.Brothers.Ep05.2001.BluRay.1080p.x264.DTS-WiKi.CHS.srt	1	1467	0.040899
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E10.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	1	1410	0.042531
+ignore_tmp/homework01/The Terminal 2004 720p WEB-DL x264 AAC-KiNGDOM/The Terminal 2004 720p WEB-DL x264 AAC-KiNGDOM.cht.srt	3	4112	0.043765
+ignore_tmp/homework01/Band.Of.Brothers.Ep02.2001.BluRay.1080p.x264.DTS-WiKi.CHS.srt	1	1176	0.051002
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E04.HDTV.x264-ASAP/Da.Vincis.Demons.S01E04.HDTV.x264-ASAP.cht.srt	2	2336	0.051365
+ignore_tmp/homework01/Ice.Age.Trilogy.BluRay.1080p.DTS.x264.4Audio-CHD.chs/Ice.Age.2.The.Meltdown.2006.BluRay.1080p.DTS.4Audio.x264.Chs.srt	2	2047	0.058619
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 23：Walk Of Punishment.srt	2	1829	0.065597
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	1	899	0.066693
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	1	899	0.066693
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	1	887	0.067590
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	1	887	0.067590
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/The.Dark.Knight.2008.720p.BluRay.DTS.x264-ESiR.chs.srt	5	4428	0.067736
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E10.720p.HDTV.x264-EVOLVE.简体&英文.srt	2	1722	0.069674
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.Returns.2006.720p.BluRay.x264.DTS-WiKi.chs.srt	3	2498	0.072045
+ignore_tmp/homework01/Ice.Age.Trilogy.BluRay.1080p.DTS.x264.4Audio-CHD.chs/Ice.Age.3.Dawn.Of.The.Dinosaurs.2009.BluRay.1080p.DTSES.4Audio.x264-CHD.chs.srt	3	2497	0.072058
+ignore_tmp/homework01/142543961312297/狼厅第1集.中英字幕.大家字幕组/狼厅第1集.中英字幕.大家字幕组.繁体.srt	2	1655	0.072483
+ignore_tmp/homework01/142543961312297/狼厅第1集.中英字幕.大家字幕组/狼厅第1集.中英字幕.大家字幕组.繁体&英文.srt	2	1655	0.072483
+ignore_tmp/homework01/142543961312297/狼厅第1集.中英字幕.大家字幕组/狼厅第1集.中英字幕.大家字幕组.简体&英文.srt	2	1655	0.072483
+ignore_tmp/homework01/142543961312297/狼厅第1集.中英字幕.大家字幕组/狼厅第1集.中英字幕.大家字幕组.简体.srt	2	1655	0.072483
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.IV.1987.720p.BluRay.x264.DTS-WiKi.chs.srt	3	2322	0.077516
+ignore_tmp/homework01/真爱如血TrueBlood第五季全12集字幕合集/True.Blood.S05E09.720p.HDTV.x264-EVOLVE.简体&英文.srt	3	2124	0.084724
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e01.hdtv.x264-2hd/Da.Vincis.Demons.S01E01.HDTV.x264-2HD.cht.srt	3	2115	0.085086
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE.cht.srt	3	2039	0.088238
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E07.JPN.BluRay.720p.DTS.x264-HDWinG.chs.srt	2	1321	0.090800
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e05.720p.hdtv.x264-0sec/true.detective.s02e05.720p.hdtv.x264-0sec.cht.srt	4	2302	0.104251
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e05.720p.hdtv.x264-0sec/true.detective.s02e05.720p.hdtv.x264-0sec.chs&eng.srt	4	2302	0.104251
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e05.720p.hdtv.x264-0sec/true.detective.s02e05.720p.hdtv.x264-0sec.chs.srt	4	2302	0.104251
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E07.720p.HDTV.x264-BATV/True.Detective.S02E07.720p.HDTV.x264-BATV.cht.srt	4	2123	0.112998
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E07.720p.HDTV.x264-BATV/True.Detective.S02E07.720p.HDTV.x264-BATV.chs&eng.srt	4	2123	0.112998
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E07.720p.HDTV.x264-BATV/True.Detective.S02E07.720p.HDTV.x264-BATV.chs.srt	4	2123	0.112998
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 28：Second Sons.srt	3	1578	0.114057
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE.cht.srt	4	1881	0.127555
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	2	938	0.127831
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	2	938	0.127831
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game Of Thrones Season 1~3/Ep. 20：Valar Morghulis.srt	4	1831	0.131017
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e08.720p.hdtv.x264-0sec/true.detective.s02e08.720p.hdtv.x264-0sec.chs.srt	5	2286	0.131222
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e08.720p.hdtv.x264-0sec/true.detective.s02e08.720p.hdtv.x264-0sec.cht.srt	5	2286	0.131222
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e08.720p.hdtv.x264-0sec/true.detective.s02e08.720p.hdtv.x264-0sec.chs&eng.srt	5	2286	0.131222
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e03.720p.hdtv.x264-0sec/true.detective.s02e03.720p.hdtv.x264-0sec.chs.srt	5	2268	0.132219
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e03.720p.hdtv.x264-0sec/true.detective.s02e03.720p.hdtv.x264-0sec.chs&eng.srt	5	2268	0.132219
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e03.720p.hdtv.x264-0sec/true.detective.s02e03.720p.hdtv.x264-0sec.cht.srt	5	2268	0.132219
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E09.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	3	1349	0.133348
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e02.720p.hdtv.x264-0sec/true.detective.s02e02.720p.hdtv.x264-0sec.cht.srt	5	2077	0.144383
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e02.720p.hdtv.x264-0sec/true.detective.s02e02.720p.hdtv.x264-0sec.chs.srt	5	2077	0.144383
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e02.720p.hdtv.x264-0sec/true.detective.s02e02.720p.hdtv.x264-0sec.chs&eng.srt	5	2077	0.144383
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E01.Pilot.1080p.WEB-DL.DD5.1.H.264-ECI.srt	3	1246	0.144462
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e04.720p.hdtv.x264-0sec/true.detective.s02e04.720p.hdtv.x264-0sec.chs.srt	5	1961	0.152930
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e04.720p.hdtv.x264-0sec/true.detective.s02e04.720p.hdtv.x264-0sec.cht.srt	5	1961	0.152930
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e04.720p.hdtv.x264-0sec/true.detective.s02e04.720p.hdtv.x264-0sec.chs&eng.srt	5	1961	0.152930
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS/True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS.cht.srt	5	1935	0.154970
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS/True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS.chs&eng.srt	5	1935	0.154970
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS/True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS.chs.srt	5	1935	0.154970
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e06.720p.hdtv.x264-0sec/true.detective.s02e06.720p.hdtv.x264-0sec.cht.srt	5	1676	0.178982
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e06.720p.hdtv.x264-0sec/true.detective.s02e06.720p.hdtv.x264-0sec.chs&eng.srt	5	1676	0.178982
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e06.720p.hdtv.x264-0sec/true.detective.s02e06.720p.hdtv.x264-0sec.chs.srt	5	1676	0.178982
+ignore_tmp/homework01/Mysterious.Notes.From.China.2010.S02.JPN.BluRay.720p.DTS.x264-HDWinG.chs+cht.srt/Mysterious.Notes.From.China.2010.S02E07.JPN.BluRay.720p.DTS.x264-HDWinG.cht.srt	4	1321	0.181600
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP05.BDRip.X264.iNT-TLF.chs.srt	7	2278	0.184355
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP05.BDRip.X264.iNT-TLF.cht.srt	7	2278	0.184355
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E02 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	6	1820	0.197773
+ignore_tmp/homework01/Transformers.2007.BluRay.720p.x264.DTS-WiKi.chs.srt	14	4232	0.198464
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP02.BDRip.X264.iNT-TLF.cht.srt	7	2089	0.200975
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP02.BDRip.X264.iNT-TLF.chs.srt	7	2089	0.200975
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-your.friend.the.rat-1080p.srt	2	587	0.204109
+ignore_tmp/homework01/[迪士尼影音首映][Disney.Video.Premiere]-16-[狮子王3][The.Lion.King.3.Hakuna.Matata](2004)(Fr).srt	8	2337	0.205318
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE.cht.srt	7	2018	0.208109
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e05.hdtv.x264-2hd/da.vincis.demons.s01e05.hdtv.x264-2hd.cht.srt	8	2269	0.211546
+ignore_tmp/homework01/Life Story 2014 1080p BluRay DTS x264-NTb.chs.srt/Life.Story.2014.E02.Growing.Up.1080p.BluRay.DTS.x264-NTb.chs.srt	5	1376	0.218012
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP04.BDRip.X264.iNT-TLF.chs.srt	7	1916	0.219155
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP04.BDRip.X264.iNT-TLF.cht.srt	7	1916	0.219155
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP01.BDRip.X264.iNT-TLF.chs.srt	7	1778	0.236159
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP01.BDRip.X264.iNT-TLF.cht.srt	7	1778	0.236159
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP10.BDRip.X264.iNT-TLF.chs.srt	9	2143	0.251965
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP10.BDRip.X264.iNT-TLF.cht.srt	9	2143	0.251965
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP06.BDRip.X264.iNT-TLF.cht.srt	8	1768	0.271393
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP06.BDRip.X264.iNT-TLF.chs.srt	8	1768	0.271393
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E20.Home.Invasion.1080p.WEB-DL.DD5.1.H.264-BS.srt	7	1461	0.287405
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP09.BDRip.X264.iNT-TLF.chs.srt	7	1400	0.299960
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP09.BDRip.X264.iNT-TLF.cht.srt	7	1400	0.299960
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E09 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	6	1190	0.302511
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP07.BDRip.X264.iNT-TLF.chs.srt	11	2009	0.328440
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP07.BDRip.X264.iNT-TLF.cht.srt	11	2009	0.328440
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP03.BDRip.X264.iNT-TLF.chs.srt	11	1894	0.348389
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP03.BDRip.X264.iNT-TLF.cht.srt	11	1894	0.348389
+ignore_tmp/homework01/lost4/Lost S04E12 720p BluRay x264-CtrlHD(ED2000.COM).srt	6	995	0.361733
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E15.Dodger.1080p.WEB-DL.DD5.1.H.264-BS.srt	10	1626	0.369001
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E19.Unfinished.Business.1080p.WEB-DL.DD5.1.H.264-BS.srt	10	1592	0.376861
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅲ.2008.BluRay.1080p.DTS.2Audio.x264-CHD.chs.srt	14	2047	0.410278
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅲ.2008.BluRay.1080p.DTS.2Audio.x264-CHD.cht.srt	14	2047	0.410278
+ignore_tmp/homework01/lost4/Lost S04E08 720p BluRay x264-CtrlHD(ED2000.COM).srt	8	1127	0.425717
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP08.BDRip.X264.iNT-TLF.chs.srt	12	1614	0.445859
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP08.BDRip.X264.iNT-TLF.cht.srt	12	1614	0.445859
+ignore_tmp/homework01/皮克斯动画短片合集2 Pixar.Short.Films.Collection/dispose-hawaiian.vacation-1080p.srt	2	231	0.518453
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E01 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	15	1667	0.539640
+ignore_tmp/homework01/lost4/Lost S04E01 720p BluRay x264-CtrlHD(ED2000.COM).srt	11	1123	0.587272
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E03 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	18	1815	0.594727
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E12.Vertigo.1080p.WEB-DL.DD5.1.H.264-TB.srt	15	1507	0.597209
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.Forever.1995.720p.BluRay.x264-ESiR.chs.srt	28	2570	0.653536
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E18.Salvation.720p.HDTV.x264-DIMENSION(ED2000.COM).srt	18	1519	0.710531
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E13.Betrayal.1080p.WEB-DL.DD5.1.H.264-TB.srt	20	1666	0.720029
+ignore_tmp/homework01/lost4/Lost S04E14 720p BluRay x264-CtrlHD(ED2000.COM).srt	11	864	0.763240
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E16.Dead.To.Rights.1080p.WEB-DL.DD5.1.H.264-BS.srt	19	1480	0.769755
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e03.hdtv.x264-river.chs.srt	17	1269	0.803466
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e03.hdtv.x264-river.cht.srt	17	1269	0.803466
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E06 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	26	1681	0.927688
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e02.hdtv.x264-river.chs.srt	23	1465	0.941465
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e02.hdtv.x264-river.cht.srt	23	1465	0.941465
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E08 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	26	1547	1.007980
+ignore_tmp/homework01/let it go ALL LANG/Sb_211_Slovak.srt	4	182	1.317762
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E10 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	35	1369	1.533630
+ignore_tmp/homework01/let it go ALL LANG/Sb_218_Turkish.srt	5	182	1.647202
+ignore_tmp/homework01/Game_of_Thrones_S01-S04/Game of Thrones S04E05 1080i HDTV MPEG2 DD5.1-CtrlHD.chs.srt	45	1461	1.846810
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the_escape_artist.1x01.hdtv_x264-fov.cht.srt	69	1633	2.534449
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the_escape_artist.1x01.hdtv_x264-fov.chs.srt	69	1633	2.534449
+ignore_tmp/homework01/let it go ALL LANG/Sb_213_CastilianSpanish.srt	8	182	2.635524
+ignore_tmp/homework01/let it go ALL LANG/Sb_201_Lithuanian.srt	8	182	2.635524
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E17.The.Huntress.Returns.1080p.WEB-DL.DD5.1.H.264-BS.srt	93	1584	3.522260
+ignore_tmp/homework01/let it go ALL LANG/Sb_216_Swedish.srt	11	182	3.623845
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.and.Robin.1997.720p.BluRay.x264-ESiR.chs.srt	211	3445	3.674612
+ignore_tmp/homework01/supernatural.s06e21-e22.720p.hdtv.x264-2hd.chs.FRM/supernatural.s06e21-e22.720p.hdtv.x264-2hd.chs.srt	191	2743	4.176558
+ignore_tmp/homework01/142543961312297/狼厅第6集.中英字幕.大家字幕组/狼厅第6集.中英字幕.大家字幕组.繁体&英文.srt	177	1916	5.540629
+ignore_tmp/homework01/142543961312297/狼厅第6集.中英字幕.大家字幕组/狼厅第6集.中英字幕.大家字幕组.简体&英文.srt	177	1916	5.540629
+ignore_tmp/homework01/let it go ALL LANG/Sb_106_Czech.srt	17	182	5.600488
+ignore_tmp/homework01/let it go ALL LANG/Sb_205_Polish.srt	26	182	8.565452
+ignore_tmp/homework01/let it go ALL LANG/Sb_208_Romanian.srt	34	182	11.200975
+ignore_tmp/homework01/let it go ALL LANG/Sb_110_Finnish.srt	36	182	11.859856
+ignore_tmp/homework01/let it go ALL LANG/Sb_206_Portuguese.srt	47	182	15.483701
+ignore_tmp/homework01/let it go ALL LANG/Sb_118_Italian.srt	65	182	21.413629
+ignore_tmp/homework01/let it go ALL LANG/Sb_105_Croatian.srt	66	182	21.743069
+ignore_tmp/homework01/let it go ALL LANG/Sb_SP_Mix.srt	76	182	25.037474
+ignore_tmp/homework01/let it go ALL LANG/Sb_112_French.srt	83	182	27.343557
+ignore_tmp/homework01/let it go ALL LANG/Sb_109_Estonian.srt	84	182	27.672997
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e10.720p.bluray.x264-demand.英文.srt	2442	5170	28.339115
+ignore_tmp/homework01/let it go ALL LANG/Sb_207_BrazilPortuguese.srt	90	182	29.649640
+ignore_tmp/homework01/let it go ALL LANG/Sb_215_LatinSpanish.srt	95	182	31.296842
+ignore_tmp/homework01/let it go ALL LANG/Sb_204_Norwegian.srt	98	182	32.285164
+ignore_tmp/homework01/let it go ALL LANG/Sb_212_Slovenian.srt	101	182	33.273485
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E21.The.Undertaking.1080p.WEB-DL.DD5.1.H.264-BS.srt	934	1544	36.272549
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E22.Darkness.on.the.Edge.of.Town.1080p.WEB-DL.DD5.1.H.264-BS.srt	1013	1652	36.774404
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E07.Muse.Of.Fire.720p.HDTV.x264-DIMENSION(ED2000.COM).srt	934	1508	37.137423
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E09.Years.End.720p.HDTV.x264-DIMENSION(ED2000.COM).srt	934	1420	39.459231
+ignore_tmp/homework01/let it go ALL LANG/Sb_214_Catalan.srt	123	182	40.521175
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E08.Vendetta.1080p.WEB-DL.DD5.1.H.264-TB.srt	934	1382	40.528520
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E11.Trust But Verify.1080p.WEB-DL.DD5.1.H.264-TB.srt	934	1368	40.940073
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E23.Sacrifice.1080p.WEB-DL.DD5.1.H.264-BS.srt	934	1327	42.208966
+ignore_tmp/homework01/237055.Arrow_S01_1080p_HDTV_X264_DIMENSION/Arrow.S01E10.Burned.1080p.WEB-DL.DD5.1.H.264-TB.srt	934	1287	43.531623
+ignore_tmp/homework01/let it go ALL LANG/Sb_102_Maylay.srt	138	182	45.462781
+ignore_tmp/homework01/let it go ALL LANG/Sb_210_Serbian.srt	144	182	47.439424
+ignore_tmp/homework01/let it go ALL LANG/Sb_115_Hebrew.srt	151	182	49.745507
+ignore_tmp/homework01/let it go ALL LANG/Sb_113_German.srt	168	182	55.345995
+ignore_tmp/homework01/let it go ALL LANG/Sb_107_Danish.srt	171	182	56.334316
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E05.srt	2059	1756	70.339376
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E03.srt	1971	1618	73.080524
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E04.srt	1981	1623	73.225907
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E01.srt	2081	1694	73.669367
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E02.srt	1907	1526	74.959955
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E08.srt	2374	1847	77.107839
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E07.srt	2367	1830	77.574764
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E09.srt	2335	1780	78.679532
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E06.srt	2142	1616	79.515433
+ignore_tmp/homework01/The Bridge - S01 E01-10 - Series One Complete/The Bridge S01E10.srt	2135	1604	79.824822
+ignore_tmp/homework01/Back To The Future 25th Anniversary Trilogy BluRay 720p DTS 2Audio-CHD.eng/Back.To.The.Future.Part3.1990.BluRay.720p.DTS.2Audio.x264-CHD.eng.srt	5042	3682	82.157562
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E08.BluRay.720p.AC3.x264-CHD.英文.srt	3136	2262	83.180634
+ignore_tmp/homework01/let it go ALL LANG/Sb_108_Dutch.srt	264	182	86.972278
+ignore_tmp/homework01/The Terminal 2004 720p WEB-DL x264 AAC-KiNGDOM/The Terminal 2004 720p WEB-DL x264 AAC-KiNGDOM.eng.srt	5924	4068	87.364301
+ignore_tmp/homework01/Back To The Future 25th Anniversary Trilogy BluRay 720p DTS 2Audio-CHD.eng/Back.To.The.Future.1985.BluRay.720p.DTS.2Audio.x264-CHD.eng.srt	5344	3603	88.978701
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP07.BDRip.X264.iNT-TLF.eng.srt	2938	1965	89.693491
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e09.720p.bluray.x264-demand.英文.srt	2688	1795	89.811256
+ignore_tmp/homework01/Back To The Future 25th Anniversary Trilogy BluRay 720p DTS 2Audio-CHD.eng/Back.To.The.Future.Part2.1989.BluRay.720p.DTS.2Audio.x264-CHD.eng.srt	5045	3364	89.958471
+ignore_tmp/homework01/let it go ALL LANG/Sb_111_Flemish.srt	275	182	90.596122
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP06.BDRip.X264.iNT-TLF.eng.srt	2650	1753	90.661986
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP10.BDRip.X264.iNT-TLF.eng.srt	3162	2075	91.405203
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP08.BDRip.X264.iNT-TLF.eng.srt	2393	1564	91.762410
+ignore_tmp/homework01/let it go ALL LANG/Sb_000_Eng.srt	279	182	91.913884
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP05.BDRip.X264.iNT-TLF.eng.srt	3358	2185	92.192088
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E03.BluRay.720p.AC3.x264-CHD.英文.srt	2876	1867	92.395175
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e04.720p.bluray.x264-demand.英文.srt	2721	1763	92.557789
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e02.720p.bluray.x264-demand.英文.srt	2548	1647	92.803087
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.IV.1987.720p.BluRay.x264.DTS-WiKi.eng.srt	3857	2470	93.659053
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e08.720p.bluray.x264-demand.英文.srt	3007	1924	93.760962
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e01.720p.bluray.x264-demand.英文.srt	2804	1793	93.813202
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e07.720p.bluray.x264-demand.英文.srt	2624	1665	94.518310
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP09.BDRip.X264.iNT-TLF.eng.srt	2144	1358	94.672396
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e06.720p.bluray.x264-demand.英文.srt	3132	1983	94.747255
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP04.BDRip.X264.iNT-TLF.eng.srt	2906	1826	95.466753
+ignore_tmp/homework01/Ice.Age.1.2002.720p.BluRay.x264.DTS-WiKi.eng.srt	2789	1744	95.946883
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E05.BluRay.720p.AC3.x264-CHD.英文.srt	2749	1718	95.996536
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e05.720p.bluray.x264-demand.英文.srt	2619	1636	96.017774
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP01.BDRip.X264.iNT-TLF.eng.srt	2682	1661	96.849094
+ignore_tmp/homework01/斯巴达克斯第二季全10集spartacus.bluray英文字幕/spartacus.vengeance.s02e03.720p.bluray.x264-demand.英文.srt	2982	1808	98.924558
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP03.BDRip.X264.iNT-TLF.eng.srt	3077	1851	99.699907
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E02.BluRay.720p.AC3.x264-CHD.英文.srt	2450	1472	99.803313
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.II.The.Richard.Donner.Cut.2006.720p.BluRay.x264.DTS-WiKi.eng.srt	4989	2875	104.117826
+ignore_tmp/homework01/Game.of.Thrones.S03.2013.BDRip.X264.iNT-TLF@TLF/Game.of.Thrones.S03.2013.EP02.BDRip.X264.iNT-TLF.eng.srt	3573	2053	104.402760
+ignore_tmp/homework01/Star_Wars_Episode_I_The_Phantom_Menace_1999_720p_HDTV_x264-EbP.Eng.srt	6157	3471	106.410834
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.Returns.2006.720p.BluRay.x264.DTS-WiKi.eng.srt	4334	2409	107.920656
+ignore_tmp/homework01/Yeogo.goedam.1998.DVDRip.DivX.eng.srt	2980	1640	108.972163
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E01.BluRay.720p.AC3.x264-CHD.英文.srt	2375	1296	109.947511
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.Begins.2005.720p.BluRay.DTS.x264-ESiR.eng.srt	6243	3388	110.557540
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.III.1983.720p.BluRay.x264.DTS-WiKi.eng.srt	6144	3315	111.195570
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.1989.720p.BluRay.x264-ESiR.eng.srt	4180	2233	112.275901
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E11.BluRay.720p.AC3.x264-CHD.英文.srt	2526	1348	112.362799
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E10.BluRay.720p.AC3.x264-CHD.英文.srt	3005	1595	112.995412
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E12.BluRay.720p.AC3.x264-CHD.英文.srt	2811	1475	114.319101
+ignore_tmp/homework01/Batman.1989.720p.BluRay.x264-ESiR.srt/Batman.Returns.1992.720p.BluRay.x264-ESiR.eng.srt	4603	2358	117.105611
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E07.BluRay.720p.AC3.x264-CHD.英文.srt	2952	1507	117.513662
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E13.BluRay.720p.AC3.x264-CHD.英文.srt	2999	1522	118.190530
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E09.BluRay.720p.AC3.x264-CHD.英文.srt	3403	1691	120.698726
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e08.720p.hdtv.x264-0sec/true.detective.s02e08.720p.hdtv.x264-0sec.eng.srt	4681	2286	122.849714
+ignore_tmp/homework01/Transformers.2007.BluRay.720p.x264.DTS-WiKi.eng.srt	8775	4251	123.838004
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the_escape_artist.1x01.hdtv_x264-fov.eng.srt	3466	1633	127.310160
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e03.720p.hdtv.x264-0sec/true.detective.s02e03.720p.hdtv.x264-0sec.eng.srt	4844	2268	128.093759
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS/True.Detective.S02E01.PROPER.720p.HDTV.x264-KILLERS.eng.srt	4262	1935	132.096056
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡True.Detective.S02E07.720p.HDTV.x264-BATV/True.Detective.S02E07.720p.HDTV.x264-BATV.eng.srt	4722	2123	133.393599
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E04.HDTV.x264-ASAP/Da.Vincis.Demons.S01E04.HDTV.x264-ASAP.eng.srt	5194	2336	133.395314
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part02.720p.BluRay.X264-WIND.英文.srt	3879	1743	133.519207
+ignore_tmp/homework01/Superman.The.Motion.Picture.Anthology.1978-2006.720p.BluRay.x264.DTS-WiKi_[chs.eng]/Superman.1978.SpecialEdition.720p.BluRay.x264.DTS-WiKi.eng.srt	6191	2779	133.634232
+ignore_tmp/homework01/编程：英语视频时间长度与字幕里英语单词数的比例关系/附件/bbc戴维阿滕伯勒非洲s01e04.chs&eng.srt	3109	1393	133.828068
+ignore_tmp/homework01/编程：英语视频时间长度与字幕里英语单词数的比例关系/附件/bbc戴维阿滕伯勒非洲s01e04.eng.srt	3109	1393	133.828068
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E06.BluRay.720p.AC3.x264-CHD.英文.srt	3246	1450	134.308998
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e04.720p.hdtv.x264-0sec/true.detective.s02e04.720p.hdtv.x264-0sec.eng.srt	4419	1961	135.159728
+ignore_tmp/homework01/142543961312297/狼厅第6集.中英字幕.大家字幕组/狼厅第6集.中英字幕.大家字幕组.英文.srt	3842	1692	136.180771
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E08.HDTV.x264-EVOLVE.eng.srt	4591	2018	136.489921
+ignore_tmp/homework01/142543961312297/狼厅第5集.中英字幕.大家字幕组/狼厅第5集.中英字幕.大家字幕组.英文.srt	4042	1767	137.191345
+ignore_tmp/homework01/斯巴达克斯第一季全13集spartacus.s01.bluray英文字幕/Spartacus.Blood.and.Sand.S01E04.BluRay.720p.AC3.x264-CHD.英文.srt	2889	1261	137.363203
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e06.720p.hdtv.x264-0sec/true.detective.s02e06.720p.hdtv.x264-0sec.eng.srt	3848	1676	137.744482
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e05.720p.hdtv.x264-0sec/true.detective.s02e05.720p.hdtv.x264-0sec.eng.srt	5300	2302	138.132466
+ignore_tmp/homework01/Coraline.2009.2D.720p.BluRay.x264.DTS-WiKi.eng.srt	5492	2385	138.151995
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e05.hdtv.x264-2hd/da.vincis.demons.s01e05.hdtv.x264-2hd.eng.srt	5239	2269	138.536434
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡da.vincis.demons.s01e01.hdtv.x264-2hd/Da.Vincis.Demons.S01E01.HDTV.x264-2HD.eng.srt	4887	2115	138.605531
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E07.HDTV.x264-EVOLVE.eng.srt	4350	1881	138.716600
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE/Da.Vincis.Demons.S01E06.HDTV.x264-EVOLVE.eng.srt	4721	2039	138.857093
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E02.HDTV.x264-ASAP/Da.Vincis.Demons.S01E02.HDTV.x264-ASAP.eng.srt	5064	2186	138.955456
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/TransporterⅠ.2002.BluRay.1080p.DTS.2Audio.x264-CHD.eng.srt	3614	1549	139.936769
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part03.720p.BluRay.X264-WIND.英文.srt	4017	1721	140.002556
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part06.720p.BluRay.X264-WIND.英文.srt	4336	1854	140.259320
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e03.hdtv.x264-river.eng.srt	2955	1259	140.781324
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part05.720p.BluRay.X264-WIND.英文.srt	3398	1440	141.564655
+ignore_tmp/homework01/142543961312297/圣城家园SCG字幕组￡Da.Vincis.Demons.S01E03.HDTV.x264-ASAP/Da.Vincis.Demons.S01E03.HDTV.x264-ASAP.eng.srt	4989	2096	142.777624
+ignore_tmp/homework01/The_Escape_Artist_S01_FRM/11.03.13.The_Escape_Artist.1x01.HDTV_x264-fov@FRM/the.escape.artist.s01e02.hdtv.x264-river.eng.srt	3495	1468	142.798774
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅱ.2005.BluRay.1080p.DTS.x264-CHD.eng.srt	4560	1893	144.521036
+ignore_tmp/homework01/Salem.S01E06.720p.HDTV.X264-DIMENSION/Salem.S01E06.720p.HDTV.X264-DIMENSION.英文.srt	2866	1157	148.506386
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e10.720p.bluray.x264-demand.英文.srt	3190	1263	151.493565
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part04.720p.BluRay.X264-WIND.英文.srt	4297	1685	152.945364
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e09.720p.bluray.x264-demand.英文.srt	3372	1321	153.148584
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e04.720p.bluray.x264-demand.英文.srt	4314	1678	154.223816
+ignore_tmp/homework01/Salem.S01E10.720p.HDTV.X264-DIMENSION/Salem.S01E10.720p.HDTV.X264-DIMENSION.英文.srt	3246	1260	154.453750
+ignore_tmp/homework01/142543961312297/狼厅第3集.中英字幕.大家字幕组/狼厅第3集.中英字幕.大家字幕组.英文.srt	4058	1574	154.621891
+ignore_tmp/homework01/Salem.S01E01.720p.HDTV.X264-DIMENSION/Salem.S01E01.720p.HDTV.X264-DIMENSION.英文.srt	3526	1366	154.812083
+ignore_tmp/homework01/Band.Of.Brothers.Ep06.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	3852	1484	155.706615
+ignore_tmp/homework01/斯巴达克斯前传全6集spartacus.bluray英文字幕/Spartacus.Gods.of.the.Arena.Part01.720p.BluRay.X264-WIND.英文.srt	4341	1667	156.215701
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e06.720p.bluray.x264-demand.英文.srt	3972	1518	156.945387
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e03.720p.bluray.x264-demand.英文.srt	4047	1531	158.552511
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e07.720p.bluray.x264-demand.英文.srt	3873	1461	158.999938
+ignore_tmp/homework01/Salem.S01E13.720p.HDTV.x264-KILLERS/Salem.S01E13.720p.HDTV.x264-KILLERS.英文.srt	3385	1276	159.050863
+ignore_tmp/homework01/Salem.S01E09.720p.HDTV.X264-DIMENSION/Salem.S01E09.720p.HDTV.X264-DIMENSION.英文.srt	3562	1343	159.073486
+ignore_tmp/homework01/Band.Of.Brothers.Ep02.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	2977	1114	160.287876
+ignore_tmp/homework01/Salem.S01E12.720p.HDTV.X264-DIMENSION/Salem.S01E12.720p.HDTV.X264-DIMENSION.英文.srt	4193	1560	161.189669
+ignore_tmp/homework01/Salem.S01E08.720p.HDTV.X264-DIMENSION/Salem.S01E08.720p.HDTV.X264-DIMENSION.英文.srt	3498	1301	161.231592
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e02.720p.bluray.x264-demand.英文.srt	4519	1665	162.769617
+ignore_tmp/homework01/Band.Of.Brothers.Ep01.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	5292	1943	163.357703
+ignore_tmp/homework01/Salem.S01E11.720p.HDTV.X264-DIMENSION/Salem.S01E11.720p.HDTV.X264-DIMENSION.英文.srt	3822	1403	163.362422
+ignore_tmp/homework01/非常人贩[三部合集].BluRay.1080p.DTS.2Audio.x264-CHD/Transporter Ⅲ.2008.BluRay.1080p.DTS.2Audio.x264-CHD.eng.srt	5459	2002	163.595771
+ignore_tmp/homework01/Band.Of.Brothers.Ep10.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	4851	1773	164.141144
+ignore_tmp/homework01/142543961312297/狼厅第1集.中英字幕.大家字幕组/狼厅第1集.中英字幕.大家字幕组.英文.srt	4356	1586	164.732725
+ignore_tmp/homework01/圣城家园SCG字幕组￡true.detective.s02.720p/圣城家园SCG字幕组￡true.detective.s02e02.720p.hdtv.x264-0sec/true.detective.s02e02.720p.hdtv.x264-0sec.eng.srt	5706	2077	164.770034
+ignore_tmp/homework01/Salem.S01E05.720p.HDTV.X264-DIMENSION/Salem.S01E05.720p.HDTV.X264-DIMENSION.英文.srt	3140	1139	165.321165
+ignore_tmp/homework01/Salem.S01E04.720p.HDTV.X264-DIMENSION/Salem.S01E04.720p.HDTV.X264-DIMENSION.英文.srt	3857	1398	165.419338
+ignore_tmp/homework01/Band.Of.Brothers.Ep08.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	5067	1837	165.443157
+ignore_tmp/homework01/Band.Of.Brothers.Ep09.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	3468	1253	165.972721
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e05.720p.bluray.x264-demand.英文.srt	4194	1504	167.225992
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e01.720p.bluray.x264-demand.英文.srt	4227	1515	167.360648
+ignore_tmp/homework01/Salem.S01E02.720p.HDTV.X264-DIMENSION/Salem.S01E02.720p.HDTV.X264-DIMENSION.英文.srt	3823	1360	168.561372
+ignore_tmp/homework01/Salem.S01E07.720p.HDTV.X264-DIMENSION/Salem.S01E07.720p.HDTV.X264-DIMENSION.英文.srt	3420	1212	169.203622
+ignore_tmp/homework01/142543961312297/狼厅第4集.中英字幕.大家字幕组/狼厅第4集.中英字幕.大家字幕组.英文.srt	4513	1588	170.416570
+ignore_tmp/homework01/Salem.S01E03.720p.HDTV.X264-DIMENSION/Salem.S01E03.720p.HDTV.X264-DIMENSION.英文.srt	3575	1255	170.874127
+ignore_tmp/homework01/编程：英语视频时间长度与字幕里英语单词数的比例关系/附件/discoverycuriositys01e06.eng.srt	5636	1973	171.314802
+ignore_tmp/homework01/编程：英语视频时间长度与字幕里英语单词数的比例关系/附件/discoverycuriositys01e06.chs&eng.srt	5636	1973	171.314802
+ignore_tmp/homework01/Band.Of.Brothers.Ep07.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	6766	2365	171.602486
+ignore_tmp/homework01/Band.Of.Brothers.Ep05.2001.BluRay.1080p.x264.DTS-WiKi.ENG.srt	3954	1380	171.866963
+ignore_tmp/homework01/斯巴达克斯第三季全10集spartacus.bluray英文字幕/spartacus.war.of.the.damned.s03e08.720p.bluray.x264-demand.英文.srt	4465	1538	174.181594
+ignore_tmp/homework01/142543961312297/狼厅第2集.中英字幕.大家字幕组/狼厅第2集.中英字幕.大家字幕组.英文.srt	4363	1459	179.316108
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E12.Young.and.Back.to.Normal.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2532	836	181.568285
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E17.Young.and.Trashy.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2545	823	185.383028
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E19.Young.and.Younger.Brother.Part.1.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2898	937	185.412668
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E18.Young.and.Doppleganger.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2722	878	185.981894
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E20.Young.and.Younger.Brother.Part.2.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2792	894	187.313408
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E03.Young.and.Munchies.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2871	905	190.182830
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E04.Young.and.Old.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2888	908	190.721479
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E06.Young.and.Moving.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2900	901	193.060903
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E08.Young.and.Sandwich.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2783	855	195.282258
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E15.Young.and.Earthquake.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2875	876	196.697758
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E16.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	3064	926	198.377072
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E07.Young.and.Ferris.Wheel.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2843	858	198.584368
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E05.Young.and.First.Time.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2889	871	198.868786
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back/Young.and.Hungry.S02E11.Young.and.How.Gabi.Got.Her.Job.Back.....英文.srt	2774	836	199.036150
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E10.Young.and.Part.Two.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2921	867	202.031147
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E02.Young.and.Cookin.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2909	839	207.874803
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E09.Young.and.Pretty.Woman.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	2946	845	209.022645
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	8342	994	503.374131
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	8342	994	503.374131
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2.繁体&英文.srt	8255	903	548.171103
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2.简体&英文.srt	8255	903	548.171103
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.繁体&英文.srt	10727	1101	584.110792
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.简体&英文.srt	10727	1101	584.110792
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E13.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	11000	953	692.114094
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2/Young.and.Hungry.S02E01.Young.and.Too.Late.720p.WEB-DL.DD5.1.H.264-NTb.V2.英文.srt	11146	872	766.478321
+ignore_tmp/homework01/《饥饿的青春》第二季精校字幕合集.Young&Hungry.Season2.720p.WEB-DL/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb/Young.and.Hungry.S02E14.Young.and.How.Sofia.Got.Her.Groove.Back.720p.WEB-DL.DD5.1.H.264-NTb.英文.srt	13747	1045	789.150402
