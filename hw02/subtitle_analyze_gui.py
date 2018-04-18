@@ -73,14 +73,15 @@ class MainWindow(QMainWindow, Ui_MainWindow):
         filename = QFileDialog.getSaveFileName(
             self, 'Save analyze result',
             os.path.join(QDir.current().path(), 'result.csv'), 'File (*.csv)')
-        with open(filename[0], 'w') as file:
+        with open(filename[0], 'w', encoding='utf-8') as file:
             row = self.model.rowCount()
             col = self.model.columnCount()
             for i in range(row):
                 text = ''
                 for j in range(col):
                     text += str(self.model.data(self.model.index(i, j))) + '\t'
-                file.writelines(text + '\n')
+                text += '\n'
+                file.writelines(text)
 
     def analyze_subtitle(self):
         """Analyze subtitles"""
