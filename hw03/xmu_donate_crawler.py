@@ -1,10 +1,12 @@
 # -*- coding: utf-8 -*-
 import sys
 import os
-# import traceback
+import traceback
 import logging
 import datetime
 from urllib import (request, error)
+import queue
+import threading
 
 
 def init_logger():
@@ -32,8 +34,8 @@ def get_html(url):
     html = None
     try:
         html = request.urlopen(url, timeout=3)
-    except error.URLError as e:
-        logger.error(e.reason)
+    except Exception:
+        logger.error(traceback.format_exc())
 
     return html
 
@@ -43,19 +45,41 @@ def save_html(str, filepath):
         file.write(str)
 
 
-def download(num=10):
+def download(start=1, stop=10):
     logger = logging.getLogger(__file__)
-    for i in range(1, num + 1):
+    for i in range(start, stop + 1):
         html = get_html('http://edf.xmu.edu.cn/Donate?page=%d' % (i))
         if html != None:
             save_html(html.read().decode('utf-8'),
                       os.path.join('html', 'page%d.html' % (i)))
-            logger.debug('Downloaded Page %d successfully' % (i))
+            # logger.debug('Downloaded Page %d successfully.' % (i))
+            logger.info('[%s]Downloaded Page %d successfully.' %
+                        (threading.current_thread().getName(), i))
 
 
-#todo read_html
+def work_fun(task_queue):
+    logger = logging.getLogger(__file__)
+    while True:
+        i = task_queue.get()
+        download(i, i + 1)
+        # logger.info('[%s]Downloaded Page %d successfully.' %
+        #             (threading.current_thread().getName(), i))
+        task_queue.task_done()
+
+
+def Multithread_download(total_page_number=10, max_workers=1):
+    logger = logging.getLogger(__file__)
+    task_queue = queue.Queue()
+    for i in range(1, total_page_number + 1):
+        task_queue.put(i)
+    for i in range(max_workers):
+        thread = threading.Thread(target=work_fun, args=(task_queue, ))
+        thread.daemon = True
+        thread.start()
+    task_queue.join()
+    logger.info('Download completed.')
+
 
 if __name__ == '__main__':
-    pass
     init_logger()
-    download(2114)
+    Multithread_download(total_page_number=2119, max_workers=4)
