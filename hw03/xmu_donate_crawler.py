@@ -101,6 +101,8 @@ def parse_html(filepath):
             for td in tr.items('td'):
                 record.append(td.text())
             data.append(record)
+    if data:
+        logger.info('Parsed Page %s successfully.' % (filename))
     return data
 
 
@@ -128,14 +130,13 @@ def init_xmu_donate_database(connection):
 
 def add_record(connection, record):
     cursor = connection.cursor()
-    sql = 'insert into donate values (null, "%s", "%s", "%s", "%s", "%s", %f)' % (
-        record[0], record[1], record[2], record[3], record[4],
-        float(record[5]))
-    cursor.execute(sql)
+    print(record)
+    sql = 'insert into donate values (null, ?, ?, ?, ?, ?, ?)'
+    cursor.execute(sql, (record[0], record[1], record[2], record[3], record[4],
+                         float(record[5])))
 
 
 def save_xmu_donate_data(connection, data):
-    cursor = connection.cursor()
     for record in data:
         add_record(connection, record)
 
@@ -145,15 +146,18 @@ if __name__ == '__main__':
     logger = logging.getLogger(__file__)
 
     # Download pages.
+    # logger.info('Download pages.')
     # task_list = list(range(2001, 2120))
     # while task_list:
     #     task_list = Multithread_download(task_list, max_workers=2)
 
+    logger.info('Parse pages.')
     filename_list = get_html_list_from_dir('./html')
     data = []
     for filename in filename_list:
         data.extend(parse_html(filename))
 
+    logger.info('Save data to database.')
     connection = create_connection()
     init_xmu_donate_database(connection)
     save_xmu_donate_data(connection, data)
