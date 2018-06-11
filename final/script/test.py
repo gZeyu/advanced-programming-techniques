@@ -2,9 +2,15 @@
 import os
 import pymysql
 import json
+import datetime
 def transpose(matrix):
     return list(map(list,zip(*matrix)))
-
+def get_date_list(begin_date, end_date):
+    begin_date = datetime.datetime.strptime(begin_date, '%Y-%m-%d')
+    end_date = datetime.datetime.strptime(end_date, '%Y-%m-%d')
+    delta = (end_date-begin_date).days
+    date_list = [(begin_date+datetime.timedelta(days=x)).strftime('%Y-%m-%d') for x in range(delta+1)]
+    return date_list
 if __name__ == '__main__':
 
     connection = pymysql.connect(
@@ -31,20 +37,18 @@ if __name__ == '__main__':
             sql = '''select * from 北京'''
             cursor.execute(sql)
             results = cursor.fetchall()
-            data_in_hour = dict()
+
+            date_list = get_date_list('2017-01-01', '2017-12-31')
+            data_in_hour = {date_list[i]:list() for i in range(len(date_list))}
             for row in results:
-                if row[0].strftime("%Y-%m-%d") not in data_in_hour.keys():
-                    data_in_hour[row[0].strftime("%Y-%m-%d")] = list()
                 record = [x for x in row[2:]]
-                if sum([0 if x >= 0 else 1 for x in record]) == 0: # Filter invalid data
-                    data_in_hour[row[0].strftime("%Y-%m-%d")].append(record)
-            data_in_day = dict()
+                data_in_hour[row[0].strftime("%Y-%m-%d")].append(record)
+            
+            data_in_day = {date_list[i]:list() for i in range(len(date_list))}
             for k, v in data_in_hour.items():
-                data_in_day[k] = [round(sum(x)/len(x), 3) for x in transpose(v)]
-            # data_in_day = sorted(data_in_day.items(), key=lambda data_in_day:data_in_day[0])
-            # for item in data_in_day:
-            #     print(item)
-            print(json.dumps(data_in_day))
+                v = transpose(v)
+                v = [list(filter(lambda x:x>=0, y)) for y in v] # Remove invalid value
+                data_in_day[k] = [round(sum(x)/len(x), 3) if len(x)>0 else None for x in v]
         connection.commit()
     finally:
         connection.close()
