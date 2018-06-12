@@ -37,7 +37,7 @@ def get_air_data(connection, city_name, begin_date, end_date):
             v = [list(filter(lambda x: x >= 0, y))
                  for y in v]  # Remove invalid value
             data_in_day[k] = [
-                round(sum(x) / len(x), 3) if len(x) > 0 else None for x in v
+                round(sum(x) / len(x), 3) if len(x) > 0 else -1 for x in v
             ]
         
         data_in_day = [data_in_day[k] for k in date_list]
@@ -48,12 +48,22 @@ def get_air_data(connection, city_name, begin_date, end_date):
             'co_24h'
         ]
         air_data = {keys[i]:data_in_day[i] for i in range(15)}
+        air_data['date'] = date_list
         air_data['city_name'] = city_name
         air_data['begin_date'] = begin_date
         air_data['end_date'] = end_date
+        
     return air_data
 
-
+def get_city_name_list(connection):
+    city_name_list = dict()
+    with connection.cursor() as cursor:
+        sql = '''SELECT table_name FROM information_schema.tables WHERE table_schema = 'dev';'''
+        cursor.execute(sql)
+        results = cursor.fetchall()
+        city_name_list['city_name_list'] = [x[0] for x in results]
+        # print(city_name_list)
+    return city_name_list
 if __name__ == '__main__':
 
     connection = pymysql.connect(
@@ -64,6 +74,8 @@ if __name__ == '__main__':
         db='dev',
         charset='utf8')
     try:
-        air_data = get_air_data(connection, '北京', '2017-01-01', '2017-12-31')
+        # air_data = get_air_data(connection, '北京', '2017-01-01', '2017-12-31')
+        city_name_list = get_city_name_list(connection)
+        # print(city_name_list)
     finally:
         connection.close()

@@ -1,11 +1,10 @@
 <template>
-  <ve-line :data="chartData" :data-zoom="dataZoom" :mark-area="markArea" :mark-line="markLine" :mark-point="markPoint" :yAxis="yAxis" :toolbox="toolbox" :visual-map="visualMap" width="800px" height="400px">
+  <ve-line :data="chartData" :data-zoom="dataZoom" :mark-line="markLine" :mark-point="markPoint" :yAxis="yAxis" :toolbox="toolbox" :visual-map="visualMap" width="800px" height="400px">
   </ve-line>
 </template>
 
 <script>
 import 'echarts/lib/component/dataZoom'
-import 'echarts/lib/component/markArea'
 import 'echarts/lib/component/markLine'
 import 'echarts/lib/component/markPoint'
 import 'echarts/lib/component/toolbox'
