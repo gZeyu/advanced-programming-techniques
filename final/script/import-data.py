@@ -58,16 +58,19 @@ def save_data_to_mysql(connection, table_suffix, data):
                         `o3_8h` FLOAT NOT NULL,
                         `o3_8h_24h` FLOAT NOT NULL,
                         `co` FLOAT NOT NULL,
-                        `co_24h` FLOAT NOT NULL
-                        );''' % (city_name+table_suffix)
+                        `co_24h` FLOAT NOT NULL,
+                        UNIQUE KEY (`meas_time`, `meas_hour`)
+                        );''' % (city_name + table_suffix)
                 cursor.execute(sql)
 
-                sql = 'INSERT INTO `' + city_name+table_suffix \
+                sql = 'INSERT IGNORE INTO `' + city_name+table_suffix \
                     + '` VALUES(%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)'
                 # cursor.executemany(sql, data[city_name])
                 for row in data[city_name]:
                     # print(sql % (tuple([x if len(x) > 0 else '-9999' for x in row])))
-                    cursor.execute(sql % (tuple([x if len(x) > 0 else '-99999' for x in row])))
+                    cursor.execute(
+                        sql %
+                        (tuple([x if len(x) > 0 else '-99999' for x in row])))
             # pass
         connection.commit()
     finally:
@@ -76,7 +79,6 @@ def save_data_to_mysql(connection, table_suffix, data):
 
 if __name__ == '__main__':
 
-    filename_list = get_data_filename_list(AIR_QUALITY_DATA_DIR)
     # for filename in filename_list:
     #     print(filename)
     connection = pymysql.connect(
@@ -84,14 +86,20 @@ if __name__ == '__main__':
         port=3306,
         user='root',
         passwd='1',
-        db='django_test',
+        db='dev',
         charset='utf8')
-    table_suffix = '_20170101_20171231'
-    filename_list.sort()
-    for filename in filename_list[0:3]:
-        origin_data = read_data_file(filename)
-        data = reshape_data(origin_data)
-        save_data_to_mysql(connection, table_suffix, data)
-        print(filename)
-    print('done!')
+    air_data_dir_list = [
+        '城市_20140513-20141231', '城市_20150101-20151231', '城市_20160101-20161231',
+        '城市_20170101-20171231', '城市_20180101-20180609'
+    ]
+    for air_data_dir in air_data_dir_list:
+        filename_list = get_data_filename_list('../air-data/' + air_data_dir)
+        table_suffix = ''
+        filename_list.sort()
+        for filename in filename_list:
+            origin_data = read_data_file(filename)
+            data = reshape_data(origin_data)
+            save_data_to_mysql(connection, table_suffix, data)
+            print(filename)
+        print(air_data_dir, 'done!')
     connection.close()
