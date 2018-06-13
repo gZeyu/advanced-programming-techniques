@@ -18,9 +18,10 @@
     <el-row>
       <el-tabs type="border-card">
         <el-tab-pane label="AQI">
-          <div class="charts-box">
+          <div class="aqi-charts-box">
             <div class="charts">
               <aqichart></aqichart>
+              <aqipie></aqipie>
             </div>
           </div>
         </el-tab-pane>
@@ -75,7 +76,6 @@
         </el-tab-pane>
       </el-tabs>
     </el-row>
-
     <!-- {{message}} -->
     <!-- <button v-on:click="search">search</button> -->
   </div>
@@ -84,6 +84,7 @@
 <script>
 import axios from 'axios'
 import AQIChart from '@/components/charts/AQIChart'
+import AQIPie from '@/components/charts/AQIPie'
 import ComprehensiveChart from '@/components/charts/ComprehensiveChart'
 import PM25Chart from '@/components/charts/PM2_5Chart'
 import PM10Chart from '@/components/charts/PM10Chart'
@@ -97,6 +98,7 @@ export default {
   // name: 'monitoringcurvepage',
   components: {
     'aqichart': AQIChart,
+    'aqipie': AQIPie,
     'comprehensivechart': ComprehensiveChart,
     'pm25chart': PM25Chart,
     'pm10chart': PM10Chart,
@@ -160,6 +162,12 @@ export default {
 .el-col {
   border-radius: 4px;
 }
+.aqi-charts-box {
+  position: relative;
+  width: 800px;
+  height: 800px;
+  margin: 20px auto;
+}
 .charts-box {
   position: relative;
   width: 800px;
@@ -174,7 +182,7 @@ export default {
   top: 0;
   margin: auto;
   width: 800px;
-  height: 400px;
-  background-color: rgba(245, 248, 245, 0.925);
+  height: auto;
+  /* background-color: rgba(245, 248, 245, 0.925); */
 }
 </style>
