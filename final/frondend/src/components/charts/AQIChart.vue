@@ -106,7 +106,8 @@ export default {
         },
         {
           name: 'min',
-          type: 'min'
+          type: 'min',
+          symbolRotate: 180
         }
       ]
     }

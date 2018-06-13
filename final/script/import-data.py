@@ -85,14 +85,15 @@ if __name__ == '__main__':
         host='127.0.0.1',
         port=3306,
         user='root',
-        passwd='123456',
+        passwd='1',
         db='dev',
         charset='utf8')
     air_data_dir_list = [
         # '城市_20140513-20141231',
         # '城市_20150101-20151231',
-        '城市_20160101-20161231',
-        '城市_20170101-20171231'  # , '城市_20180101-20180609'
+        # '城市_20160101-20161231',
+        # '城市_20170101-20171231', 
+        '城市_20180101-20180609'
     ]
     for air_data_dir in air_data_dir_list:
         filename_list = get_data_filename_list('../air-data/' + air_data_dir)

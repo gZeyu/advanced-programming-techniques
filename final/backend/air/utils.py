@@ -37,10 +37,10 @@ def get_air_data(connection, city_name, begin_date, end_date):
             v = [list(filter(lambda x: x >= 0, y))
                  for y in v]  # Remove invalid value
             data_in_day[k] = [
-                round(sum(x) / len(x), 3) if len(x) > 0 else -1 for x in v
+                round(sum(x) / len(x), 3) if len(x) > 0 else '' for x in v
             ]
-        
-        data_in_day = [data_in_day[k] for k in date_list]
+        null_data = ['' for x in range(15)]
+        data_in_day = [data_in_day[k] if len(data_in_day[k]) == 15 else null_data for k in date_list]
         data_in_day = transpose(data_in_day)
         keys = [
             'aqi', 'pm2_5', 'pm2_5_24h', 'pm10', 'pm10_24h', 'so2', 'so2_24h',
@@ -74,8 +74,8 @@ if __name__ == '__main__':
         db='dev',
         charset='utf8')
     try:
-        # air_data = get_air_data(connection, '北京', '2017-01-01', '2017-12-31')
-        city_name_list = get_city_name_list(connection)
+        air_data = get_air_data(connection, '北京', '2014-07-01', '2014-07-31')
+        # city_name_list = get_city_name_list(connection)
         # print(city_name_list)
     finally:
         connection.close()
